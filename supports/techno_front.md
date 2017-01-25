@@ -12,3 +12,5 @@ Lui qui vous permer de sélectionner la police utilisée sur votre site.
 Lui encore qui permet de définir la taille du texte, les bordures, le fond...
 Et aussi, c'est lui qui permet de faire la mise en page de votre site. Vous pourrez dire : je veux que mon menu
 soit à gauche et occupe telle largeur, que l'en-tête de mon site soit calé en haut et qu'il soit toujours visible, etc.
+
+![image](https://user.oc-static.com/files/339001_340000/339428.png)

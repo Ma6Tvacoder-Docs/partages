@@ -1,3 +1,4 @@
+<a name=JavaScript>
 #**Javascript** 
 
 ##*Définition*
@@ -59,12 +60,12 @@ Sur les téléphones, pour le moment sur FirefoxOS et PhoneGap, il permet d’é
 
 ##*Comment déclencher le code JavaScript depuis le document HTML*
 Dans un navigateur, JavaScript ne fait rien « tout seul ». Il a besoin d'être lancé depuis les pages web HTML. Pour appeler du 
-code JavaScript depuis votre document HTML, vous aurez besoin de l'élément <script>.
+code JavaScript depuis votre document HTML, vous aurez besoin de l'élément `<script>`.
 
 Il y a deux méthodes pour utiliser script : 
 une qui sert lorsqu'on souhaite utiliser un script contenu dans un fichier tiers et une qui sert lorsqu'on intègre directement le 
 code du script dans la page web.
 Généralement, un script est écrit dans un fichier .js à part. Pour exécuter un script depuis un fichier dans la page web, il suffira 
-d'utiliser <script> avec un attribut src pointant vers le fichier du script en utilisant l'URL du fichier :
+d'utiliser `<script>` avec un attribut src pointant vers le fichier du script en utilisant l'URL du fichier :
 
     <script src="chemin/vers/le/script.js"></script>

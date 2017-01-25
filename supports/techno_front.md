@@ -1,3 +1,4 @@
+<a name="jquery" >
 # Jquery
 ## Définition
 
@@ -10,18 +11,4 @@ Jquery propose comme prinpale fonctionnalités de développer des plug ins,la ma
 
 ## Illustration du code
 
-<!doctype html>
-<html>
 
-  <head>
-     <title>Titre de la page</title>
-     <link rel="stylesheet" type="text/css" href="styles.css">
-  </head>
-
-  <body>
-     ...
-     <script src="jquery.js"></script>
-     <script src="mon_script.js"></script>
-  </body>
-
-</html>

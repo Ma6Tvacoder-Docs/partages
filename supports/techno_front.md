@@ -12,16 +12,24 @@ Jquery propose comme prinpale fonctionnalités de développer des plug ins,la ma
 
 ```
 
-jQuery(document).ready(function(){
-  console.log("jQuery est prêt !");
-});
-
-/*
- * Avec un alert()
- */
-
-jQuery(document).ready(function(){
- alert("jQuery est prêt !");
-});
+$( function() {
+    var state = true;
+    $( "#button" ).on( "click", function() {
+      if ( state ) {
+        $( "#effect" ).animate({
+          backgroundColor: "#aa0000",
+          color: "#fff",
+          width: 500
+        }, 1000 );
+      } else {
+        $( "#effect" ).animate({
+          backgroundColor: "#fff",
+          color: "#000",
+          width: 240
+        }, 1000 );
+      }
+      state = !state;
+    });
+  } );
 
 

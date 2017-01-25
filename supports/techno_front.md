@@ -4,8 +4,7 @@ jQuery  est une bibliothèque ou framework Javascript sous licence libre et mult
 Jquery est utilisable sur plusieurs navigateurs web.
 
 ##Utilisation
-Jquery propose comme prinpale fonctionnalités de développer des plug ins,la manipulation du Document Object Model, la gestion des évènements ( mouvements de souris,clics,etc),de l'AJAX,la création d'effets d'animation,la manipulation des feuilles de style en cascade.
-La bibliothèque Jquery permet aussi de gagner en rapidité dans l'interaction avec le code HTML d'une page Web. 
+Jquery propose comme prinpale fonctionnalités de développer des plug ins,la manipulation du Document Object Model, la gestion des évènements ( mouvements de souris,clics,etc),de l'AJAX,la création d'effets d'animation,la manipulation des feuilles de style en cascade.La bibliothèque Jquery permet aussi de gagner en rapidité dans l'interaction avec le code HTML d'une page Web.Ce framework ne nécéssite aucun installation particulière et peut être téléchargé depuis le site officiel.
 
 
 

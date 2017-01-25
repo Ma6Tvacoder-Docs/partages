@@ -10,7 +10,7 @@ Jquery propose comme prinpale fonctionnalités de développer des plug ins,la ma
 
 ## Exemple de code Jquery
 
-...
+```
 
 jQuery(document).ready(function(){
   console.log("jQuery est prêt !");
@@ -24,5 +24,4 @@ jQuery(document).ready(function(){
  alert("jQuery est prêt !");
 });
 
-...
 

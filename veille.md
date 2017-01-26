@@ -1,13 +1,56 @@
 
-#Veille
+[Amadou](#amadou)
+[](#)
+[](#)
+[Lowé](#cedric)
+[Omar](#omar)
+[](#)
+[](#)
+[](#)
+
+<a name="cedric">
+#Veille 
 
 ###Définition
   
   La veille informatique consiste a faire des recherches sur les diffenrentes avancées informatique pour les inclures dans sont propres travail 
   
 ### Chercher entre 3 et 5 outils de veille
+=======
+La veille informatique est le fait de se tenir a jour sur les techniques et nouveautés en rapport avec l'informatique.
 
-#La veille / @amadou
+Outils de veille:
+
+* Google.com et autres moteurs de recherche. Ils permettent une recherche claire d'un sujet précis, la fonction actualité du site 
+* google est aussi très utile pour se tenir a jour sur les différentes actualités (numériques ou autre).
+
+* Korben.info, Linuxfr.org et autres blogs de relai d'information.
+
+* Wikipédia.com et autres encyclopédies en lignes mises a jour régulièrement.
+
+* hardware.fr et autres forums en rapport avec l'informatique.
+
+* github.com
+
+---
+
+Test review du site korben.info:
+
+![alt text](http://korben.info/wp-content/themes/korben2013/hab/logo.png)
+
+Le blog de korben (Manuel Dorne) est mis a jour régulièrement par la publication d'articles variés en rapport avec l'informatique, 
+les technologies, le numérique. C'est la pertinence des informations et la qualité des tutoriels qui démarque un peu ce site d'autres blogs
+traitants des memes sujets.
+
+Les avantages: Des articles variés sur certaines nouveautés du web, de l'informatique ou de la robotique/électronique.
+Des articles pertinents en rapport avec la sécurité informatique et numérique.
+
+Les inconvénients: C'est un blog, les articles sont intéréssants et construits mais moins nombreux et plus sporadiques qu'un système
+de référencement automatisé tel que google actualité ou autre.
+Les articles concernent plus la sécurité ou les technologies que le numérique.
+
+<a name="amadou">
+#La veille 
 
 Démarche organisée visant à tenir au courant de ce qui se fait ou ce qui se dit dans un domaine particulier. le traitement d’informations et la diffusion de connaissances utiles à la maîtrise de son environnement et à la prise de décision.
 
@@ -51,7 +94,8 @@ On peut y trouver plusieurs types d'articles (News, Test de chaussures de basket
 * Difficile de trouver des articles anterieurs
 * Articles qui peuvent être inutiles
 
-#Définition de la veille / @omar
+<a name="omar">
+#Définition de la veille
 
 La veille consite à effectuer des recherches approffondies et actives, en grande partie itéractive visant un domaine  particulier comme  technologique, commercial, etc., pour en anticiper ces évolutions. Il s'agit en quelques sortes d'une récoltes d'informations sur un sujet donné en l'occurrence ici le numérique.
 
@@ -76,6 +120,7 @@ Les points faibles :
 + infos trop générales
 
 
+
 ## Définition
   
   [Linux.org : Méthode et outils pour la veille technologique](http://linuxfr.org/news/methode-et-outils-pour-la-veille-technologique)
@@ -94,7 +139,7 @@ Les points faibles :
   
 ## Choisir un outil et faire un 'test review'
 
-  
+ 
   1. Les flux RSS
   
        * Les numeriques
@@ -122,3 +167,5 @@ Inconveniant :
 
 * Securite 
 * fiabilite 
+=======
+

@@ -1,5 +1,6 @@
 # Technologie Back-end
 
+
 ---
 
 
@@ -84,6 +85,15 @@ Ajax permet ainsi d'effectuer des traitements sur le poste client (avec JavaScri
 Auparavant, toutes les modifications de pages étaient faites sur le serveur ce qui nécessitait des échanges maintenant inutiles. 
 
 ##**Exemple de code**
+
+    if (window.XMLHttpRequest)    //  Objet standard
+    { 
+    xhr = new XMLHttpRequest();     //  Firefox, Safari, ...
+    } 
+    else  if (window.ActiveXObject)      //  Internet Explorer
+    {
+    xhr = new ActiveXObject("Microsoft.XMLHTTP");
+
 
 
 

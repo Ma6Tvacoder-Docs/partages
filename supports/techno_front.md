@@ -1,7 +1,13 @@
 # TECHNO FRONT
 
+## Menu
+
 [HTML](#html)
-[Javascript](Javascript)
+[CSS](#css)
+[Boostrap](#bootstrap)
+[Framework](#framework)
+[Javascript](#Javascript)
+
 
 <a name="html">
 ##HTML
@@ -47,15 +53,22 @@ L’HyperText Markup Language permet de structurer sémantiquement et de mettre 
          </body> 
      </html>
      
-# QU'EST CE QUE LE CSS ?
+<a name="css">
 
-### 1. CSS ( Cascadings Style Sheet)  est un langage 
+## QU'EST CE QUE LE CSS ?
+
+### 1. *CSS ( Cascadings Style Sheet)*
+
+Le CSS est un langage 
 qui décrit le style d'un document HTML, il va 
 informé au navigateur comment les éléments HTML doivent etres afficher et va permettre a la mise en forme & la présentation des documents HTML et XML.
 Un site web peut être constitué par une simple page statique au format HTML 
 éventuellement mise en forme ou enrichie de CSS incluant des images et des liens vers d'autres contenus.
 
-### 2. UTILISATION
+![image](http://ideva.fr/wp-content/uploads/2013/01/css3-logo.jpg)
+
+### 2. *Utilisation*
+
 CSS ? C'est lui qui vous permet de choisir la couleur de votre texte.
 Lui qui vous permer de sélectionner la police utilisée sur votre site.
 Lui encore qui permet de définir la taille du texte, les bordures, le fond...
@@ -64,10 +77,10 @@ soit à gauche et occupe telle largeur, que l'en-tête de mon site soit calé en
 
    ![image](https://user.oc-static.com/files/339001_340000/339428.png)
 
-<a name="framwork">
-# *FRAMEWORK*
+<a name="framework">
+## Framework
 
-## Définition
+### *Définition*
 
 Un framework est un ensemble d'outils et de composants logiciels organisés conformément à un plan d'architecture et des **patterns**, l'ensemble formant ou promouvant un « squelette » de programme. Il est souvent fourni sous la forme d'une bibliothèque logicielle, et accompagné du plan de l'architecture cible du framework.
 
@@ -75,10 +88,10 @@ Un framework est conçu en vue d'aider les programmeurs dans leur travail. L'org
 
 On trouve différents types de frameworks :
 
-+ framework d'infrastructure système : pour développer des systèmes d'exploitation, des interfaces graphiques, des outils de communication (exemple : Framework .Net, Struts) ;
-+ framework d'intégration intergicielle (middleware) : pour fédérer des applications hétérogènes. Pour mettre à disposition différentes technologies sous la forme d'une interface unique ;
-+ frameworks d'entreprise : pour développer des applications spécifiques au secteur d'activité de l'entreprise ;
-+ frameworks de gestion de contenu : sont les fondations d'un système de gestion de contenu — pour la création, la collecte, le classement, le stockage et la publication de « biens numérisés ».
++ **framework d'infrastructure système** : pour développer des systèmes d'exploitation, des interfaces graphiques, des outils de communication (exemple : Framework .Net, Struts) ;
++ **framework d'intégration intergicielle (middleware)** : pour fédérer des applications hétérogènes. Pour mettre à disposition différentes technologies sous la forme d'une interface unique ;
++ **frameworks d'entreprise** : pour développer des applications spécifiques au secteur d'activité de l'entreprise ;
++ **frameworks de gestion de contenu** : sont les fondations d'un système de gestion de contenu — pour la création, la collecte, le classement, le stockage et la publication de « biens numérisés ».
 
 Les principaux avantages de ces frameworks sont la réutilisation de leur code, la standardisation du cycle de vie du logiciel (spécification, développement, maintenance, évolution), ils permettent de formaliser une architecture adaptée au besoin de l'entreprise. Ils tirent parti de l'expérience des développements antérieurs.
 
@@ -191,8 +204,12 @@ $( function() {
       state = !state;
     });
   } );
+```
 
-<a name="Bootstrap">
+```
+
+
+<a name="bootstrap">
 # Bootstrap
 
 ## Définition 
@@ -210,7 +227,6 @@ Les développeurs qui utilisent Bootstrap pour la création de leur site web cho
 | *Exemple de code bootstrap* |
 |---|
 
-```
 <!-- Bootstrap core CSS -->
    <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">  
    <nav class="navbar navbar-inverse navbar-fixed-top">
@@ -234,8 +250,9 @@ Les développeurs qui utilisent Bootstrap pour la création de leur site web cho
       </div>
     </nav>
     
-  ```
+
   
    
 Tout cela laisse présager de bonnes nouvelles pour les développeurs et les webmasters. Restez connectés pour la 2ème partie dans laquelle j’aborderai les raisons pour lesquelles intégrer Bootstrap à votre site web est la meilleure chose que vous pourriez faire. Merci de nous lire, n’hésitez pas à laisser vos commentaires sur Prestashop et Bootstrap ci-dessous !
+```
 

@@ -6,7 +6,7 @@
 + Node JS
 
 <a name="sql">
-#SQL                                                                                                       
+###SQL                                                                                                       
 
 ##### **SQL** qui signifie ,langage de requête structurée, est un langage informatique normalisé servant à exploiter des bases de données relationnelles. La partie langage de manipulation des données de **SQL** permet de rechercher, d'ajouter, de modifier ou de supprimer des données dans les bases de données relationnelles.
 
@@ -38,9 +38,9 @@ __________
 ---------
 
 <a name="ajax">
-##AJAX JS
+###AJAX JS
 
-##### AJAX est l'acronyme d'Asynchronous JavaScript and XML, ce qui, transcrit en français, signifie « JavaScript et XML asynchrones ».
+### AJAX est l'acronyme d'Asynchronous JavaScript and XML, ce qui, transcrit en français, signifie « JavaScript et XML asynchrones ».
 ![alt text](http://javascriptsolution.com/wp-content/uploads/2016/05/AJAX_logo_by_gengns.svg_.png)
 
 Derrière ce nom se cache un ensemble de technologies destinées à réaliser de rapides mises à jour du contenu d'une page Web, sans qu'elles nécessitent le moindre rechargement visible par l'utilisateur de la page Web. Les technologies employées sont diverses et dépendent du type de requêtes que l'on souhaite utiliser, mais d'une manière générale le JavaScript est constamment présent.
@@ -72,7 +72,7 @@ Auparavant, toutes les modifications de pages étaient faites sur le serveur ce 
 
 <a name="CakePHP">
 
-##CakePHP
+###CakePHP
 
 ![alt text](https://upload.wikimedia.org/wikipedia/fr/9/9a/Cake-logo.png)
 
@@ -112,7 +112,7 @@ CakePHP est un framework  il propose une structure au programmeur qui lui permet
 
 <a name="Symphony 3">
 
-##Symfony
+###Symfony
 
 ![alt text] (https://symfony.com/images/v5/logos/header-logo.svg)
 
@@ -151,7 +151,7 @@ Un petit exemple de code en PHP:
 
 <a name="Node.js">
 
-##Node.js
+###Node.js
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-170px-Node.js_logo.svg.png)
 ---
 

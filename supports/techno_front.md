@@ -149,6 +149,40 @@ Généralement, un script est écrit dans un fichier .js à part. Pour exécuter
 d'utiliser `<script>` avec un attribut src pointant vers le fichier du script en utilisant l'URL du fichier :
 
     <script src="chemin/vers/le/script.js"></script>
+    
+<a name="jquery" >
+# Jquery
+## Définition
+
+jQuery est une bibliothèque ou framework Javascript sous licence libre et multiplateforme qui permet de faciliter des fonctionnalités communes de Javascript.Jquery est utilisable sur plusieurs navigateurs web.
+
+##Utilisation
+
+Jquery propose comme prinpale fonctionnalités de développer des plug ins,la manipulation du Document Object Model, la gestion des évènements ( mouvements de souris,clics,etc),de l'AJAX,la création d'effets d'animation,la manipulation des feuilles de style en cascade.La bibliothèque Jquery permet aussi de gagner en rapidité dans l'interaction avec le code HTML d'une page Web.Ce framework ne nécéssite aucun installation particulière et peut être téléchargé depuis le site officiel https://jquery.com/ .
+
+## Exemple de code Jquery
+
+```
+
+$( function() {
+    var state = true;
+    $( "#button" ).on( "click", function() {
+      if ( state ) {
+        $( "#effect" ).animate({
+          backgroundColor: "#aa0000",
+          color: "#fff",
+          width: 500
+        }, 1000 );
+      } else {
+        $( "#effect" ).animate({
+          backgroundColor: "#fff",
+          color: "#000",
+          width: 240
+        }, 1000 );
+      }
+      state = !state;
+    });
+  } );
 
 <a name="Bootstrap">
 # Bootstrap
@@ -194,8 +228,7 @@ Les développeurs qui utilisent Bootstrap pour la création de leur site web cho
     
   ```
   
-
-    
+   
 Tout cela laisse présager de bonnes nouvelles pour les développeurs et les webmasters. Restez connectés pour la 2ème partie dans laquelle j’aborderai les raisons pour lesquelles intégrer Bootstrap à votre site web est la meilleure chose que vous pourriez faire. Merci de nous lire, n’hésitez pas à laisser vos commentaires sur Prestashop et Bootstrap ci-dessous !
 
 

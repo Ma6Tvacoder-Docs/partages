@@ -1,8 +1,7 @@
-
-
 # TECHNO FRONT
 
 [HTML](#html)
+[CSS](#css)
 [Framework](#framework)
 [Javascript](Javascript)
 
@@ -51,15 +50,22 @@ L’HyperText Markup Language permet de structurer sémantiquement et de mettre 
          </body> 
      </html>
      
-# QU'EST CE QUE LE CSS ?
+<a name="css">
 
-### 1. CSS ( Cascadings Style Sheet)  est un langage 
+## QU'EST CE QUE LE CSS ?
+
+### 1. *CSS ( Cascadings Style Sheet)*
+
+Le CSS est un langage 
 qui décrit le style d'un document HTML, il va 
 informé au navigateur comment les éléments HTML doivent etres afficher et va permettre a la mise en forme & la présentation des documents HTML et XML.
 Un site web peut être constitué par une simple page statique au format HTML 
 éventuellement mise en forme ou enrichie de CSS incluant des images et des liens vers d'autres contenus.
 
-### 2. UTILISATION
+![image](http://ideva.fr/wp-content/uploads/2013/01/css3-logo.jpg)
+
+### 2. *Utilisation*
+
 CSS ? C'est lui qui vous permet de choisir la couleur de votre texte.
 Lui qui vous permer de sélectionner la police utilisée sur votre site.
 Lui encore qui permet de définir la taille du texte, les bordures, le fond...

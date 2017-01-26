@@ -1,16 +1,20 @@
-#Technologie Back-End
+#Technologie Back-end
+
+---
 
 
-##Sommaire:
- [SQL](#sql)
+##table des matières
 
- [Ajax](#ajax)
+[SQL](#sql)
 
- [CakePHP](#CakePHP)
+[Ajax](#ajax)
 
- [Symfony](#Symfony)
+[CakePHP](#CakePHP)
 
- [Node.js](#Node.js)
+[Symfony](#Symfony)
+
+[Node.js](#Node.js)
+
 
 
 
@@ -18,6 +22,7 @@
 ##SQL                                                                                                       
 
 ![alt text](http://pacificsky.ru/uploads/posts/2016-05/medium/1462952738_sql.png)
+
 
 ##### **SQL** qui signifie ,langage de requête structurée, est un langage informatique normalisé servant à exploiter des bases de données relationnelles. La partie langage de manipulation des données de **SQL** permet de rechercher, d'ajouter, de modifier ou de supprimer des données dans les bases de données relationnelles.
 

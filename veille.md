@@ -1,10 +1,10 @@
 # Veille
 
-  ## Définition
+## Définition
   
   [Linux.org : Méthode et outils pour la veille technologique](http://linuxfr.org/news/methode-et-outils-pour-la-veille-technologique)
   
-  ## Chercher entre 3 et 5 outils de veille
+## Chercher entre 3 et 5 outils de veille
   
   [Muzli 2 : extension Chrome](https://chrome.google.com/webstore/detail/muzli-2-stay-inspired/glcipcfhmopcgidicgdociohdoicpdfc/related?hl=en)
   
@@ -16,6 +16,5 @@
   
   [Pocket.com : Trouver son contenu et le conserver pour le retrouver plus tard](https://www.getpocket.com/)
   
-  
-  ## Choisir un outil et faire un 'test review'
+## Choisir un outil et faire un 'test review'
   

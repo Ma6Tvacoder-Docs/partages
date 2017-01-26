@@ -1,5 +1,6 @@
 # Technologie Back-end
 
+
 ---
 
 
@@ -16,11 +17,8 @@
 [Node.js](#Node.js)
 
 
-
-
-<a name="sql">
-### SQL                                                                                                       
-
+<a name="sql">                                                                                                   
+# SQL
 
 ![alt text](http://pacificsky.ru/uploads/posts/2016-05/medium/1462952738_sql.png)
 
@@ -87,6 +85,15 @@ Ajax permet ainsi d'effectuer des traitements sur le poste client (avec JavaScri
 Auparavant, toutes les modifications de pages étaient faites sur le serveur ce qui nécessitait des échanges maintenant inutiles. 
 
 ##**Exemple de code**
+
+    if (window.XMLHttpRequest)    //  Objet standard
+    { 
+    xhr = new XMLHttpRequest();     //  Firefox, Safari, ...
+    } 
+    else  if (window.ActiveXObject)      //  Internet Explorer
+    {
+    xhr = new ActiveXObject("Microsoft.XMLHTTP");
+
 
 
 

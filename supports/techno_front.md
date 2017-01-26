@@ -192,6 +192,9 @@ $( function() {
     });
   } );
 
+```
+
+
 <a name="Bootstrap">
 # Bootstrap
 
@@ -238,4 +241,5 @@ Les développeurs qui utilisent Bootstrap pour la création de leur site web cho
   
    
 Tout cela laisse présager de bonnes nouvelles pour les développeurs et les webmasters. Restez connectés pour la 2ème partie dans laquelle j’aborderai les raisons pour lesquelles intégrer Bootstrap à votre site web est la meilleure chose que vous pourriez faire. Merci de nous lire, n’hésitez pas à laisser vos commentaires sur Prestashop et Bootstrap ci-dessous !
+```
 

@@ -1,11 +1,27 @@
+#Technologie Back-End
+
+
+##Sommaire:
+ [SQL](#sql)
+
+ [Ajax](#ajax)
+
+ [CakePHP](#CakePHP)
+
+ [Symfony](#Symfony)
+
+ [Node.js](#Node.js)
+
+
+
 <a name="sql">
-#SQL                                                                                                       
+##SQL                                                                                                       
+
+![alt text](http://pacificsky.ru/uploads/posts/2016-05/medium/1462952738_sql.png)
 
 ##### **SQL** qui signifie ,langage de requête structurée, est un langage informatique normalisé servant à exploiter des bases de données relationnelles. La partie langage de manipulation des données de **SQL** permet de rechercher, d'ajouter, de modifier ou de supprimer des données dans les bases de données relationnelles.
 
 __________
-
-
 
 
 Le langage **SQL** s'utilise principalement de trois manières :
@@ -106,7 +122,7 @@ CakePHP est un framework  il propose une structure au programmeur qui lui permet
 [cakePHP](https://cakephp.org/)
 
 
-<a name="Symphony 3">
+<a name="Symfony">
 
 ##Symfony
 
@@ -127,7 +143,7 @@ conception de pages web dynamiques, en tant que langage script coté serveur (ba
 Le PHP, qui était a la base une bibliothèque logicielle du langage C, est désormais le langage de programmation web back-end 
 le plus utilisé au monde. Le PHP sert a traiter et générer le code final de la page qui sera affichée a l'utilisateur web.
 
-Un petit exemple de code en PHP:
+####Un petit exemple de code en PHP:
 
     <?php
 

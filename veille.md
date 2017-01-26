@@ -33,7 +33,7 @@ On peut y trouver plusieurs types d'articles (News, Test de chaussures de basket
  
 #Les Plus
 
-*Actualité du basket en live
+* Actualité du basket en live
 * forum communautaire
 * Accessible à tous
 * Annonce des differents évènements liés au basket

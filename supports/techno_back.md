@@ -86,6 +86,15 @@ Auparavant, toutes les modifications de pages étaient faites sur le serveur ce 
 
 ##**Exemple de code**
 
+    if (window.XMLHttpRequest)    //  Objet standard
+    { 
+    xhr = new XMLHttpRequest();     //  Firefox, Safari, ...
+    } 
+    else  if (window.ActiveXObject)      //  Internet Explorer
+    {
+    xhr = new ActiveXObject("Microsoft.XMLHTTP");
+
+
 
 
 <a name="CakePHP">

@@ -126,7 +126,7 @@ conception de pages web dynamiques, en tant que langage script coté serveur (ba
 Le PHP, qui était a la base une bibliothèque logicielle du langage C, est désormais le langage de programmation web back-end 
 le plus utilisé au monde. Le PHP sert a traiter et générer le code final de la page qui sera affichée a l'utilisateur web.
 
-Un petit exemple de code en PHP:
+####Un petit exemple de code en PHP:
 
     <?php
 

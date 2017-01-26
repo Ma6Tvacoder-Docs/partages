@@ -38,6 +38,8 @@ J'ai tester : Twitter
 + Accessible et rapide
 + Visibilité importante & Bouche a oreilles instantanés
 
-- Publicité recurrente ou mauvaise
-- 
-- 
+### Inconvenients
+
++ Publicité recurrente ou mauvaise
++ Time Line
+ 

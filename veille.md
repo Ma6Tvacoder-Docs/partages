@@ -1,4 +1,29 @@
-# Qu'est ce que la "Veille informatique" ?
+[Amadou](#amadou)
+
+[Annissa](#annissa)
+
+[Catherine](#catherine)
+
+[James](#james)
+
+[Lakhdar](#)
+
+[Lowé](#cedric)
+
+[Mariam](#mariam)
+
+[Mohamadou](#)
+
+[Omar](#omar)
+
+[Stevy](#stevy)
+
+[Marie-Hélène](#mila)
+
+---
+
+<a name="lakhdar">
+# Qu'est ce que la "Veille informatique" ? / @lakhdar
 
 ## *Définition*
 
@@ -28,28 +53,6 @@ Les Désaventages :
 + divulguer des informations personelle en pensant le faire de manière privée.
 + Ne plus pouvoir supprimer ces informations personelle.
 + Trouver de fausse informations.
-
-[Amadou](#amadou)
-
-[Annissa](#annissa)
-
-[Catherine](#catherine)
-
-[James](#james)
-
-[Lakhdar](#)
-
-[Lowé](#cedric)
-
-[Mariam](#mariam)
-
-[Mohamadou](#)
-
-[Omar](#omar)
-
-[Stevy](#stevy)
-
-[Marie-Hélène](#mila)
 
 ---
 

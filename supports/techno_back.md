@@ -16,11 +16,8 @@
 [Node.js](#Node.js)
 
 
-
-
-<a name="sql">
-### SQL                                                                                                       
-
+<a name="sql">                                                                                                   
+# SQL
 
 ![alt text](http://pacificsky.ru/uploads/posts/2016-05/medium/1462952738_sql.png)
 

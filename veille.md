@@ -1,4 +1,36 @@
 
+La veille informatique est le fait de se tenir a jour sur les techniques et nouveautés en rapport avec l'informatique.
+
+Outils de veille:
+
+* Google.com et autres moteurs de recherche. Ils permettent une recherche claire d'un sujet précis, la fonction actualité du site 
+* google est aussi très utile pour se tenir a jour sur les différentes actualités (numériques ou autre).
+
+* Korben.info, Linuxfr.org et autres blogs de relai d'information.
+
+* Wikipédia.com et autres encyclopédies en lignes mises a jour régulièrement.
+
+* hardware.fr et autres forums en rapport avec l'informatique.
+
+* github.com
+
+---
+
+Test review du site korben.info:
+
+![alt text](http://korben.info/wp-content/themes/korben2013/hab/logo.png)
+
+Le blog de korben (Manuel Dorne) est mis a jour régulièrement par la publication d'articles variés en rapport avec l'informatique, 
+les technologies, le numérique. C'est la pertinence des informations et la qualité des tutoriels qui démarque un peu ce site d'autres blogs
+traitants des memes sujets.
+
+Les avantages: Des articles variés sur certaines nouveautés du web, de l'informatique ou de la robotique/électronique.
+Des articles pertinents en rapport avec la sécurité informatique et numérique.
+
+Les inconvénients: C'est un blog, les articles sont intéréssants et construits mais moins nombreux et plus sporadiques qu'un système
+de référencement automatisé tel que google actualité ou autre.
+Les articles concernent plus la sécurité ou les technologies que le numérique.
+
 #La veille / @amadou
 
 Démarche organisée visant à tenir au courant de ce qui se fait ou ce qui se dit dans un domaine particulier. le traitement d’informations et la diffusion de connaissances utiles à la maîtrise de son environnement et à la prise de décision.
@@ -69,8 +101,8 @@ Les points faibles :
 + infos trop générales
 
 
+## Définition
 
-## Définition @annissam
   
   [Linux.org : Méthode et outils pour la veille technologique](http://linuxfr.org/news/methode-et-outils-pour-la-veille-technologique)
   
@@ -89,6 +121,7 @@ Les points faibles :
 ## Choisir un outil et faire un 'test review'
 
 
+## Définition @annissam
   
  #Veille Informatique
 
@@ -160,3 +193,4 @@ il faut bien choisir ses abonnements pour ne pas avoir affaire à de la désinfo
 On trouve de l’information partout dans chaque tweet on peut vite se perdre et procrastiner ;
 Le suivi des hashtags est fastidieux si on en choisit un qui fonctionne beaucoup. On ne peut pas tout lire. Il faut donc bien savoir choisir ce dernier ;
 La limite des caractères peut empêcher une vraie critique de l’information.
+

@@ -1,4 +1,22 @@
 
+[Amadou](#amadou)
+[Annissa](#annissa)
+[](#)
+[Lowé](#cedric)
+[Omar](#omar)
+[](#)
+[](#)
+[](#)
+
+<a name="cedric">
+#Veille 
+
+###Définition
+  
+  La veille informatique consiste a faire des recherches sur les diffenrentes avancées informatique pour les inclures dans sont propres travail 
+  
+### Chercher entre 3 et 5 outils de veille
+=======
 La veille informatique est le fait de se tenir a jour sur les techniques et nouveautés en rapport avec l'informatique.
 
 Outils de veille:
@@ -14,6 +32,34 @@ Outils de veille:
 
 * github.com
 
+  1. Les flux RSS
+  
+       * Les numeriques
+       * JeuxVideo
+
+  3. Les agrégateurs
+       
+       * Scoop.it : Scoop.it est un service de curation et de partage de veille de contenus web sur un sujet ou une thématique ciblés,                         présenté sous la forme d'un journal en ligne actualisable en temps réel. Il peut-être utilisé : en veille active ou                       passive (publier un journal en partageant sa veille, ou s'abonner à des sujets/journaux créés par d'autres                                 utilisateurs) ; en tant qu'outil de promotion d'une expertise ou d'un savoir-faire particulier ; ou encore en                             synergie avec d'autre réseaux (ex : partager son journal Scoop.it via Twitter, LinkedIn, etc) pour enrichir                               l'animation de ses comptes sociaux.
+       * Netvibes : créé en 2005 par une startup française et à londonienne et appartient depuis 2012 au groupe Dassault système. Il                           permet de se constituer un site web personnel articulé en module. Ils sont facile à réorganiser en les déplaçant,                         ajoutant ou supprimant. Il suffit de créer un compte et se constitue de deux parties, une privée et une publique.                         Cette deuxième partie permet aux autres utilisateurs de prendre des références et d’alimenter sa propre page.                             L’avantage de ce site est qu’il contient Netvibes Ecosystem qui est une grande base de données de modules classés                         par catégories ainsi que des annuaires de flux RSS et podcasts.
+
+  5. Les reseaux sociaux
+  
+       * Il a l’avantage de ne pas déranger l’interlocuteur et de partager sur un même thème. Cependant le lien est vite perdu au sein du          forum s’il est très actif.
+  
+### Choisir un outil et faire un 'test review'
+ 
+ ###Facebook
+ 
+ Avantage :
+ 
+* Enormement d'information 
+* Du contenue divers
+
+Inconveniant :
+
+* Securite 
+* fiabilite 
+=======
 ---
 
 Test review du site korben.info:
@@ -31,7 +77,8 @@ Les inconvénients: C'est un blog, les articles sont intéréssants et construit
 de référencement automatisé tel que google actualité ou autre.
 Les articles concernent plus la sécurité ou les technologies que le numérique.
 
-#La veille / @amadou
+<a name="amadou">
+#La veille 
 
 Démarche organisée visant à tenir au courant de ce qui se fait ou ce qui se dit dans un domaine particulier. le traitement d’informations et la diffusion de connaissances utiles à la maîtrise de son environnement et à la prise de décision.
 
@@ -75,8 +122,9 @@ On peut y trouver plusieurs types d'articles (News, Test de chaussures de basket
 * Difficile de trouver des articles anterieurs
 * Articles qui peuvent être inutiles
 
+<a name="omar">
+#Définition de la veille
 
-#Définition de la veille / @omar
 
 La veille consite à effectuer des recherches approffondies et actives, en grande partie itéractive visant un domaine  particulier comme  technologique, commercial, etc., pour en anticiper ces évolutions. Il s'agit en quelques sortes d'une récoltes d'informations sur un sujet donné en l'occurrence ici le numérique.
 
@@ -120,7 +168,7 @@ Les points faibles :
   
 ## Choisir un outil et faire un 'test review'
 
-
+<a name="annissa">
 ## Définition @annissam
   
  #Veille Informatique
@@ -193,4 +241,6 @@ il faut bien choisir ses abonnements pour ne pas avoir affaire à de la désinfo
 On trouve de l’information partout dans chaque tweet on peut vite se perdre et procrastiner ;
 Le suivi des hashtags est fastidieux si on en choisit un qui fonctionne beaucoup. On ne peut pas tout lire. Il faut donc bien savoir choisir ce dernier ;
 La limite des caractères peut empêcher une vraie critique de l’information.
-
+=======
+ 
+ 

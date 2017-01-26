@@ -1,11 +1,31 @@
-<a name="sql">
-#SQL                                                                                                       
+# Technologie Back-end
+
+
+---
+
+
+## table des matières
+
+[SQL](#sql)
+
+[Ajax](#ajax)
+
+[CakePHP](#CakePHP)
+
+[Symfony](#Symfony)
+
+[Node.js](#Node.js)
+
+
+<a name="sql">                                                                                                   
+# SQL
+
+![alt text](http://pacificsky.ru/uploads/posts/2016-05/medium/1462952738_sql.png)
+
 
 ##### **SQL** qui signifie ,langage de requête structurée, est un langage informatique normalisé servant à exploiter des bases de données relationnelles. La partie langage de manipulation des données de **SQL** permet de rechercher, d'ajouter, de modifier ou de supprimer des données dans les bases de données relationnelles.
 
 __________
-
-
 
 
 Le langage **SQL** s'utilise principalement de trois manières :
@@ -33,8 +53,10 @@ __________
 <a name="ajax">
 ##AJAX JS
 
-##### AJAX est l'acronyme d'Asynchronous JavaScript and XML, ce qui, transcrit en français, signifie « JavaScript et XML asynchrones ».
+
+### AJAX est l'acronyme d'Asynchronous JavaScript and XML, ce qui, transcrit en français, signifie « JavaScript et XML asynchrones ».
 ![alt text](http://javascriptsolution.com/wp-content/uploads/2016/05/AJAX_logo_by_gengns.svg_.png)
+
 
 Derrière ce nom se cache un ensemble de technologies destinées à réaliser de rapides mises à jour du contenu d'une page Web, sans qu'elles nécessitent le moindre rechargement visible par l'utilisateur de la page Web. Les technologies employées sont diverses et dépendent du type de requêtes que l'on souhaite utiliser, mais d'une manière générale le JavaScript est constamment présent.
 D'autres langages sont bien entendu pris en compte comme le HTML et le CSS, qui servent à l'affichage, mais ceux-ci ne sonts pas inclus dans le processus de communication. Le transfert de données est géré exclusivement par le JavaScript, et utilise certaines technologies de formatage de données, comme le XML ou le JSON.
@@ -62,10 +84,22 @@ Par exemple le contenu d'un champ de formulaire peut être changé, sans avoir �
 Ajax permet ainsi d'effectuer des traitements sur le poste client (avec JavaScript) à partir d'informations prises sur le serveur. Cela répartit la charge de traitement.
 Auparavant, toutes les modifications de pages étaient faites sur le serveur ce qui nécessitait des échanges maintenant inutiles. 
 
+##**Exemple de code**
+
+    if (window.XMLHttpRequest)    //  Objet standard
+    { 
+    xhr = new XMLHttpRequest();     //  Firefox, Safari, ...
+    } 
+    else  if (window.ActiveXObject)      //  Internet Explorer
+    {
+    xhr = new ActiveXObject("Microsoft.XMLHTTP");
+
+
+
 
 <a name="CakePHP">
 
-##CakePHP
+###CakePHP
 
 ![alt text](https://upload.wikimedia.org/wikipedia/fr/9/9a/Cake-logo.png)
 
@@ -103,9 +137,9 @@ CakePHP est un framework  il propose une structure au programmeur qui lui permet
 [cakePHP](https://cakephp.org/)
 
 
-<a name="Symphony 3">
+<a name="Symfony">
 
-##Symfony
+###Symfony
 
 ![alt text] (https://symfony.com/images/v5/logos/header-logo.svg)
 
@@ -124,7 +158,7 @@ conception de pages web dynamiques, en tant que langage script coté serveur (ba
 Le PHP, qui était a la base une bibliothèque logicielle du langage C, est désormais le langage de programmation web back-end 
 le plus utilisé au monde. Le PHP sert a traiter et générer le code final de la page qui sera affichée a l'utilisateur web.
 
-Un petit exemple de code en PHP:
+####Un petit exemple de code en PHP:
 
     <?php
 
@@ -144,7 +178,7 @@ Un petit exemple de code en PHP:
 
 <a name="Node.js">
 
-##Node.js
+###Node.js
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-170px-Node.js_logo.svg.png)
 ---
 
@@ -177,3 +211,4 @@ Un langage de programmation est dit de bas niveau lorsque le codage de celui-ci 
 ####Lien du site web du framework
 
 [Node.js](https://nodejs.org/)
+

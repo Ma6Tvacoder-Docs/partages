@@ -2,15 +2,15 @@
 
 
 ##Sommaire:
-# [SQL](#sql)
+ [SQL](#sql)
 
-# [Ajax](#ajax)
+ [Ajax](#ajax)
 
-# [CakePHP](#CakePHP)
+ [CakePHP](#CakePHP)
 
-# [Symfony](#Symfony)
+ [Symfony](#Symfony)
 
-# [Node.js](#Node.js)
+ [Node.js](#Node.js)
 
 
 

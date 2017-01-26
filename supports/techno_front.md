@@ -1,3 +1,4 @@
+[Javascript](Javascript)
 <a name="html">
 ##HTML
 
@@ -79,14 +80,16 @@ Les principaux avantages de ces frameworks sont la réutilisation de leur code, 
 **Patterns** : Le mot anglais « pattern » est souvent utilisé pour désigner un modèle, une structure, un motif, un type, etc. Il s'agit souvent d'un phénomène ou d'une organisation que l'on peut observer de façon répétée lors de l'étude de certains sujets, auquel il peut conférer des propriétés caractéristiques.
 
 <a name=JavaScript>
-#**Javascript** 
+##**Javascript** 
 
-##*Définition*
+![image](http://www.logotypes101.com/logos/531/E9BC19EB93F4FEA9236932ABAD8A7CFF/js.png)
+
+###**_Définition_**
 Le JavaScript est un langage informatique utilisé sur les pages web. Ce langage à la particularité de s'activer sur le poste client, 
 en d'autres mots c'est votre ordinateur qui va recevoir le code et qui devra l'exécuter. C'est en opposition à d'autres langages qui 
 sont activé côté serveur. L'exécution du code est effectué par votre navigateur internet tel que Firefox ou Internet Explorer.
 
-##*Ce que cest*
+###*_Ce que c'est ?_*
 Javascript est un langage de programmation, c’est une forme de code qui permet, quand on sait l’écrire, de dicter à l’ordinateur quoi 
 faire. C’est du texte. Juste du texte. Comme une autre langue. On trouve la majorité du code Javascript dans des pages Web, même si 
 vous ne le voyez pas s’afficher. En effet, c’est le seul langage qui permette de dicter à un navigateur Web (Internet Explorer, Firefox,
@@ -104,7 +107,7 @@ Le code Javascript ressemble à ça :
    
     }, 100)
 
-##*Ce qu'on peut faire avec*
+###**_Ce qu'on peut faire avec ?_**
 La plupart du code Javascript se trouve dans des pages Web, et sert donc à dire comme la page Web doit réagir. Cela marche ainsi :
 
 L’utilisateur clique sur un lien ou entre une adresse.
@@ -130,7 +133,7 @@ elles ont été produites avec Javascript.
 Certains sites Web ne pourrait tout simplement pas fonctionner sans Javascript. C’est le cas de Facebook, Youtube ou Twitter qui 
 utilisent le langage pour presque tout leur affichage. La page de recherche de Google, en revanche, peut fonctionner sans Javascript.
 
-##*Javascript, en dehors d’un navigateur Web*
+###**_Javascript, en dehors d’un navigateur Web_**
 Avec l’amélioration des performances de Javascript, le langage a été de plus en plus utilisé en dehors du navigateur Web. 
 On le retrouve aujourd’hui un peu partout :
 
@@ -138,7 +141,7 @@ Sur les serveurs, l’exemple le plus célèbre étant NodeJS, un outil qui perm
 navigateur.Sur les interfaces des ordinateurs, il permet d’afficher des fenêtres et des boutons (Scripting QT, Gnome Shell).
 Sur les téléphones, pour le moment sur FirefoxOS et PhoneGap, il permet d’écrire des applications.
 
-##*Comment déclencher le code JavaScript depuis le document HTML*
+###**_Comment déclencher le code JavaScript depuis le document HTML_**
 Dans un navigateur, JavaScript ne fait rien « tout seul ». Il a besoin d'être lancé depuis les pages web HTML. Pour appeler du 
 code JavaScript depuis votre document HTML, vous aurez besoin de l'élément `<script>`.
 

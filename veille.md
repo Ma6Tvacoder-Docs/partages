@@ -1,46 +1,37 @@
-#Définition de la veille
+#Veille
 
-La veille consite à effectuer des recherches approffondies et actives, en grande partie itéractive visant un domaine  particulier comme  technologique, commercial, etc., pour en anticiper ces évolutions. Il s'agit en quelques sortes d'une récoltes d'informations sur un sujet donné en l'occurrence ici le numérique.
+##Définition
+  
+  La veille informatique est un concept qui consiste à se tenir au courant des avancées technologiques dans le domaine de l'informatique afin d'anticiper les futurs besoins.
+  
+  
+## Outils de veille
+  
+###Google alerts
+  Google alerts consiste a rentré des mots-clés à surveiller. Vous recevrez ensuite par e-mail, les articles qui traitent du sujet. Il n’y a pas plus simple…
+  
+###Alerti
+  cet outil sert a trouver des influenceurs qui sont dans le secteur d’activité informatique, et faire remonter des résultats qui proviennent des médias sociaux.
+  
+###twitter
 
-#Chercher entre 3 et 5 outils de veille
-1. Le « micro-blogging »( twitter)
-2. Newsletters
-3. Moteur de recherche ( Google)
-4. Réseaux sociaux(Facebook)
-5. Sites spécialisés(clubic,znet)
-6. Les sites de partage de favoris 
+avec cet outil on peut organiser une veille informatique en direct, il permet de s'abonner a plusieur profil d'informaion.
+   
   
-#Choisir un outil et faire un 'test review'
- **Clubic( site internet)**
-
-Les points forts : 
-+ Infos générales sur le monde numérique et videoludique
-+ infos accessibles
-+ Abordent différents sujets,différents.
-
-Les points faibles : 
-+ Informations non approndies
-+ infos trop générales
-
-
-
-=======
-## Définition
-  
-  [Linux.org : Méthode et outils pour la veille technologique](http://linuxfr.org/news/methode-et-outils-pour-la-veille-technologique)
-  
-## Chercher entre 3 et 5 outils de veille
-  
-  [Muzli 2 : extension Chrome](https://chrome.google.com/webstore/detail/muzli-2-stay-inspired/glcipcfhmopcgidicgdociohdoicpdfc/related?hl=en)
-  
-  [Google actualités](https://news.google.fr/)
-  
-  [News-republic : Toutes vos publications au même endroit](http://www.news-republic.com/)
-  
-  [Netvibes.com : Prenez le contrôle de votre vie numérique](http://www.netvibes.com/fr)
-  
-  [Pocket.com : Trouver son contenu et le conserver pour le retrouver plus tard](https://www.getpocket.com/)
   
 ## Choisir un outil et faire un 'test review'
 
+###Google alerts
+
+####Avantage
+
+###Suivre l’actualité de son secteur: 
+une alerte sur certains produits ou services clés vous permet de vous tenir au courant de l’évolution et des tendances du marché.
+Rester au fait des actions des concurrents: pour connaître toutes les activités de vos concurrents: promotions,  nouveautés, événements, mentions dans la presse ou articles qui parlent d’eux.
+
+###Surveiller  sa réputation:
+en créant une alerte sur votre nom, votre société ou votre marque.  Vous découvrirez ainsi ce qui se dit sur vous, sur vos produits ou sur votre entreprise.
+
+###Protéger son contenu:
+les alertes peuvent aussi vous aider à détecter tout plagiat ou copie de vos produits, services, articles ou publications.
   

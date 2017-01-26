@@ -1,19 +1,24 @@
+# TECHNO FRONT
+
+[HTML](#html)
 [Javascript](Javascript)
+
 <a name="html">
 ##HTML
 
-**_Definition: Language structurel_**
+![image](http://infodocb.cluster014.ovh.net/wp-content/uploads/2012/07/html-icon.png)
 
-L’HyperText Markup Language, généralement abrégé HTML, est le format de données conçu pour représenter les pages web. C’est un langage de balisage permettant d’écrire de l’hypertexte.
+
+L'HyperText Markup Language, généralement abrégé HTML, est le format de données conçu pour représenter les pages web. C’est un langage de balisage permettant d’écrire de l’hypertexte.
 Un document HTML contient des balises qui permettent d'être utilisées d'une certaine façon pour décrire correctement la structure d'un document.
 Les balises indiquent au navigateur comment afficher le document, certaines balises permettent d'intégrer différents médias comme des images, des vidéos ou des musiques parmi le texte de la page.
 
-**_Fonction_**
+###**_Fonction_**
 
 L’HyperText Markup Language permet de structurer sémantiquement et de mettre en forme le contenu des pages, d’inclure des ressources multimédias dont des images, des formulaires de saisie, et des programmes informatiques. Il permet de créer des documents interopérables avec des équipements très variés de manière conforme aux exigences de l’accessibilité du web. Il est souvent utilisé conjointement avec des langages de programmation (JavaScript) et des formats de présentation (feuilles de style en cascade)
 
 
-###fichier d'exemple
+###**_Fichier d'exemple_**
 
     <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
     <html>

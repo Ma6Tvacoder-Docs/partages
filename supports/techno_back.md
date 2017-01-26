@@ -1,11 +1,31 @@
-<a name="sql">
-#SQL                                                                                                       
+# Technologie Back-end
+
+
+---
+
+
+## table des matières
+
+[SQL](#sql)
+
+[Ajax](#ajax)
+
+[CakePHP](#CakePHP)
+
+[Symfony](#Symfony)
+
+[Node.js](#Node.js)
+
+
+<a name="sql">                                                                                                   
+# SQL
+
+![alt text](http://pacificsky.ru/uploads/posts/2016-05/medium/1462952738_sql.png)
+
 
 ##### **SQL** qui signifie ,langage de requête structurée, est un langage informatique normalisé servant à exploiter des bases de données relationnelles. La partie langage de manipulation des données de **SQL** permet de rechercher, d'ajouter, de modifier ou de supprimer des données dans les bases de données relationnelles.
 
 __________
-
-
 
 
 Le langage **SQL** s'utilise principalement de trois manières :
@@ -33,8 +53,10 @@ __________
 <a name="ajax">
 ##AJAX JS
 
-##### AJAX est l'acronyme d'Asynchronous JavaScript and XML, ce qui, transcrit en français, signifie « JavaScript et XML asynchrones ».
-![alt text](http://www.abondance.com/Bin/ajax-web-logo.jpg)
+
+### AJAX est l'acronyme d'Asynchronous JavaScript and XML, ce qui, transcrit en français, signifie « JavaScript et XML asynchrones ».
+![alt text](http://javascriptsolution.com/wp-content/uploads/2016/05/AJAX_logo_by_gengns.svg_.png)
+
 
 Derrière ce nom se cache un ensemble de technologies destinées à réaliser de rapides mises à jour du contenu d'une page Web, sans qu'elles nécessitent le moindre rechargement visible par l'utilisateur de la page Web. Les technologies employées sont diverses et dépendent du type de requêtes que l'on souhaite utiliser, mais d'une manière générale le JavaScript est constamment présent.
 D'autres langages sont bien entendu pris en compte comme le HTML et le CSS, qui servent à l'affichage, mais ceux-ci ne sonts pas inclus dans le processus de communication. Le transfert de données est géré exclusivement par le JavaScript, et utilise certaines technologies de formatage de données, comme le XML ou le JSON.
@@ -77,7 +99,7 @@ Auparavant, toutes les modifications de pages étaient faites sur le serveur ce 
 
 <a name="CakePHP">
 
-##CakePHP
+###CakePHP
 
 ![alt text](https://upload.wikimedia.org/wikipedia/fr/9/9a/Cake-logo.png)
 
@@ -115,9 +137,9 @@ CakePHP est un framework  il propose une structure au programmeur qui lui permet
 [cakePHP](https://cakephp.org/)
 
 
-<a name="Symphony 3">
+<a name="Symfony">
 
-##Symfony
+###Symfony
 
 ![alt text] (https://symfony.com/images/v5/logos/header-logo.svg)
 
@@ -136,7 +158,7 @@ conception de pages web dynamiques, en tant que langage script coté serveur (ba
 Le PHP, qui était a la base une bibliothèque logicielle du langage C, est désormais le langage de programmation web back-end 
 le plus utilisé au monde. Le PHP sert a traiter et générer le code final de la page qui sera affichée a l'utilisateur web.
 
-Un petit exemple de code en PHP:
+####Un petit exemple de code en PHP:
 
     <?php
 
@@ -153,3 +175,40 @@ Un petit exemple de code en PHP:
 ---
 
 [Lien vers le site de Symfony](https://symfony.com/what-is-symfony)
+
+<a name="Node.js">
+
+###Node.js
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-170px-Node.js_logo.svg.png)
+---
+
+Node.js est une plateforme logicielle libre et événementielle en JavaScript orientée vers les applications réseau qui doivent pouvoir monter en charge. ... Concrètement, node.js est un environnement d'assez bas niveau permettant d'exécuter du javascript non plus dans le navigateur web mais sur le serveur.
+
+---
+
+####Assez bas niveau
+Un langage de programmation est dit de bas niveau lorsque le codage de celui-ci se rapproche du langage machine (dit « binaire »), et donc permet de programmer à un degré très avancé. Les langages de bas niveau sont à opposer aux langages de haut niveau, qui permettent de créer un programme sans tenir compte de la façon dont fonctionne le matériel de l'ordinateur censé exécuter le programme.
+   
+    
+---
+    
+
+####exemple de code en Node.js
+
+    var http = require('http');
+    var server = http.createServer(function(request, response){
+        response.writeHead(200, {'Content-Type': 'text/plain'});
+        response.end('Hello World\n');
+    });
+
+    server.listen(3000);
+
+    console.log('Adresse du serveur: http://localhost:3000');
+
+
+---
+
+####Lien du site web du framework
+
+[Node.js](https://nodejs.org/)
+

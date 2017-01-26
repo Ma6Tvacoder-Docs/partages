@@ -1,10 +1,13 @@
 #Technologie Back-end
 
+---
+
 
 ##table des matières
+
 [SQL](#sql)
 
-[ajax](#ajax)
+[Ajax](#ajax)
 
 [CakePHP](#CakePHP)
 

@@ -30,5 +30,14 @@ aussi bien en graphisme, web, photographie, en architecture et bien d'autres sel
 
 ## Test d'un Outil de veille :
 
-J'ai tester : 
+J'ai tester : Twitter
 
+### Avantages
+
++ Suivre l'actualité en temps réel
++ Accessible et rapide
++ Visibilité importante & Bouche a oreilles instantanés
+
+- Publicité recurrente ou mauvaise
+- 
+- 

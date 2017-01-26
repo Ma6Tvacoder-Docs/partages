@@ -1,4 +1,4 @@
-[Framework](framwork)
+[Framework](framework)
 
 <a name="html">
 ##HTML
@@ -60,7 +60,7 @@ soit à gauche et occupe telle largeur, que l'en-tête de mon site soit calé en
 
    ![image](https://user.oc-static.com/files/339001_340000/339428.png)
 
-<a name="framwork">
+<a name="framework">
 ## Framework
 
 ### *Définition*

@@ -28,4 +28,4 @@ Des articles pertinents en rapport avec la sécurité informatique et numérique
 
 Les inconvénients: C'est un blog, les articles sont intéréssants et construits mais moins nombreux et plus sporadiques qu'un système
 de référencement automatisé tel que google actualité ou autre.
-
+Les articles concernent plus la sécurité ou les technologies que le numérique.

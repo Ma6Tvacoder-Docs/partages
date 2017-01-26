@@ -1,6 +1,8 @@
 <a name="sql">
 #SQL                                                                                                       
 
+![alt text](http://pacificsky.ru/uploads/posts/2016-05/medium/1462952738_sql.png)
+
 ##### **SQL** qui signifie ,langage de requête structurée, est un langage informatique normalisé servant à exploiter des bases de données relationnelles. La partie langage de manipulation des données de **SQL** permet de rechercher, d'ajouter, de modifier ou de supprimer des données dans les bases de données relationnelles.
 
 __________
@@ -34,7 +36,7 @@ __________
 ##AJAX JS
 
 ##### AJAX est l'acronyme d'Asynchronous JavaScript and XML, ce qui, transcrit en français, signifie « JavaScript et XML asynchrones ».
-![alt text](http://javascriptsolution.com/wp-content/uploads/2016/05/AJAX_logo_by_gengns.svg_.png)
+![alt text](http://www.abondance.com/Bin/ajax-web-logo.jpg)
 
 Derrière ce nom se cache un ensemble de technologies destinées à réaliser de rapides mises à jour du contenu d'une page Web, sans qu'elles nécessitent le moindre rechargement visible par l'utilisateur de la page Web. Les technologies employées sont diverses et dépendent du type de requêtes que l'on souhaite utiliser, mais d'une manière générale le JavaScript est constamment présent.
 D'autres langages sont bien entendu pris en compte comme le HTML et le CSS, qui servent à l'affichage, mais ceux-ci ne sonts pas inclus dans le processus de communication. Le transfert de données est géré exclusivement par le JavaScript, et utilise certaines technologies de formatage de données, comme le XML ou le JSON.

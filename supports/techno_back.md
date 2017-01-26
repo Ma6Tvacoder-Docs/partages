@@ -101,3 +101,79 @@ CakePHP est un framework  il propose une structure au programmeur qui lui permet
 ====
 
 [cakePHP](https://cakephp.org/)
+
+
+<a name="Symphony 3">
+
+##Symfony
+
+![alt text] (https://symfony.com/images/v5/logos/header-logo.svg)
+
+---
+
+Symfony est un web framework php, c'est a dire un ensemble d'outils facilitant la conception d'un site web en language PHP. 
+C'est l'un des framework les plus utilisés au monde, produit par une société francaise.
+L'utilité étant, pour les dévellopeurs, d'écourter les taches usuelles tout en respectant les conventions de codage. 
+L'experience utilisateur et le travail des autres acteurs (admin système, etc) ne devrait en aucun cas etre affecté.
+
+---
+
+Le framework Symfony est utilisé pour le développement web, étant un framework du langage PHP utilisé très majoritairement pour la 
+conception de pages web dynamiques, en tant que langage script coté serveur (back-end).
+
+Le PHP, qui était a la base une bibliothèque logicielle du langage C, est désormais le langage de programmation web back-end 
+le plus utilisé au monde. Le PHP sert a traiter et générer le code final de la page qui sera affichée a l'utilisateur web.
+
+Un petit exemple de code en PHP:
+
+    <?php
+
+    // la fonction strtolower renvoie en minuscules la chaîne de caractères passée en paramètre
+    $lang = strtolower($_POST['lang']);
+
+    if ($lang === 'fr')
+    echo 'Vous parlez français !';
+    elseif ($lang === 'en')
+    echo 'You speak English!';
+    else
+    echo 'Je ne vois pas quelle est votre langue !';
+
+---
+
+[Lien vers le site de Symfony](https://symfony.com/what-is-symfony)
+
+<a name="Node.js">
+
+##Node.js
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-170px-Node.js_logo.svg.png)
+---
+
+Node.js est une plateforme logicielle libre et événementielle en JavaScript orientée vers les applications réseau qui doivent pouvoir monter en charge. ... Concrètement, node.js est un environnement d'assez bas niveau permettant d'exécuter du javascript non plus dans le navigateur web mais sur le serveur.
+
+---
+
+####Assez bas niveau
+Un langage de programmation est dit de bas niveau lorsque le codage de celui-ci se rapproche du langage machine (dit « binaire »), et donc permet de programmer à un degré très avancé. Les langages de bas niveau sont à opposer aux langages de haut niveau, qui permettent de créer un programme sans tenir compte de la façon dont fonctionne le matériel de l'ordinateur censé exécuter le programme.
+   
+    
+---
+    
+
+####exemple de code en Node.js
+
+    var http = require('http');
+    var server = http.createServer(function(request, response){
+        response.writeHead(200, {'Content-Type': 'text/plain'});
+        response.end('Hello World\n');
+    });
+
+    server.listen(3000);
+
+    console.log('Adresse du serveur: http://localhost:3000');
+
+
+---
+
+####Lien du site web du framework
+
+[Node.js](https://nodejs.org/)

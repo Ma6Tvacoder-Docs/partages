@@ -1,5 +1,9 @@
 <a name="sql">
-#SQL                                                                                                       
+
+#SQL
+
+![all text](http://kenhlaptrinh.net/wp-content/uploads/2017/01/sql.png)
+
 
 ##### **SQL** qui signifie ,langage de requête structurée, est un langage informatique normalisé servant à exploiter des bases de données relationnelles. La partie langage de manipulation des données de **SQL** permet de rechercher, d'ajouter, de modifier ou de supprimer des données dans les bases de données relationnelles.
 
@@ -162,18 +166,4 @@ Un langage de programmation est dit de bas niveau lorsque le codage de celui-ci 
 ####exemple de code en Node.js
 
     var http = require('http');
-    var server = http.createServer(function(request, response){
-        response.writeHead(200, {'Content-Type': 'text/plain'});
-        response.end('Hello World\n');
-    });
-
-    server.listen(3000);
-
-    console.log('Adresse du serveur: http://localhost:3000');
-
-
----
-
-####Lien du site web du framework
-
-[Node.js](https://nodejs.org/)
+    var server = http.createS

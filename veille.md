@@ -19,3 +19,4 @@ L’utilisation est simple, on entre les mots-clé que l’on veut surveiller, p
 
 Selon moi Netvibes est un outil de veille très intéréssant qui permet de centraliser toute l'information des différents réseaux sociaux, site internet ... 
 
+![alt text](http://saintjo.fr/wp-content/uploads/2015/06/Netvibes.png)

@@ -1,5 +1,5 @@
 ##Menu
-[Bootstrap](Bootstrap)
+[Bootstrap](#bootstrap)
 
 <a name="html">
 ##HTML
@@ -187,7 +187,7 @@ $( function() {
     });
   } );
 
-<a name="Bootstrap">
+<a name="bootstrap">
 # Bootstrap
 
 ## Définition 

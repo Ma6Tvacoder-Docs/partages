@@ -1,23 +1,29 @@
-#Technologie Back-End
+# Technologie Back-end
+
+---
 
 
-##Sommaire:
- [SQL](#sql)
+## table des matières
 
- [Ajax](#ajax)
+[SQL](#sql)
 
- [CakePHP](#CakePHP)
+[Ajax](#ajax)
 
- [Symfony](#Symfony)
+[CakePHP](#CakePHP)
 
- [Node.js](#Node.js)
+[Symfony](#Symfony)
+
+[Node.js](#Node.js)
+
 
 
 
 <a name="sql">
-##SQL                                                                                                       
+### SQL                                                                                                       
+
 
 ![alt text](http://pacificsky.ru/uploads/posts/2016-05/medium/1462952738_sql.png)
+
 
 ##### **SQL** qui signifie ,langage de requête structurée, est un langage informatique normalisé servant à exploiter des bases de données relationnelles. La partie langage de manipulation des données de **SQL** permet de rechercher, d'ajouter, de modifier ou de supprimer des données dans les bases de données relationnelles.
 
@@ -49,8 +55,10 @@ __________
 <a name="ajax">
 ##AJAX JS
 
-##### AJAX est l'acronyme d'Asynchronous JavaScript and XML, ce qui, transcrit en français, signifie « JavaScript et XML asynchrones ».
-![alt text](http://www.abondance.com/Bin/ajax-web-logo.jpg)
+
+### AJAX est l'acronyme d'Asynchronous JavaScript and XML, ce qui, transcrit en français, signifie « JavaScript et XML asynchrones ».
+![alt text](http://javascriptsolution.com/wp-content/uploads/2016/05/AJAX_logo_by_gengns.svg_.png)
+
 
 Derrière ce nom se cache un ensemble de technologies destinées à réaliser de rapides mises à jour du contenu d'une page Web, sans qu'elles nécessitent le moindre rechargement visible par l'utilisateur de la page Web. Les technologies employées sont diverses et dépendent du type de requêtes que l'on souhaite utiliser, mais d'une manière générale le JavaScript est constamment présent.
 D'autres langages sont bien entendu pris en compte comme le HTML et le CSS, qui servent à l'affichage, mais ceux-ci ne sonts pas inclus dans le processus de communication. Le transfert de données est géré exclusivement par le JavaScript, et utilise certaines technologies de formatage de données, comme le XML ou le JSON.
@@ -78,10 +86,13 @@ Par exemple le contenu d'un champ de formulaire peut être changé, sans avoir �
 Ajax permet ainsi d'effectuer des traitements sur le poste client (avec JavaScript) à partir d'informations prises sur le serveur. Cela répartit la charge de traitement.
 Auparavant, toutes les modifications de pages étaient faites sur le serveur ce qui nécessitait des échanges maintenant inutiles. 
 
+##**Exemple de code**
+
+
 
 <a name="CakePHP">
 
-##CakePHP
+###CakePHP
 
 ![alt text](https://upload.wikimedia.org/wikipedia/fr/9/9a/Cake-logo.png)
 
@@ -121,7 +132,7 @@ CakePHP est un framework  il propose une structure au programmeur qui lui permet
 
 <a name="Symfony">
 
-##Symfony
+###Symfony
 
 ![alt text] (https://symfony.com/images/v5/logos/header-logo.svg)
 
@@ -160,7 +171,7 @@ le plus utilisé au monde. Le PHP sert a traiter et générer le code final de l
 
 <a name="Node.js">
 
-##Node.js
+###Node.js
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-170px-Node.js_logo.svg.png)
 ---
 
@@ -193,3 +204,4 @@ Un langage de programmation est dit de bas niveau lorsque le codage de celui-ci 
 ####Lien du site web du framework
 
 [Node.js](https://nodejs.org/)
+

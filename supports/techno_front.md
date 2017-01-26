@@ -1,18 +1,30 @@
+# TECHNO FRONT
+
+## Menu
+
+[HTML](#html)
+[CSS](#css)
+[Boostrap](#bootstrap)
+[Framework](#framework)
+[Javascript](#Javascript)
+
+
 <a name="html">
 ##HTML
 
-**_Definition: Language structurel_**
+![image](http://infodocb.cluster014.ovh.net/wp-content/uploads/2012/07/html-icon.png)
 
-L’HyperText Markup Language, généralement abrégé HTML, est le format de données conçu pour représenter les pages web. C’est un langage de balisage permettant d’écrire de l’hypertexte.
+
+L'HyperText Markup Language, généralement abrégé HTML, est le format de données conçu pour représenter les pages web. C’est un langage de balisage permettant d’écrire de l’hypertexte.
 Un document HTML contient des balises qui permettent d'être utilisées d'une certaine façon pour décrire correctement la structure d'un document.
 Les balises indiquent au navigateur comment afficher le document, certaines balises permettent d'intégrer différents médias comme des images, des vidéos ou des musiques parmi le texte de la page.
 
-**_Fonction_**
+###**_Fonction_**
 
 L’HyperText Markup Language permet de structurer sémantiquement et de mettre en forme le contenu des pages, d’inclure des ressources multimédias dont des images, des formulaires de saisie, et des programmes informatiques. Il permet de créer des documents interopérables avec des équipements très variés de manière conforme aux exigences de l’accessibilité du web. Il est souvent utilisé conjointement avec des langages de programmation (JavaScript) et des formats de présentation (feuilles de style en cascade)
 
 
-###fichier d'exemple
+###**_Fichier d'exemple_**
 
     <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
     <html>
@@ -41,15 +53,22 @@ L’HyperText Markup Language permet de structurer sémantiquement et de mettre 
          </body> 
      </html>
      
-# QU'EST CE QUE LE CSS ?
+<a name="css">
 
-### 1. CSS ( Cascadings Style Sheet)  est un langage 
+## QU'EST CE QUE LE CSS ?
+
+### 1. *CSS ( Cascadings Style Sheet)*
+
+Le CSS est un langage 
 qui décrit le style d'un document HTML, il va 
 informé au navigateur comment les éléments HTML doivent etres afficher et va permettre a la mise en forme & la présentation des documents HTML et XML.
 Un site web peut être constitué par une simple page statique au format HTML 
 éventuellement mise en forme ou enrichie de CSS incluant des images et des liens vers d'autres contenus.
 
-### 2. UTILISATION
+![image](http://ideva.fr/wp-content/uploads/2013/01/css3-logo.jpg)
+
+### 2. *Utilisation*
+
 CSS ? C'est lui qui vous permet de choisir la couleur de votre texte.
 Lui qui vous permer de sélectionner la police utilisée sur votre site.
 Lui encore qui permet de définir la taille du texte, les bordures, le fond...
@@ -58,10 +77,10 @@ soit à gauche et occupe telle largeur, que l'en-tête de mon site soit calé en
 
    ![image](https://user.oc-static.com/files/339001_340000/339428.png)
 
-<a name="framwork">
-# *FRAMEWORK*
+<a name="framework">
+## Framework
 
-## Définition
+### *Définition*
 
 Un framework est un ensemble d'outils et de composants logiciels organisés conformément à un plan d'architecture et des **patterns**, l'ensemble formant ou promouvant un « squelette » de programme. Il est souvent fourni sous la forme d'une bibliothèque logicielle, et accompagné du plan de l'architecture cible du framework.
 
@@ -69,24 +88,26 @@ Un framework est conçu en vue d'aider les programmeurs dans leur travail. L'org
 
 On trouve différents types de frameworks :
 
-+ framework d'infrastructure système : pour développer des systèmes d'exploitation, des interfaces graphiques, des outils de communication (exemple : Framework .Net, Struts) ;
-+ framework d'intégration intergicielle (middleware) : pour fédérer des applications hétérogènes. Pour mettre à disposition différentes technologies sous la forme d'une interface unique ;
-+ frameworks d'entreprise : pour développer des applications spécifiques au secteur d'activité de l'entreprise ;
-+ frameworks de gestion de contenu : sont les fondations d'un système de gestion de contenu — pour la création, la collecte, le classement, le stockage et la publication de « biens numérisés ».
++ **framework d'infrastructure système** : pour développer des systèmes d'exploitation, des interfaces graphiques, des outils de communication (exemple : Framework .Net, Struts) ;
++ **framework d'intégration intergicielle (middleware)** : pour fédérer des applications hétérogènes. Pour mettre à disposition différentes technologies sous la forme d'une interface unique ;
++ **frameworks d'entreprise** : pour développer des applications spécifiques au secteur d'activité de l'entreprise ;
++ **frameworks de gestion de contenu** : sont les fondations d'un système de gestion de contenu — pour la création, la collecte, le classement, le stockage et la publication de « biens numérisés ».
 
 Les principaux avantages de ces frameworks sont la réutilisation de leur code, la standardisation du cycle de vie du logiciel (spécification, développement, maintenance, évolution), ils permettent de formaliser une architecture adaptée au besoin de l'entreprise. Ils tirent parti de l'expérience des développements antérieurs.
 
 **Patterns** : Le mot anglais « pattern » est souvent utilisé pour désigner un modèle, une structure, un motif, un type, etc. Il s'agit souvent d'un phénomène ou d'une organisation que l'on peut observer de façon répétée lors de l'étude de certains sujets, auquel il peut conférer des propriétés caractéristiques.
 
 <a name=JavaScript>
-#**Javascript** 
+##**Javascript** 
 
-##*Définition*
+![image](http://www.logotypes101.com/logos/531/E9BC19EB93F4FEA9236932ABAD8A7CFF/js.png)
+
+###**_Définition_**
 Le JavaScript est un langage informatique utilisé sur les pages web. Ce langage à la particularité de s'activer sur le poste client, 
 en d'autres mots c'est votre ordinateur qui va recevoir le code et qui devra l'exécuter. C'est en opposition à d'autres langages qui 
 sont activé côté serveur. L'exécution du code est effectué par votre navigateur internet tel que Firefox ou Internet Explorer.
 
-##*Ce que cest*
+###*_Ce que c'est ?_*
 Javascript est un langage de programmation, c’est une forme de code qui permet, quand on sait l’écrire, de dicter à l’ordinateur quoi 
 faire. C’est du texte. Juste du texte. Comme une autre langue. On trouve la majorité du code Javascript dans des pages Web, même si 
 vous ne le voyez pas s’afficher. En effet, c’est le seul langage qui permette de dicter à un navigateur Web (Internet Explorer, Firefox,
@@ -104,7 +125,7 @@ Le code Javascript ressemble à ça :
    
     }, 100)
 
-##*Ce qu'on peut faire avec*
+###**_Ce qu'on peut faire avec ?_**
 La plupart du code Javascript se trouve dans des pages Web, et sert donc à dire comme la page Web doit réagir. Cela marche ainsi :
 
 L’utilisateur clique sur un lien ou entre une adresse.
@@ -130,7 +151,7 @@ elles ont été produites avec Javascript.
 Certains sites Web ne pourrait tout simplement pas fonctionner sans Javascript. C’est le cas de Facebook, Youtube ou Twitter qui 
 utilisent le langage pour presque tout leur affichage. La page de recherche de Google, en revanche, peut fonctionner sans Javascript.
 
-##*Javascript, en dehors d’un navigateur Web*
+###**_Javascript, en dehors d’un navigateur Web_**
 Avec l’amélioration des performances de Javascript, le langage a été de plus en plus utilisé en dehors du navigateur Web. 
 On le retrouve aujourd’hui un peu partout :
 
@@ -138,7 +159,7 @@ Sur les serveurs, l’exemple le plus célèbre étant NodeJS, un outil qui perm
 navigateur.Sur les interfaces des ordinateurs, il permet d’afficher des fenêtres et des boutons (Scripting QT, Gnome Shell).
 Sur les téléphones, pour le moment sur FirefoxOS et PhoneGap, il permet d’écrire des applications.
 
-##*Comment déclencher le code JavaScript depuis le document HTML*
+###**_Comment déclencher le code JavaScript depuis le document HTML_**
 Dans un navigateur, JavaScript ne fait rien « tout seul ». Il a besoin d'être lancé depuis les pages web HTML. Pour appeler du 
 code JavaScript depuis votre document HTML, vous aurez besoin de l'élément `<script>`.
 
@@ -183,11 +204,12 @@ $( function() {
       state = !state;
     });
   } );
+```
 
 ```
 
 
-<a name="Bootstrap">
+<a name="bootstrap">
 # Bootstrap
 
 ## Définition 
@@ -205,7 +227,6 @@ Les développeurs qui utilisent Bootstrap pour la création de leur site web cho
 | *Exemple de code bootstrap* |
 |---|
 
-```
 <!-- Bootstrap core CSS -->
    <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">  
    <nav class="navbar navbar-inverse navbar-fixed-top">
@@ -229,10 +250,9 @@ Les développeurs qui utilisent Bootstrap pour la création de leur site web cho
       </div>
     </nav>
     
-  ```
+
   
    
 Tout cela laisse présager de bonnes nouvelles pour les développeurs et les webmasters. Restez connectés pour la 2ème partie dans laquelle j’aborderai les raisons pour lesquelles intégrer Bootstrap à votre site web est la meilleure chose que vous pourriez faire. Merci de nous lire, n’hésitez pas à laisser vos commentaires sur Prestashop et Bootstrap ci-dessous !
 ```
-
 

@@ -13,6 +13,7 @@ Parmis ces créateurs hors du commun WE ARE SOUFFLES sera présente, cette marqu
 
 ![alt text](https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/14470370_1136676236423701_4462122564943916970_n.jpg?oh=1ccfecdaab753be12f42fb90dc32e15e&oe=590A8997)
 
-Toujours dans l'esprit afro urbain chi 
+Toujours dans l'esprit urbain afro chic la marque MBOAWAX appporte à ses créations une signature colorée et moderne s'inpirant de l'éventail du Made In Africa
 
-Mboawax sont des créations afro-urbaines avec une signature colorée et moderne s'inspirant à la fois de l'éventail culturel du Made In Africa.
+![alt text](https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-0/s480x480/15871669_740664499414719_7514904687353348207_n.jpg?oh=7147053185222e5722255de2b9544a8f&oe=591FDD69)
+

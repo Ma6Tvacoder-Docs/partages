@@ -176,7 +176,7 @@ On peut y trouver plusieurs types d'articles (News, Test de chaussures de basket
 #Définition de la veille / @omar
 
 
-La veille consite à effectuer des recherches approffondies et actives, en grande partie itéractive visant un domaine  particulier comme  technologique, commercial, etc., pour en anticiper ces évolutions. Il s'agit en quelques sortes d'une récoltes d'informations sur un sujet donné en l'occurrence ici le numérique.
+La veille consite à effectuer des recherches approffondies et actives, en grande partie intéractive visant un domaine  particulier comme  technologique, commercial, etc., pour en anticiper ces évolutions. Il s'agit en quelques sortes d'une récoltes d'informations sur un sujet donné en l'occurrence ici le numérique.
 
 #Chercher entre 3 et 5 outils de veille
 1. Le « micro-blogging »( twitter)
@@ -192,7 +192,7 @@ La veille consite à effectuer des recherches approffondies et actives, en grand
 Les points forts : 
 + Infos générales sur le monde numérique et videoludique
 + infos accessibles
-+ Abordent différents sujets,différents.
++ Abordent différents sujets,différents thèmes liés au monde de l'informatique.
 
 Les points faibles : 
 + Informations non approndies

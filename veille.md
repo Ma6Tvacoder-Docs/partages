@@ -8,16 +8,13 @@ Il existe plusieurs plateformes qui permettent la veille imformatique de nos jou
 + Sindup 
 + Peekier
 + Basket USA 
-+ Jeuxvideo.com
-+ Le journal du geek
-+ Netvibes
-+ Le « micro-blogging »( twitter)
-+ Newsletters
-+ Pinterest
-+ Sites spécialisés(clubic,znet)
++ Twitter et autres outils de micro-blogging.
++ Les Newsletters, Flux RRS et autres outils de synchronisation.
++ Pinterest et autre sites de partage d'image.
++ Jeuxvideo.com, Le journal du geek, Clubic,znet et autres sites spécialisés.
 + Les sites de partage de favoris 
 + Muzli 2 et autres add-ons en rapport avec la le relai d'informations. 
-+ Pocket.com, Netvibes.com et autres outils de controle de l'information.
++ Scoop.i, Netvibes.com et autres agrégateurs.
 + Korben.info, Linuxfr.org et autres blogs de relai d'information.
 + Wikipédia.com et autres encyclopédies en lignes mises a jour régulièrement.
 + hardware.fr et autres forums en rapport avec l'informatique.

@@ -1,3 +1,5 @@
+#Veille GOOGLE
+=======
 ##Ali
 Un article sur l'ouverture du FabLab a pantin.
 
@@ -37,4 +39,12 @@ Propositions rubrique Lakhdar :
 + Maison Connectés ( Domotique )
 + Gaming
 + Tv / Video
+---
+Propositions de reubriques Amadou:
 
+* Basket-ball
+* Jeux video
+* Musique
+* Web Design
+* Graphisme
+* Street Art

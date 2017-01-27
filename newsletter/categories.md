@@ -1,3 +1,4 @@
+#Groupe "Dream Team" - HOTSPOT00
 
 CUISINE
 
@@ -44,4 +45,13 @@ ARTS
 
 * Graphisme
 * Street Art
+
+=======
+
+#Groupe HOTSPOT01
++ Cinema
++ Mode
++ Cuisine
++ Multimédias
++ Sport
 

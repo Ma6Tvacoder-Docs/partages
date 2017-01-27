@@ -1,3 +1,19 @@
+#Smartphones
+---
+
+###Apple
+La nouveauté smartphone chez Apple est l'iphone 7. Tout comme son prédeccesseur l'iphone 6, deux versions de ce smartphone existent: L'Iphone 7 et l'Iphone 7 plus.
+
+[Plus d'infos](http://www.apple.com/fr/shop/buy-iphone/iphone-7?afid=p238%7Cs05EVyND6-dc_mtid_187079nc38483_pcrid_165684031121_&cid=aos-fr-kwgo-brand-h17-slid-p65uBhtj-product-)
+
+
+
+###Samsung
+Samsung innove avec le samsung galaxy S7 lui aussi en deux versions: Le samsung galaxy S7 et le samsung galaxy S7 edge.
+
+[plus d'infos](http://www.samsung.com/fr/consumer/mobile-devices/smartphones/)
+=======
+
 #SPORTS
 
 ![image](http://bulgaria-online.bg/clients/210/images/catalog/categories/sports.png)
@@ -71,8 +87,4 @@ source [Sports.fr](http://www.sports.fr/tennis/open-d-australie/articles/nadal-s
 Final Fantasy XV porte en lui les stigmates d'un projet chaotique. Son open-world est gargentuesque, mais assez vide. Ses combats ultra dynamiques, mais parfois confus. Son histoire grandiloquente, mais un peu heurtée. Souvent le grandiose côtoie le frustrant, faisant de lui un titre résolument clivant. Mais si évoquer tout cela est légitime, n'en oublions pas l'essentiel : les 4 héros comptent parmi les personnages les plus humains de l'histoire du jeu vidéo, le dernier plan achevant de les rendre immortels. Aussi inattendu que cela puisse paraître, c'est donc dans l'intime que l'aventure forge sa légende. Rares sont les productions offrant une aussi généreuse tranche de vie, et cela ne se balaye pas d'un revers de main. Il y a des jeux qui divertissent, d'autres irréprochables qui peinent à toucher, et il y a ceux certes imparfaits qui pourtant laissent une émotion éternelle. Avec ses maladresses, Final Fantasy XV a réussi un véritable tour de force : inscrire ce chapitre dans la culture de nombreux joueur.
 
 [Pour plus d'info, cliquer ici](http://www.finalfantasyxv.com/fr)
-
----
-
-#
 

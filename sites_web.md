@@ -2,6 +2,8 @@
 #Catégories
 [Culture web](#culture_web)
 
+[Les moteurs de recherche](#moteurs)
+
 [Google et boîte mail](#google)
 
 [Création et envoi de newsletter](#n_l)
@@ -19,6 +21,24 @@
 [Petite histoire des navigateurs](https://www.astuces-aide-informatique.info/268/navigateur-internet)
 
 [La naissance du Web](https://home.cern/fr/topics/birth-web)
+
+[ **Noms de domaine** - Les extensions ](https://www.nom-domaine.fr/extensions-toutes.html)
+
+[ **Noms de domaine** - Les *nouvelles* extensions ](https://www.prodomaines.com/newgtlds-icann-nouvelles-extensions-internet)
+
+---
+<a name="moteurs">
+
+| **Les moteurs de recherche** |
+| --- |   
+
+[Google](http://google.fr)
+
+[Duckduckgo](https://duckduckgo.com/)
+
+[Qwant](https://www.qwant.com/?l=fr)
+
+[Bing](https://www.bing.com/)
 
 ---
 <a name="google">

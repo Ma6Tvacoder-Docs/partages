@@ -1,3 +1,14 @@
+# rubriques Mohamadou
+
++smartphone
+
++television 
+
++ordinateur
+
++jeux-video
+
+
 Propositions rubrique Lakhdar :
 
 + Fab lab

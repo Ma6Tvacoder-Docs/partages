@@ -1,3 +1,12 @@
+#Jeux vidéos
+
+![image](http://www.icone-png.com/ico/52/52006.ico)
+![image](http://www.icone-png.com/ico/52/51994.ico)
+![image](http://www.icone-png.com/ico/33/33172.ico)
+
+
+![image](http://images2.itechpost.com/data/images/full/28998/resident-evil-vii-biohazard.jpg)
+=======
 #Jeux Vidéo
 
 ##Nouveautés
@@ -19,3 +28,8 @@
 Final Fantasy XV porte en lui les stigmates d'un projet chaotique. Son open-world est gargentuesque, mais assez vide. Ses combats ultra dynamiques, mais parfois confus. Son histoire grandiloquente, mais un peu heurtée. Souvent le grandiose côtoie le frustrant, faisant de lui un titre résolument clivant. Mais si évoquer tout cela est légitime, n'en oublions pas l'essentiel : les 4 héros comptent parmi les personnages les plus humains de l'histoire du jeu vidéo, le dernier plan achevant de les rendre immortels. Aussi inattendu que cela puisse paraître, c'est donc dans l'intime que l'aventure forge sa légende. Rares sont les productions offrant une aussi généreuse tranche de vie, et cela ne se balaye pas d'un revers de main. Il y a des jeux qui divertissent, d'autres irréprochables qui peinent à toucher, et il y a ceux certes imparfaits qui pourtant laissent une émotion éternelle. Avec ses maladresses, Final Fantasy XV a réussi un véritable tour de force : inscrire ce chapitre dans la culture de nombreux joueur.
 
 [Pour plus d'info, cliquer ici](http://www.finalfantasyxv.com/fr)
+
+---
+
+#
+

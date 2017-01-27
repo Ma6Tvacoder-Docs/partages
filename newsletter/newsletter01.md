@@ -1,6 +1,6 @@
 =======
 
-![image](http://i2.wp.com/web-hobbies.com/wp-content/uploads/2016/06/maxresdefault.jpg?fit=1200%2C675&resize=350%2C200)
+# Jeux Videos
 
 ## Nouveautés
 

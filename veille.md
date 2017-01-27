@@ -29,6 +29,18 @@
 
 La veille informatique est un concept qui consiste à se tenir au courant des avancées technologiques dans le domaine de l'informatique afin d'anticiper les futurs besoins.
 
+  La veille informatique consiste a faire des recherches sur les diffenrentes avancées informatique pour les inclures dans sont propres travail.
+  
+  Démarche organisée visant à tenir au courant de ce qui se fait ou ce qui se dit dans un domaine particulier. le traitement d’informations et la diffusion de connaissances utiles à la maîtrise de son environnement et à la prise de décision.
+  
+  La veille consite à effectuer des recherches approffondies et actives, en grande partie itéractive visant un domaine  particulier comme  technologique, commercial, etc., pour en anticiper ces évolutions. Il s'agit en quelques sortes d'une récoltes d'informations sur un sujet donné en l'occurrence ici le numérique.
+  
+La veille est définie comme « une activité continue et itérative visant à une surveillance active de l’environnement technologique, commercial, etc.. pour en anticiper les évolutions ». Dans notre cas, la veille numérique consiste donc à se tenir informé des évolutions des TUICs dans nos matières respectives et, plus largement, dans l’enseignement.
+
+On appelle veille le fait de se tenir au courant des informations pertinentes à un domaine défini.
+A la différence de la recherche d'informations, action ponctuelle, la veille est une activité continue.
+La recherche d'informations peut être une action de veille si elle est répeter selon un principe périodique régulier.
+
 ## *Chercher entre 3 à 5 outils de veille*
 
 Il existe plusieurs plateformes qui permettent la veille imformatique de nos jours :
@@ -206,8 +218,7 @@ Les points faibles :
   
   La veille informatique est un concept qui consiste à se tenir au courant des avancées technologiques dans le domaine de l'informatique afin d'anticiper les futurs besoins.
   
-  
-## Outils de veille
+  ## Outils de veille
   
 ###Google alerts
   Google alerts consiste a rentré des mots-clés à surveiller. Vous recevrez ensuite par e-mail, les articles qui traitent du sujet. Il n’y a pas plus simple…

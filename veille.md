@@ -1,16 +1,63 @@
-
 [Amadou](#amadou)
+
 [Annissa](#annissa)
+
 [Catherine](#catherine)
+
+[James](#james)
+
+[Lakhdar](#lakhdar)
+
 [Lowé](#cedric)
+
 [Mariam](#mariam)
+
+[Mohamadou](#mohamadou)
+
 [Omar](#omar)
+
 [Stevy](#stevy)
-[](#)
-[](#)
+
+[Marie-Hélène](#mila)
+
+---
+
+<a name="lakhdar">
+# Qu'est ce que la "Veille informatique" ? / @lakhdar
+
+## *Définition*
+
+La veille informatique est un concept qui consiste à se tenir au courant des avancées technologiques dans le domaine de l'informatique afin d'anticiper les futurs besoins.
+
+## *Chercher entre 3 à 5 outils de veille*
+
+Il existe plusieurs plateformes qui permettent la veille imformatique de nos jours :
++ Facebook
++ Google
++ Sindup 
++ Peekier
+
+## *Choisir un outil et faire un 'test review'*
+
+### Facebook
+
+Les Avantages :
+
++ Etre connecter et avoir pleins d'imformations touts les jours.
++ Aimez des pages pour les "suivres" et avoir d'autres informations.
++ Créer ou rejoindre des groupes pour partager des informations ou participer à des évenements.
++ Recevoir des notifications de l'actualités du Web.
+
+Les Désaventages :
+
++ divulguer des informations personelle en pensant le faire de manière privée.
++ Ne plus pouvoir supprimer ces informations personelle.
++ Trouver de fausse informations.
+
+---
 
 <a name="cedric">
-#Veille 
+#Veille / @cedric
 
 ###Définition
   
@@ -52,15 +99,13 @@ Outils de veille:
  ###Facebook
  
  Avantage :
- 
 * Enormement d'information 
 * Du contenue divers
 
 Inconveniant :
-
 * Securite 
 * fiabilite 
-=======
+
 ---
 
 Test review du site korben.info:
@@ -78,8 +123,10 @@ Les inconvénients: C'est un blog, les articles sont intéréssants et construit
 de référencement automatisé tel que google actualité ou autre.
 Les articles concernent plus la sécurité ou les technologies que le numérique.
 
+---
+
 <a name="amadou">
-#La veille 
+#La veille / @amadou
 
 Démarche organisée visant à tenir au courant de ce qui se fait ou ce qui se dit dans un domaine particulier. le traitement d’informations et la diffusion de connaissances utiles à la maîtrise de son environnement et à la prise de décision.
 
@@ -123,8 +170,10 @@ On peut y trouver plusieurs types d'articles (News, Test de chaussures de basket
 * Difficile de trouver des articles anterieurs
 * Articles qui peuvent être inutiles
 
+---
+
 <a name="omar">
-#Définition de la veille
+#Définition de la veille / @omar
 
 
 La veille consite à effectuer des recherches approffondies et actives, en grande partie itéractive visant un domaine  particulier comme  technologique, commercial, etc., pour en anticiper ces évolutions. Il s'agit en quelques sortes d'une récoltes d'informations sur un sujet donné en l'occurrence ici le numérique.
@@ -148,7 +197,47 @@ Les points forts :
 Les points faibles : 
 + Informations non approndies
 + infos trop générales
+ 
+---
+<a name="mohamadou">
+#Veille
 
+##Définition
+  
+  La veille informatique est un concept qui consiste à se tenir au courant des avancées technologiques dans le domaine de l'informatique afin d'anticiper les futurs besoins.
+  
+  
+## Outils de veille
+  
+###Google alerts
+  Google alerts consiste a rentré des mots-clés à surveiller. Vous recevrez ensuite par e-mail, les articles qui traitent du sujet. Il n’y a pas plus simple…
+  
+###Alerti
+  cet outil sert a trouver des influenceurs qui sont dans le secteur d’activité informatique, et faire remonter des résultats qui proviennent des médias sociaux.
+  
+###twitter
+
+avec cet outil on peut organiser une veille informatique en direct, il permet de s'abonner a plusieur profil d'informaion.
+   
+  
+  
+## Choisir un outil et faire un 'test review'
+
+###Google alerts
+
+####Avantage
+
+###Suivre l’actualité de son secteur: 
+une alerte sur certains produits ou services clés vous permet de vous tenir au courant de l’évolution et des tendances du marché.
+Rester au fait des actions des concurrents: pour connaître toutes les activités de vos concurrents: promotions,  nouveautés, événements, mentions dans la presse ou articles qui parlent d’eux.
+
+###Surveiller  sa réputation:
+en créant une alerte sur votre nom, votre société ou votre marque.  Vous découvrirez ainsi ce qui se dit sur vous, sur vos produits ou sur votre entreprise.
+
+###Protéger son contenu:
+les alertes peuvent aussi vous aider à détecter tout plagiat ou copie de vos produits, services, articles ou publications.
+  
+---
 
 <a name="mariam">
 # Veille Numérique 
@@ -174,6 +263,45 @@ Selon moi Netvibes est un outil de veille très intéréssant qui permet de cent
 
 ![alt text](http://saintjo.fr/wp-content/uploads/2015/06/Netvibes.png)
 =======
+
+<a name="james">
+#La Veille / James
+## Définition
+La veille est définie comme « une activité continue et itérative visant à une surveillance active
+de l’environnement technologique, commercial, etc.. pour en anticiper les évolutions ». Dans notre cas,
+la veille numérique consiste donc à se tenir informé des évolutions des TUICs dans nos matières respectives et,
+plus largement, dans l’enseignement.
+
+ 
+## Chercher entre 3 et 5 outils de veille
+####Les lettres de diffusion :
+Appelées aussi Newsletters, ce sont des courrier s envoyés par email qui font le point sur les publications d’un site, les discussions en cours sur un thème, les nouveautés logiciels concernant notre matière, etc… L’exemple le plus connu
+(de par le nombre très important d’enseignants qui la reçoivent) est la lettre de diffusion du Café Pédagogique
+(voir le site et la page d’inscription aux différentes newsletters du Café Pédagogique). L’inscription est très simple, il suffit de donner une adresse email et de choisir les différentes lettres auxquelles on veut s’inscrire.
+Le service est entièrement gratuit et plus de 130 000 personnes reçoivent ces lettres.
+Un autre exemple est la liste des lettres de diffusion du site Eduscol, classées par matières, appelées « Tic’Edu ».
+  
+####Les listes de discussion :
+La différence entre une liste de discussion et une lettre de diffusion est qu’une liste de discussion fonctionne par échange d’email entre toutes les personnes inscritent à ces listes. Une fois inscrit, on écrit un email dont le destinataire est l’adresse de la liste de discussion et tous les inscrits à cette liste recevront l’email que vous avez composé.
+Cela permet des discussions entre collègues d’une même matière, voire d’un même niveau. Par exemple, en mathématiques,
+il existe une liste appelée MathCollège et une autre appelée MathLyc.
+L’utilisation d’une liste nécessite l’acceptation de leur charte d’utilisation, envoyée lors de l’inscription,
+et des règles de base de la Netiquette.
+Dès qu’un collègue de notre matière découvre un outil extraordinaire dont l’utilisation dans une certaine matières peut aider à l’apprentissage d’une notion, il peut en faire partager tous les inscrits à la liste. S’engage alors une discussion qui permet d’apprendre beaucoup de choses, le tout sans trop d’efforts puisque l’on reçoit les emails directement. C’est comme cela que j’ai découvert beaucoup de logiciels que j’utilise régulièrement en classe, des sites importants ou des discussions sur les programmes et l’évolution de ma matière, les mathématiques. Aussi, il est possible d’échanger des fichiers entre participants par l’intermédiaire des archives du site ou directement par email entre inscrits.
+
+####Le « micro-blogging »:
+Outil de référence dans le micro-blogging, Twitter permet d’échanger des cours messages (maximum 140 caractères) avec ses abonnés.
+Une fois le compte créé, on peut recevoir les twits des personnes auxquelles on sera abonné, ou envoyer ses propres twits qui seront alors lu (ou pas) par les personnes qui se sont abonnées à votre compte. L’utilisation se veut la plus simple possible
+(et elle l’est) mais la quantité d’information peut parfois dérouter.
+
+####Veille sur mot-clé :
+Google propose un service intéressant, mais qui nécessite plus de travail que les méthodes précédentes, appelé « Google Alert« , où vous pouvez surveiller l’internet en fonction de certains mots-clé ou groupes de mots-clé, repérés par ce moteur de recherche, dès qu’ils apparaissent dans une publication. Là encore, la quantité d’informations peut surprendre, à moins d’avoir configuré correctement ses alertes et choisi ses mots-clé de façon pertinente.
+L’utilisation est simple, on entre les mots-clé que l’on veut surveiller, puis son adresse email, et voilà ! Il ne restera plus qu’à trier les informations reçues sur votre boite email.
+
+####Les sites de partage de favoris :
+Depuis un peu plus d’un an existe un service de partage de favoris très visuel et vraiment pratique, appelé Pearltrees (voir l’article de classesnumeriques.net consacré à ce site). Ce site internet permet à quiconque de partager ses favoris sur internet, c’est à dire les adresses de sites importants ou qui répondent à un thème particulier. Quelle est la différence avec Netvibes me direz-vous? Pearltrees est très visuel, et il permet surtout de créer une arborescence dans l’organisation des favoris.
+Voyez ces exemples: Un Pearltrees en mathématiques,  ou celui-ci en histoire géographie.
+
 
 <a name="annissa">
 ## Définition @annissam
@@ -248,7 +376,7 @@ il faut bien choisir ses abonnements pour ne pas avoir affaire à de la désinfo
 On trouve de l’information partout dans chaque tweet on peut vite se perdre et procrastiner ;
 Le suivi des hashtags est fastidieux si on en choisit un qui fonctionne beaucoup. On ne peut pas tout lire. Il faut donc bien savoir choisir ce dernier ;
 La limite des caractères peut empêcher une vraie critique de l’information.
-=======
+
 
 <a name="stevy">
 #Veille : Qu'est ce que c'est ?!
@@ -296,14 +424,16 @@ J'ai tester : Twitter
 + Publicité recurrente ou mauvaise
 + Time Line
  
-=======
-___________________________________________________________
-## Définition
 
+___________________________________________________________
+<a name="mila">
+# Veille / @mila
+
+  ## Définition
   
   [Linux.org : Méthode et outils pour la veille technologique](http://linuxfr.org/news/methode-et-outils-pour-la-veille-technologique)
   
-## Chercher entre 3 et 5 outils de veille
+  ## Chercher entre 3 et 5 outils de veille
   
   [Muzli 2 : extension Chrome](https://chrome.google.com/webstore/detail/muzli-2-stay-inspired/glcipcfhmopcgidicgdociohdoicpdfc/related?hl=en)
   
@@ -315,5 +445,5 @@ ___________________________________________________________
   
   [Pocket.com : Trouver son contenu et le conserver pour le retrouver plus tard](https://www.getpocket.com/)
   
-## Choisir un outil et faire un 'test review'
-
+  
+  ## Choisir un outil et faire un 'test review'

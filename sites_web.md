@@ -4,6 +4,8 @@
 
 [Google et boîte mail](#google)
 
+[Création et envoi de newsletter](#n_l)
+
    
 ---
 <a name="culture_web">
@@ -27,3 +29,9 @@
 
 [**Jeu** : les bonnes pratiques du mail professionnel](http://www.blogdumoderateur.com/bonnes-pratiques-email-ibellule/ (niveau 1 gratuit)
 
+---
+<a name="n_l">
+
+| **Création et envoi de newsletter** |
+| --- |
+[Mailchimp.com]( https://mailchimp.com/ )

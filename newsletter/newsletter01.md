@@ -1,17 +1,12 @@
-#Jeux vidéos
+=======
 
-![image](http://www.icone-png.com/ico/52/52006.ico)
-![image](http://www.icone-png.com/ico/52/51994.ico)
-![image](http://www.icone-png.com/ico/33/33172.ico)
+![image](http://i2.wp.com/web-hobbies.com/wp-content/uploads/2016/06/maxresdefault.jpg?fit=1200%2C675&resize=350%2C200)
 
+## Nouveautés
+
++ RESIDENT EVIL VII
 
 ![image](http://images2.itechpost.com/data/images/full/28998/resident-evil-vii-biohazard.jpg)
-=======
-#Jeux Vidéo
-
-##Nouveautés
-
-###RESIDENT EVIL VII - VR
 
 **Note globale** : 16/20
 

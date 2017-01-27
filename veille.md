@@ -6,7 +6,7 @@
 
 [James](#james)
 
-[Lakhdar](#lakhdar)
+[Définition](#Définition)
 
 [Lowé](#cedric)
 
@@ -22,12 +22,26 @@
 
 ---
 
-<a name="lakhdar">
-# Qu'est ce que la "Veille informatique" ? / @lakhdar
+<a name="Définition">
+# Qu'est ce que la "Veille informatique" ?
 
 ## *Définition*
 
-La veille informatique est un concept qui consiste à se tenir au courant des avancées technologiques dans le domaine de l'informatique afin d'anticiper les futurs besoins.
+![image](https://www.camilleroux.com/wp-content/uploads/2009/09/3602683294_4c9c688bbc-300x300.jpg)
+
+**La veille informatique** est un concept qui consiste à se tenir au courant des avancées technologiques dans le domaine de
+l'informatique afin d'anticiper les futurs besoins.
+
+Elle consiste à effectuer des recherches approffondies et actives,**en grande partie intéractive visant un domaine particulier
+comme  technologique, commercial, etc.**, pour en anticiper ces évolutions.
+
+Il s'agit en quelques sortes d'une récoltes d'informations sur un sujet donné. A la différence de la recherche d'informations,
+action ponctuelle, la veille est **une activité continue**.
+La recherche d'informations peut être une action de veille si elle est répeter selon un principe périodique régulier.
+
+Dans notre cas, la veille informatique consiste donc à se tenir informé des évolutions des **TUICs (Technologies Usuelles de
+l'Information et de la Communication)** dans nos matières respectives et, plus largement, dans l’enseignement.
+
 
 ## *Chercher entre 3 à 5 outils de veille*
 
@@ -58,14 +72,9 @@ Les Désaventages :
 
 <a name="cedric">
 #Veille / @cedric
-
-###Définition
-  
-  La veille informatique consiste a faire des recherches sur les diffenrentes avancées informatique pour les inclures dans sont propres travail 
   
 ### Chercher entre 3 et 5 outils de veille
 =======
-La veille informatique est le fait de se tenir a jour sur les techniques et nouveautés en rapport avec l'informatique.
 
 Outils de veille:
 
@@ -128,8 +137,6 @@ Les articles concernent plus la sécurité ou les technologies que le numérique
 <a name="amadou">
 #La veille / @amadou
 
-Démarche organisée visant à tenir au courant de ce qui se fait ou ce qui se dit dans un domaine particulier. le traitement d’informations et la diffusion de connaissances utiles à la maîtrise de son environnement et à la prise de décision.
-
 * Veille active – **Targeted competitive intelligence** : surveillance de l’environnement centrée sur un objet ou un domaine identifiés, qui sont donc l’objet d’une investigation.
 
 * Veille passive – **Monitoring competitive intelligence** : surveillance de l’environnement sans but et objet précisément définis.
@@ -175,9 +182,6 @@ On peut y trouver plusieurs types d'articles (News, Test de chaussures de basket
 <a name="omar">
 #Définition de la veille / @omar
 
-
-La veille consite à effectuer des recherches approffondies et actives, en grande partie itéractive visant un domaine  particulier comme  technologique, commercial, etc., pour en anticiper ces évolutions. Il s'agit en quelques sortes d'une récoltes d'informations sur un sujet donné en l'occurrence ici le numérique.
-
 #Chercher entre 3 et 5 outils de veille
 1. Le « micro-blogging »( twitter)
 2. Newsletters
@@ -204,10 +208,7 @@ Les points faibles :
 
 ##Définition
   
-  La veille informatique est un concept qui consiste à se tenir au courant des avancées technologiques dans le domaine de l'informatique afin d'anticiper les futurs besoins.
-  
-  
-## Outils de veille
+  ## Outils de veille
   
 ###Google alerts
   Google alerts consiste a rentré des mots-clés à surveiller. Vous recevrez ensuite par e-mail, les articles qui traitent du sujet. Il n’y a pas plus simple…
@@ -243,8 +244,6 @@ les alertes peuvent aussi vous aider à détecter tout plagiat ou copie de vos p
 # Veille Numérique 
 
 ## Définition 
-
-La veille est définie comme « une activité continue et itérative visant à une surveillance active de l’environnement technologique, commercial, etc.. pour en anticiper les évolutions ». Dans notre cas, la veille numérique consiste donc à se tenir informé des évolutions des TUICs dans nos matières respectives et, plus largement, dans l’enseignement.
 
 ## Les différents outils de veille 
 
@@ -307,8 +306,6 @@ Voyez ces exemples: Un Pearltrees en mathématiques,  ou celui-ci en histoire g�
 ## Définition @annissam
   
  #Veille Informatique
-
-**La veille informatique est un concept qui consiste à se tenir au courant des avancées technologiques dans le domaine de l'informatique afin d'anticiper les futurs besoins.*
   
 **2) Les outils de recherche d'information**
 
@@ -381,9 +378,6 @@ La limite des caractères peut empêcher une vraie critique de l’information.
 <a name="stevy">
 #Veille : Qu'est ce que c'est ?!
 ## *Définition* :
-On appelle veille le fait de se tenir au courant des informations pertinentes à un domaine défini.
-A la différence de la recherche d'informations, action ponctuelle, la veille est une activité continue.
-La recherche d'informations peut être une action de veille si elle est répeter selon un principe périodique régulier.
 
 ## *Différents Outils de Veille* :
 

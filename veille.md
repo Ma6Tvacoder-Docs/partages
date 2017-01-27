@@ -1,3 +1,30 @@
+[Définition](#Définition)
+
+[Les outils](#outils)
+
+---
+
+<a name="Définition">
+# Qu'est ce que la "Veille informatique" ?
+
+## *Définition*
+
+![image](https://www.camilleroux.com/wp-content/uploads/2009/09/3602683294_4c9c688bbc-300x300.jpg)
+
+**La veille informatique** est un concept qui consiste à se tenir au courant des avancées technologiques dans le domaine de
+l'informatique afin d'anticiper les futurs besoins.
+
+Elle consiste à effectuer des recherches approffondies et actives,**en grande partie intéractive visant un domaine particulier
+comme  technologique, commercial, etc.**, pour en anticiper ces évolutions.
+
+Il s'agit en quelques sortes d'une récoltes d'informations sur un sujet donné. A la différence de la recherche d'informations,
+action ponctuelle, la veille est **une activité continue**.
+La recherche d'informations peut être une action de veille si elle est répeter selon un principe périodique régulier.
+
+Dans notre cas, la veille informatique consiste donc à se tenir informé des évolutions des **TUICs (Technologies Usuelles de
+l'Information et de la Communication)** dans nos matières respectives et, plus largement, dans l’enseignement.
+
+<a name="outils">
 #Les outils de veille:
 
 Il existe plusieurs plateformes qui permettent la veille imformatique de nos jours :

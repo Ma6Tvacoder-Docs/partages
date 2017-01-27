@@ -6,7 +6,7 @@
 
 [Création et envoi de newsletter](#n_l)
 
-[Entraînements Code](#)
+[Entraînements Code](#coding)
 
    
 ---
@@ -37,3 +37,11 @@
 | **Création et envoi de newsletter** |
 | --- |
 [Mailchimp.com]( https://mailchimp.com/ )
+
+---
+<a name="coding">
+
+| **Entraînements au code** |
+| --- |
+
+[ **CodeCademy** idéal pour démarrer ses premières lignes de code](https://www.codecademy.com)

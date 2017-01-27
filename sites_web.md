@@ -27,7 +27,7 @@
 
 [Recherche Google](https://support.google.com/websearch/answer/2466433?hl=fr )
 
-[**Jeu** : les bonnes pratiques du mail professionnel](http://www.blogdumoderateur.com/bonnes-pratiques-email-ibellule/ (niveau 1 gratuit)
+[**Jeu -** les bonnes pratiques du mail professionnel](http://www.blogdumoderateur.com/bonnes-pratiques-email-ibellule/)
 
 ---
 <a name="n_l">

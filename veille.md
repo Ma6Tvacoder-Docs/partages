@@ -25,10 +25,6 @@
 <a name="lakhdar">
 # Qu'est ce que la "Veille informatique" ? / @lakhdar
 
-## *Définition*
-
-La veille informatique est un concept qui consiste à se tenir au courant des avancées technologiques dans le domaine de l'informatique afin d'anticiper les futurs besoins.
-
 ## *Chercher entre 3 à 5 outils de veille*
 
 Il existe plusieurs plateformes qui permettent la veille imformatique de nos jours :
@@ -58,10 +54,6 @@ Les Désaventages :
 
 <a name="cedric">
 #Veille / @cedric
-
-###Définition
-  
-  La veille informatique consiste a faire des recherches sur les diffenrentes avancées informatique pour les inclures dans sont propres travail 
   
 ### Chercher entre 3 et 5 outils de veille
 =======
@@ -128,16 +120,6 @@ Les articles concernent plus la sécurité ou les technologies que le numérique
 <a name="amadou">
 #La veille / @amadou
 
-Démarche organisée visant à tenir au courant de ce qui se fait ou ce qui se dit dans un domaine particulier. le traitement d’informations et la diffusion de connaissances utiles à la maîtrise de son environnement et à la prise de décision.
-
-* Veille active – **Targeted competitive intelligence** : surveillance de l’environnement centrée sur un objet ou un domaine identifiés, qui sont donc l’objet d’une investigation.
-
-* Veille passive – **Monitoring competitive intelligence** : surveillance de l’environnement sans but et objet précisément définis.
-
-* Veille concurrentielle – **Competitor intelligence** : méthodes d’analyse systématique et permanente des actions de la concurrence.
-
-* Veille offensive – **Industrial espionage** : méthode de veille qui fait appel à des procédés agressifs, voire illégaux, pour obtenir l’information recherchée ou pour influencer ou déstabiliser un adversaire.
-
 #Les différents outils de veille
 
 * Basket USA 
@@ -156,7 +138,7 @@ Le Journal du Geek est un site internet Français dédié à la culture geek.
 <http://www.journaldugeek.com>
 
 #Test Review de Basket USA
-Basket Usa est un site sur l'actualité du jeux video. la grande force de basket Usa est son forum communautaire qui regroupe des milliers de passionés qui peuvent, débattre et partager leur connaissances.
+Basket Usa est un site sur l'actualité du jeux video. la grande force de basket USA est son forum communautaire qui regroupe des milliers de passionés qui peuvent, débattre et partager leur connaissances.
 On peut y trouver plusieurs types d'articles (News, Test de chaussures de basket, annonce d'évènements liés au basket).
  
 #Les Plus
@@ -174,9 +156,6 @@ On peut y trouver plusieurs types d'articles (News, Test de chaussures de basket
 
 <a name="omar">
 #Définition de la veille / @omar
-
-
-La veille consite à effectuer des recherches approffondies et actives, en grande partie itéractive visant un domaine  particulier comme  technologique, commercial, etc., pour en anticiper ces évolutions. Il s'agit en quelques sortes d'une récoltes d'informations sur un sujet donné en l'occurrence ici le numérique.
 
 #Chercher entre 3 et 5 outils de veille
 1. Le « micro-blogging »( twitter)
@@ -201,11 +180,6 @@ Les points faibles :
 ---
 <a name="mohamadou">
 #Veille
-
-##Définition
-  
-  La veille informatique est un concept qui consiste à se tenir au courant des avancées technologiques dans le domaine de l'informatique afin d'anticiper les futurs besoins.
-  
   
 ## Outils de veille
   
@@ -241,10 +215,6 @@ les alertes peuvent aussi vous aider à détecter tout plagiat ou copie de vos p
 
 <a name="mariam">
 # Veille Numérique 
-
-## Définition 
-
-La veille est définie comme « une activité continue et itérative visant à une surveillance active de l’environnement technologique, commercial, etc.. pour en anticiper les évolutions ». Dans notre cas, la veille numérique consiste donc à se tenir informé des évolutions des TUICs dans nos matières respectives et, plus largement, dans l’enseignement.
 
 ## Les différents outils de veille 
 
@@ -380,10 +350,6 @@ La limite des caractères peut empêcher une vraie critique de l’information.
 
 <a name="stevy">
 #Veille : Qu'est ce que c'est ?!
-## *Définition* :
-On appelle veille le fait de se tenir au courant des informations pertinentes à un domaine défini.
-A la différence de la recherche d'informations, action ponctuelle, la veille est une activité continue.
-La recherche d'informations peut être une action de veille si elle est répeter selon un principe périodique régulier.
 
 ## *Différents Outils de Veille* :
 
@@ -429,10 +395,6 @@ ___________________________________________________________
 <a name="mila">
 # Veille / @mila
 
-  ## Définition
-  
-  [Linux.org : Méthode et outils pour la veille technologique](http://linuxfr.org/news/methode-et-outils-pour-la-veille-technologique)
-  
   ## Chercher entre 3 et 5 outils de veille
   
   [Muzli 2 : extension Chrome](https://chrome.google.com/webstore/detail/muzli-2-stay-inspired/glcipcfhmopcgidicgdociohdoicpdfc/related?hl=en)

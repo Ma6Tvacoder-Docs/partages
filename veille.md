@@ -131,6 +131,9 @@ Avantages:
 + Protéger son contenu:
 + Les alertes peuvent aussi vous aider à détecter tout plagiat ou copie de vos produits, services, articles ou publications.
 
+### Test review de twitter
+
+![alt text](https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-128.png)
 
 C’est un outil de microblogage qui permet à l’utilisateur après une inscription gratuite, d’envoyer des tweets (« gazouillis ») d’une longueur limitée à 140 caractères.
 

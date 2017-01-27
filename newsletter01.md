@@ -1,7 +1,7 @@
 
 CUISINE
 
- * nouvelles recette
+ * nouvelles recetteS
 
 MODE 
 
@@ -22,6 +22,7 @@ ACTUALITE LES POLES
 
 NUMERIQUE
 
+ * Strategie web
  * Sur le matériel informatique
  * Logiciels
  * News web

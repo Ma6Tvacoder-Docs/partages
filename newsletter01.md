@@ -1,3 +1,10 @@
+#NEWSLETTER Annissa
+
+Nouvelles sneekers
+sortie de film cinema
+fashionweek
+nouvelles recette
+=======
 Cédric
 Je propose les rubriques suivante :
 
@@ -57,3 +64,4 @@ Propositions de reubriques Amadou:
 * Web Design
 * Graphisme
 * Street Art
+

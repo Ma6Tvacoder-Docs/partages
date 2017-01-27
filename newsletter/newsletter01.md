@@ -1,3 +1,56 @@
+#Musique
+
+----
+
+###Rap americain
+
+![Alt text](http://static.booska-p.com/images/news/culture-le-nouvel-album-de-migos-en-streaming-audio-649.jpg)
+
+« Culture »,le nouvelle album de migos en streaming
+[Plus d'info](http://www.booska-p.com/new-culture-le-nouvel-album-de-migos-en-streaming-audio-n70176.html)
+
+----
+
+###Rap francais
+
+![alt text](http://static.booska-p.com/images/news/jok-air-va-sortir-un-ep-gratuit-649.jpg)
+
+Jok'air va sortir un ep gratuis
+[Plus d'info](http://www.booska-p.com/new-jok-air-va-sortir-un-ep-gratuit-n70189.html)
+
+----
+
+###Pop
+
+![Alt text](http://www.gdnonline.com/gdnimages/20161210/20161210152636zaynandtaylor.jpg)
+
+À quelques semaines de la sortie du très attendu Fifty Shades Darker, Taylor Swift et Zayn Malik font monter la pression 
+
+[Plus d'info](http://www.gdnonline.com/Details/148771/Taylor-Swift,-Zayn-Malik-surprise-fans-with-Fifty-Shades-Darker-duet)
+
+----
+
+###Soul
+
+![Alt text](http://image-api.nrj.fr/http/media.nrj.fr%2F436x327%2F2016%2F05%2Falicia-keys_4240.jpg?w=436&h=327)
+
+October London revisite des classiques de Dr. Dre dans son EP « Methadone »
+
+[Plus d'info](http://www.nrj.fr/artistes/alicia-keys/actus/alicia-keys-offre-un-nouveau-morceau-pour-son-anniversaire-344433)
+
+----
+
+###Rock 
+
+![alt text](http://www.thebighousemuseum.com/wp-content/uploads/2013/07/allman-brothers-band-1969.jpg)
+
+Butch Trucks du Allman Brothers Band nous a quittés
+
+[Plus d'info](http://www.lagrosseradio.com/rock/webzine-rock/actu-rock/p17424-butch-trucks-du-allman-brothers-band-nous-a-quittes.html)
+
+
+
+=======
 ###Qu'est ce que la stratégie web ?
 
 --------------------
@@ -95,4 +148,5 @@ source [Sports.fr](http://www.sports.fr/tennis/open-d-australie/articles/nadal-s
 Final Fantasy XV porte en lui les stigmates d'un projet chaotique. Son open-world est gargentuesque, mais assez vide. Ses combats ultra dynamiques, mais parfois confus. Son histoire grandiloquente, mais un peu heurtée. Souvent le grandiose côtoie le frustrant, faisant de lui un titre résolument clivant. Mais si évoquer tout cela est légitime, n'en oublions pas l'essentiel : les 4 héros comptent parmi les personnages les plus humains de l'histoire du jeu vidéo, le dernier plan achevant de les rendre immortels. Aussi inattendu que cela puisse paraître, c'est donc dans l'intime que l'aventure forge sa légende. Rares sont les productions offrant une aussi généreuse tranche de vie, et cela ne se balaye pas d'un revers de main. Il y a des jeux qui divertissent, d'autres irréprochables qui peinent à toucher, et il y a ceux certes imparfaits qui pourtant laissent une émotion éternelle. Avec ses maladresses, Final Fantasy XV a réussi un véritable tour de force : inscrire ce chapitre dans la culture de nombreux joueur.
 
 [Pour plus d'info, cliquer ici](http://www.finalfantasyxv.com/fr)
+
 

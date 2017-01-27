@@ -134,8 +134,6 @@ Avantages:
 
 C’est un outil de microblogage qui permet à l’utilisateur après une inscription gratuite, d’envoyer des tweets (« gazouillis ») d’une longueur limitée à 140 caractères.
 
-Avantages:
-
 + L’information y est en temps réel
 + On choisit qui on suit et donc de qui on tient nos informations
 + La possibilité de relayer avec ou sans changement est particulièrement appréciée, surtout quand on ne touche pas au tweet, tout le       monde sait d’où il provient puisque le profil d’utilisateur est celui du premier compte

@@ -119,19 +119,18 @@ Pour la neuvième fois de l’histoire en Grand Chelem, il retrouvera dimanche e
 source [Sports.fr](http://www.sports.fr/tennis/open-d-australie/articles/nadal-s-offre-une-finale-de-legende-s-1735268)
 =======
 
-#Jeux vidéos
 
-![image](http://www.icone-png.com/ico/52/52006.ico)
-![image](http://www.icone-png.com/ico/52/51994.ico)
-![image](http://www.icone-png.com/ico/33/33172.ico)
+# Jeux Videos
+
+## Nouveautés
 
 
++ RESIDENT EVIL VII
+=======
 ![image](http://images2.itechpost.com/data/images/full/28998/resident-evil-vii-biohazard.jpg)
 =======
 
-##Nouveautés
-
-###RESIDENT EVIL VII - VR
+![image](http://images2.itechpost.com/data/images/full/28998/resident-evil-vii-biohazard.jpg)
 
 **Note globale** : 16/20
 

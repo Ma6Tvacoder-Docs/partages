@@ -1,9 +1,14 @@
-#NEWSLETTER Annissa
+###NEWSLETTER Annissa
 
 Nouvelles sneekers
-sortie de film cinema
-fashionweek
-nouvelles recette
+
+*sortie de film cinema
+
+*fashionweek
+
+*nouvelles recette
+
+
 =======
 Cédric
 Je propose les rubriques suivante :

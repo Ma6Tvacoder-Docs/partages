@@ -1,67 +1,46 @@
-#NEWSLETTER Annissa
 
-Nouvelles sneekers
-sortie de film cinema
-fashionweek
-nouvelles recette
-=======
-Cédric
-Je propose les rubriques suivante :
+CUISINE
+
+ * nouvelles recette
+
+MODE 
+
+ * Nouvelles sneekers
+ * sortie de film cinema
+ * fashionweek
+
+JEUX VIDEO 
 
  * Actualite Jeux video
  * prochaine mise a jour jeux 
  * les dernieres sortie de la semaine jeux 
 
- 
-=======
-#Veille GOOGLE
-=======
-##Ali
-Un article sur l'ouverture du FabLab a pantin.
+ACTUALITE LES POLES
 
-Un article sur la formation ma6tvacoder a pierrefitte.
+ * Un article sur l'ouverture du FabLab a pantin.
+ * Un article sur la formation ma6tvacoder a pierrefitte.
 
-Stratégie web.
+NUMERIQUE
 
-La situation dans les quartiers.
----
-## Newsletter @ Omar 
-Je propose des news:
-+ Sur le matériel informatique
-+ Logiciels
-+ News web
----
-# rubriques Mohamadou
+ * Sur le matériel informatique
+ * Logiciels
+ * News web
+ * smartphone
+ * ordinateur
+ * Objets Connectés
+ * Maison Connectés ( Domotique )
+ * Web Design
 
-+smartphone
-
-+television 
-
-+ordinateur
-
-+jeux-video
-
----
-Propositions rubrique Lakhdar :
-
-+ Fab lab
-+ Ecole du web
----
-# Rubriques de Stevy :
-+ Smartphones
-+ Tablettes
-+ Pc Portables
-+ Objets Connectés
-+ Maison Connectés ( Domotique )
-+ Gaming
-+ Tv / Video
----
-Propositions de reubriques Amadou:
+SPORT 
 
 * Basket-ball
-* Jeux video
+
+MUSIQUE 
+
 * Musique
-* Web Design
+
+ARTS
+
 * Graphisme
 * Street Art
 

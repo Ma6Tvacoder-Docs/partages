@@ -2,6 +2,8 @@
 
 [Annissa](#annissa)
 
+[Ali](#ali)
+
 [Catherine](#catherine)
 
 [James](#james)
@@ -59,27 +61,6 @@ Les Désaventages :
 <a name="cedric">
 #Veille / @cedric
 
-###Définition
-  
-  La veille informatique consiste a faire des recherches sur les diffenrentes avancées informatique pour les inclures dans sont propres travail 
-  
-### Chercher entre 3 et 5 outils de veille
-=======
-La veille informatique est le fait de se tenir a jour sur les techniques et nouveautés en rapport avec l'informatique.
-
-Outils de veille:
-
-* Google.com et autres moteurs de recherche. Ils permettent une recherche claire d'un sujet précis, la fonction actualité du site 
-* google est aussi très utile pour se tenir a jour sur les différentes actualités (numériques ou autre).
-
-* Korben.info, Linuxfr.org et autres blogs de relai d'information.
-
-* Wikipédia.com et autres encyclopédies en lignes mises a jour régulièrement.
-
-* hardware.fr et autres forums en rapport avec l'informatique.
-
-* github.com
-
   1. Les flux RSS
   
        * Les numeriques
@@ -105,6 +86,32 @@ Outils de veille:
 Inconveniant :
 * Securite 
 * fiabilite 
+
+
+<a name="ali">
+
+
+###Définition
+  
+  La veille informatique consiste a faire des recherches sur les diffenrentes avancées informatique pour les inclures dans sont propres travail 
+  
+### Chercher entre 3 et 5 outils de veille
+=======
+La veille informatique est le fait de se tenir a jour sur les techniques et nouveautés en rapport avec l'informatique.
+
+Outils de veille:
+
+* Google.com et autres moteurs de recherche. Ils permettent une recherche claire d'un sujet précis, la fonction actualité du site 
+* google est aussi très utile pour se tenir a jour sur les différentes actualités (numériques ou autre).
+
+* Korben.info, Linuxfr.org et autres blogs de relai d'information.
+
+* Wikipédia.com et autres encyclopédies en lignes mises a jour régulièrement.
+
+* hardware.fr et autres forums en rapport avec l'informatique.
+
+* github.com
+
 
 ---
 

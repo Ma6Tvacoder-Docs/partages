@@ -1,3 +1,21 @@
+#NEWSLETTER Annissa
+
+Nouvelles sneekers
+sortie de film cinema
+fashionweek
+nouvelles recette
+=======
+Cédric
+Je propose les rubriques suivante :
+
+ * Actualite Jeux video
+ * prochaine mise a jour jeux 
+ * les dernieres sortie de la semaine jeux 
+
+ 
+=======
+#Veille GOOGLE
+=======
 ##Ali
 Un article sur l'ouverture du FabLab a pantin.
 
@@ -37,4 +55,13 @@ Propositions rubrique Lakhdar :
 + Maison Connectés ( Domotique )
 + Gaming
 + Tv / Video
+---
+Propositions de reubriques Amadou:
+
+* Basket-ball
+* Jeux video
+* Musique
+* Web Design
+* Graphisme
+* Street Art
 

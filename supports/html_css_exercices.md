@@ -59,7 +59,7 @@ Après, j'ai pu déballer tous mes cadeaux :
 
 2. Mamie Elisabeth : des _CD_
 
-3. Tonton Hugues : des **_livres_**`
+3. Tonton Hugues : des **_livres_**
 
 ---
 <a name="exo04">

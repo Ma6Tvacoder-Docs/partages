@@ -65,3 +65,5 @@
 | --- |
 
 [ **CodeCademy** idéal pour démarrer ses premières lignes de code](https://www.codecademy.com)
+
+[Atom pakage indentation](https://atom.io/packages/indent-guide-improved)

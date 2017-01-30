@@ -62,8 +62,7 @@ Après, j'ai pu déballer tous mes cadeaux :
 3. Tonton Hugues : des **_livres_**`
 
 ---
-<a name="exo_04">
+<a name="exo04">
 
 ###Exo 4
 
-Dans votre

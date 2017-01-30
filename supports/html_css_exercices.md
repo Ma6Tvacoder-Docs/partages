@@ -2,7 +2,7 @@
 
 ##Principes de base
 
-- On travaile **toujours** dans un répertoire _raçine_ ici **htdocs/** qui se situe dans votre explorateur de fichiers ici : _c/:xampp_
+- On travaile **_toujours_** dans un répertoire __raçine__ qui se nomme **htdocs/**, **_et_** qui se situe dans votre **explorateur de fichiers** ici : _c/:xampp
 
 [Exercice 1](#exo01)
 

@@ -65,3 +65,10 @@
 | --- |
 
 [ **CodeCademy** idéal pour démarrer ses premières lignes de code](https://www.codecademy.com)
+
+[Atom pakage indentation](https://atom.io/packages/indent-guide-improved)
+
+[Couleurs du web](https://fr.wikipedia.org/wiki/Couleur_du_Web)
+
+[Code-couleur](http://www.code-couleur.com/)
+

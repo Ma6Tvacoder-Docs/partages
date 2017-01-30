@@ -1,5 +1,4 @@
-###Qu'est ce que la stratégie web ?
-
+###La rubrique Stratégie Web: Google Analytics.
 --------------------
 Une stratégie web est un plan strategique à long terme qui indique comment créer et développer la présence en ligne de votre entreprise.
 En rapport avec les centres d'intérêt de votre audience, pensez aux moments du quotidien. Lorsque les internautes se connectent sur leur appareil pour obtenir une réponse, découvrir de nouveaux produits et services, ou prendre des décisions.

@@ -5,6 +5,7 @@
 [Exercice 2](#exo02)
 
 [Exercice 3](#exo03)
+
 ---
 
 <a name="exo01">

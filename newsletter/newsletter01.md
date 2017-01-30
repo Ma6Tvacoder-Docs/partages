@@ -1,3 +1,100 @@
+
+## Les soldes des créateurs By TKH EVENTS
+
+A l'occasion des soldes nationales en France, TKH EVENTS organise sa nouvelle édition sur le thème des "soldes des créateurs" le samedi 4 et le Dimanche 5 Février 2017 au 236 rue Saint-Martin 75003 Paris. Vous aurez l'occasion de vous procurer vos pièces préférées auprès des meilleurs créateurs afro, le temps d'un week-en et de voyager à travers des mets d'ici et d'ailleurs.
+
+Aujourd'hui reconnue en tant que référence dans l'organistion des événements afro ( mode, art déco, art de vivre...) TKH EVENTS sélèctionne les meilleurs créateurs africains et antillais du moment et vous donne rendez-vous chaque trimestre pour vous faire découvrir leurs collections en plein coeur de Paris.  
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-BurDZAhyCAdgCgKD31y5HzTYM3iwOwkfRxfPuUbEIqjz2WFofA)
+
+A l'occasion des soldes nationales en France, TKH EVENTS organise sa nouvelle édition sur le thème des "soldes des créateurs" le samedi 4 et le Dimanche 5 Février 2017 au 236 rue Saint-Martin 75003 Paris. Vous aurez l'occasion de vous procurer vos pièces préférées auprès des meilleurs créateurs afro, le temps d'un week-en et de voyager à travers des mets d'ici et d'ailleurs.
+
+Parmis ces créateurs hors du commun WE ARE SOUFFLES sera présente, cette marque de prêt-à-porter et d'accessoires s'inspirant des textiles traditionnelles du monde entier contribue à travers sa nouvelle collection à la formation de la mode urbaine de demain.
+
+![alt text](https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-0/c78.0.200.200/p200x200/15380326_1218622078229116_1580589064939129933_n.jpg?oh=d6935492da64d2dc3e0275155d8edc0f&oe=5907930D)
+
+![alt text](https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/14470370_1136676236423701_4462122564943916970_n.jpg?oh=1ccfecdaab753be12f42fb90dc32e15e&oe=590A8997)
+
+Toujours dans l'esprit urbain afro chic la marque MBOAWAX appporte à ses créations une signature colorée et moderne s'inpirant de l'éventail du Made In Africa
+
+![alt text](https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-0/s480x480/15871669_740664499414719_7514904687353348207_n.jpg?oh=7147053185222e5722255de2b9544a8f&oe=591FDD69)
+=======
+#Musique
+
+----
+
+###Rap americain
+
+![Alt text](http://static.booska-p.com/images/news/culture-le-nouvel-album-de-migos-en-streaming-audio-649.jpg)
+
+« Culture »,le nouvelle album de migos en streaming
+[Plus d'info](http://www.booska-p.com/new-culture-le-nouvel-album-de-migos-en-streaming-audio-n70176.html)
+
+----
+
+###Rap francais
+
+![alt text](http://static.booska-p.com/images/news/jok-air-va-sortir-un-ep-gratuit-649.jpg)
+
+Jok'air va sortir un ep gratuis
+[Plus d'info](http://www.booska-p.com/new-jok-air-va-sortir-un-ep-gratuit-n70189.html)
+
+----
+
+###Pop
+
+![Alt text](http://www.gdnonline.com/gdnimages/20161210/20161210152636zaynandtaylor.jpg)
+
+À quelques semaines de la sortie du très attendu Fifty Shades Darker, Taylor Swift et Zayn Malik font monter la pression 
+
+[Plus d'info](http://www.gdnonline.com/Details/148771/Taylor-Swift,-Zayn-Malik-surprise-fans-with-Fifty-Shades-Darker-duet)
+
+----
+
+###Soul
+
+![Alt text](http://image-api.nrj.fr/http/media.nrj.fr%2F436x327%2F2016%2F05%2Falicia-keys_4240.jpg?w=436&h=327)
+
+October London revisite des classiques de Dr. Dre dans son EP « Methadone »
+
+[Plus d'info](http://www.nrj.fr/artistes/alicia-keys/actus/alicia-keys-offre-un-nouveau-morceau-pour-son-anniversaire-344433)
+
+----
+
+###Rock 
+
+![alt text](http://www.thebighousemuseum.com/wp-content/uploads/2013/07/allman-brothers-band-1969.jpg)
+
+Butch Trucks du Allman Brothers Band nous a quittés
+
+[Plus d'info](http://www.lagrosseradio.com/rock/webzine-rock/actu-rock/p17424-butch-trucks-du-allman-brothers-band-nous-a-quittes.html)
+
+
+
+=======
+###Qu'est ce que la stratégie web ?
+
+--------------------
+Lorsque vous réfléchissez aux centres d'intérêt de votre audience, pensez aux moments importants au quotidien. Il s'agit des instants "je veux aller", "je veux faire", "je veux acheter" ou "je veux savoir", lorsque les internautes se connectent sur leur appareil pour obtenir une réponse, découvrir de nouveaux produits et services, ou prendre des décisions.
+Une stratégie web est un plan strategique à long terme qui indique comment créer et développer la présence en ligne de votre entreprise.
+
+---
+
+#Smartphones
+---
+
+###Apple
+La nouveauté smartphone chez Apple est l'iphone 7. Tout comme son prédeccesseur l'iphone 6, deux versions de ce smartphone existent: L'Iphone 7 et l'Iphone 7 plus.
+
+[Plus d'infos](http://www.apple.com/fr/shop/buy-iphone/iphone-7?afid=p238%7Cs05EVyND6-dc_mtid_187079nc38483_pcrid_165684031121_&cid=aos-fr-kwgo-brand-h17-slid-p65uBhtj-product-)
+
+
+
+###Samsung
+Samsung innove avec le samsung galaxy S7 lui aussi en deux versions: Le samsung galaxy S7 et le samsung galaxy S7 edge.
+
+[plus d'infos](http://www.samsung.com/fr/consumer/mobile-devices/smartphones/)
+=======
+
 #SPORTS
 
 ![image](http://bulgaria-online.bg/clients/210/images/catalog/categories/sports.png)
@@ -42,19 +139,18 @@ Pour la neuvième fois de l’histoire en Grand Chelem, il retrouvera dimanche e
 source [Sports.fr](http://www.sports.fr/tennis/open-d-australie/articles/nadal-s-offre-une-finale-de-legende-s-1735268)
 =======
 
-#Jeux vidéos
 
-![image](http://www.icone-png.com/ico/52/52006.ico)
-![image](http://www.icone-png.com/ico/52/51994.ico)
-![image](http://www.icone-png.com/ico/33/33172.ico)
+# Jeux Videos
+
+## Nouveautés
 
 
++ RESIDENT EVIL VII
+=======
 ![image](http://images2.itechpost.com/data/images/full/28998/resident-evil-vii-biohazard.jpg)
 =======
 
-##Nouveautés
-
-###RESIDENT EVIL VII - VR
+![image](http://images2.itechpost.com/data/images/full/28998/resident-evil-vii-biohazard.jpg)
 
 **Note globale** : 16/20
 
@@ -72,7 +168,4 @@ Final Fantasy XV porte en lui les stigmates d'un projet chaotique. Son open-worl
 
 [Pour plus d'info, cliquer ici](http://www.finalfantasyxv.com/fr)
 
----
-
-#
 

@@ -1,10 +1,16 @@
 #Sommaire
 
+##Principes de base
+
+- On travaile **toujours** dans un répertoire _raçine_ ici **htdocs/** qui se situe dans votre explorateur de fichiers ici : _c/:xampp_
+
 [Exercice 1](#exo01)
 
 [Exercice 2](#exo02)
 
 [Exercice 3](#exo03)
+
+[Exercice 4](#exo04)
 
 ---
 
@@ -54,3 +60,10 @@ Après, j'ai pu déballer tous mes cadeaux :
 2. Mamie Elisabeth : des _CD_
 
 3. Tonton Hugues : des **_livres_**`
+
+---
+<a name="exo_04">
+
+###Exo 4
+
+Dans votre

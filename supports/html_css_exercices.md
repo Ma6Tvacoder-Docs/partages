@@ -1,9 +1,10 @@
 #Sommaire
 
-
+[Exercice 1](#exo01)
 
 ---
 
+<a name="exo01">
 ###Exo 1
 
 Produire un document en html de ce que vous avez compris sur le cours de la journée d'hier sur l'introduction au langage HTML :

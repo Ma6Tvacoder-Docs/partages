@@ -4,13 +4,13 @@
 
 **Soyons vigilants** : les **noms** des **dossiers/répertoires** et des **fichiers** sont **tous** :
 - en **MINUSCULES**
-- **SANS ESPACES**
-- **SANS CARACTERES SPECIAUX** (accents, #, &, =, ç...)
-- sauf **-** ou **_**.
+- **SANS** ESPACES
+- **SANS* CARACTERES SPECIAUX (accents, #, &, =, ç...)
+- **SAUF** **-** ou **_**.
 
 ---
 
-###Ce fichier n'est pas finalisé, il à vocation à évoluer avec votre prise en mains des différents outils (GitHub, GitKraken et bien évidemment la console (terminal, cmder, iterm...) 
+###Ce fichier n'est pas finalisé, il à vocation à évoluer avec votre prise en main des différents outils (GitHub, GitKraken et bien évidemment la console (terminal, cmder, iterm...) 
 
 ---
 

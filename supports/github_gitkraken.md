@@ -38,7 +38,8 @@
 Actions | Terminal (ou cmder par ex.) | GitHub | GitKraken | Sous Mac (Terminal ou iterm)
 --- | --- | --- | --- | ---
 **En local** aller sur le répertoire _raçine C://_ | cd../.. | :imp: | :imp: | cd.. ne fonctionne PAS aussi => indiquer **cd/tous/les/répertoires à parcourir** à CHAQUE instruction **cd/XXX**
-**En local** rentrer dans le répertoire de travail `htdocs` de xampp | cd xampp\htdocs | :imp: | :imp: | :octocat:
+**En local** rentrer dans le répertoire de travail `htdocs` de xampp | cd xampp\htdocs | :imp: | :imp: | :octocat: | cd /Applications/xampp/htdocs
+Vérifier le répertoire en cours d'utilisation **sous MAC ou autre** | **pwd** | **pwd** | **pwd** | **pwd** pour Present Writing Directory
 Créer un _dossier_ | **mkdir** mondossier | :imp: | :imp: | :octocat:
 _(Ré-)_ Initialiser le tracking d'un _dossier_ | **git init** | :imp: | :imp: | :octocat:
 Créer un _fichier_ | **touch** monfichier.ext | bouton `create new file` | :octocat: | :octocat: | :octocat:

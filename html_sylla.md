@@ -25,15 +25,3 @@ la structure d'un document HTML se compose ainsi :
 
 *La syntaxe des balises:*
 
-*Les balises HTML respectent une syntaxe simple et stricte :*
-
-Un chevron ouvrant (<)
-Le nom de la balise
-Des attributs (optionnels). Un espace, suivi du nom de l'attribut, d'un signe égal (=) et d'une valeur entre doubles quotes ("").
-Un chevron fermant (>)
-
-Voici quelques exemples :
-
-<article>
-<meta charset="utf-8">
-<img src="monImage.png" alt="">

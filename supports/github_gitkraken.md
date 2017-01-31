@@ -2,6 +2,14 @@
 
 ####Remarque : toutes les actions se font dans le dossier ou répertoire de travail concerné.
 
+**Soyons vigilants** : les **noms** des **dossiers/répertoires** et des **fichiers** sont **tous** 
+- en **MINUSCULES**
+- **SANS ESPACES**
+- **SANS CARACTERES SPECIAUX**
+- sauf **-** ou **_**
+
+---
+
 :imp: = non, travailler avec un autre outil... :alien:
 
 :octocat: = à compléter
@@ -10,6 +18,8 @@
 
 Actions | Terminal (ou cmder par ex.) | GitHub | GitKraken
 --- | --- | --- | ---
+**En local** aller sur le répertoire _raçine C://_ | cd../.. | :imp: | :imp:
+**En local** rentrer dans le répertoire de travail `htdocs` de xampp | cd xampp\htdocs | :imp: | :imp:
 Créer un _dossier_ | **mkdir** mondossier | :imp: | :imp:
 _(Ré-)_ Initialiser le tracking d'un _dossier_ | **git init** | :imp: | :imp:
 Créer un _fichier_ | **touch** monfichier.ext | bouton `create new file` | :octocat:

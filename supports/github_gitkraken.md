@@ -23,6 +23,7 @@
 - [ ] repérer et tester pour **chaque ACTION** indiquée dans le tableau le(s) bouton(s) à cliquer / action(s) à effectuer sur les différents outils
 - [ ] compléter le tableau avec le résultat de vos tests (si une action est possible avec un outil, noter les instructions/commandes/boutons à cliquer et _si ce n'est **pas possible** avec un outil..._ :imp:!)
 - [ ] on ajoute bien évidemment des lignes au tableau si les commandes / instructions n'y sont pas encore, mais que vous les avez testées !!
+- [ ] les utilisateurs de Macs sont invités à noter/demander les différences... il y en à parfois...:sweat:
 - [ ] dès qu'une tâche dans cette liste **est finie à _100%_**, ajouter un `x` entre les [ ] pour indiquer que c'est fait comme ci-dessous
 - [x] c'est fait ! :sunglasses:
 

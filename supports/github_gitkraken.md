@@ -12,6 +12,7 @@
 ---
 
 ###Ce fichier n'est pas finalisé, il à vocation à évoluer avec votre prise en main des différents outils (GitHub, GitKraken et bien évidemment la console (terminal, cmder, iterm...) 
+###Son évolution s'enrichit des expériences de chacun... Alors contribuez TOUS !
 
 ---
 

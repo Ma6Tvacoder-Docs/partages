@@ -110,7 +110,12 @@ CTRL + s
 | **GitHub & GitKraken** |
 | --- |
 
-[GitKraken](https://www.gitkraken.com)
+[Le site GitKraken](https://www.gitkraken.com)
+
+[Cheat sheet GitKraken pour les utilisateurs de GitHub](https://www.gitkraken.com/downloads/gitkraken-for-github-cheat-sheet-v1.6.pdf)
+
+[Cheat sheet GitKraken](https://www.gitkraken.com/downloads/gitkraken-cheat-sheet-v1.6.pdf)
+
 ---
 <a name="couleurs">
 

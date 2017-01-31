@@ -110,6 +110,8 @@ CTRL + s
 | **GitHub & GitKraken** |
 | --- |
 
+[Les outils markdown : emojis](http://www.webpagefx.com/tools/emoji-cheat-sheet/)
+
 [Le site GitKraken](https://www.gitkraken.com)
 
 [Cheat sheet GitKraken pour les utilisateurs de GitHub](https://www.gitkraken.com/downloads/gitkraken-for-github-cheat-sheet-v1.6.pdf)

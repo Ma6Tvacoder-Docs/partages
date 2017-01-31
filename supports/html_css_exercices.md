@@ -112,4 +112,4 @@ Réaliser un fichier HTML nommé "exo_04.html" dans lequel il faudra obtenir l'a
     <link />
     ```
     
-    5. Le W3C - La validation du code
+5. Le W3C - La validation du code

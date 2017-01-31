@@ -14,6 +14,8 @@
 
 [Editeurs, IDE, Atom...](#atom)
 
+[GitHub & GitKraken](#git)
+
 [Les couleurs du Web](#couleurs)
 
    
@@ -102,7 +104,13 @@ CTRL + Shift + d
 - enregistrer le fichier en cours
 
 CTRL + s
+---
+<a name="git">
 
+| **GitHub & GitKraken** |
+| --- |
+
+[GitKraken](https://www.gitkraken.com)
 ---
 <a name="couleurs">
 

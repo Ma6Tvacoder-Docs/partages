@@ -1,7 +1,9 @@
 
 #HTML
 
+Généralement, les balises fonctionnent par paires. La première balise est la balise ouvrante et la seconde est la balise fermante. Une balise fermante doit avoir le même nom que la balise ouvrante correspondante. De plus, une balise fermante doit contenir une barre oblique entre le chevron initial et le nom de la balise. Ainsi, si <p> est une balise ouvrante, </p> sera la balise fermante correspondante.
 
+Un élément HTML se compose d'une balise ouvrante, d'un contenu textuel et d'une balise fermant
 ##*les balises:*
 <h1> <h2> <h3>...etc permetent de definir des titres 
 

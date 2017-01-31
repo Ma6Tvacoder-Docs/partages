@@ -22,8 +22,8 @@
 - [ ] créer un **nouveau** repository sur **son GitHub personnel** que l'on appelle _fantome_ [ATTENTION, on le créé avec son fichier _readme.md_ renseigné (par exemple "tester les commandes GitHub, GitKraken et en mode Terminal de commande")
 - [ ] repérer et tester pour **chaque ACTION** indiquée dans le tableau le(s) bouton(s) à cliquer ou instructions en ligne de commande à taper / action(s) à effectuer sur les différents outils
 - [ ] compléter le tableau avec le résultat de vos tests (si une action est possible avec un outil, noter les instructions/commandes/boutons à cliquer et _si ce n'est **pas possible** avec un outil..._ :imp:!)
-- [ ] on ajoute bien évidemment des lignes au tableau si les commandes / instructions n'y sont pas encore, mais que vous les avez testées !!
-- [ ] les utilisateurs de Macs sont invités à noter/demander les différences... il y en à parfois...:sweat:
+- [ ] on ajoute bien évidemment des lignes au tableau si les commandes / instructions n'y sont pas encore, mais que vous avez **trouvées _(après recherche **sérieuse** sur internet)_ ET testées"" !!
+- [ ] les utilisateurs de Macs sont invités à noter/demander les différences dans la dernière colonne... il y en à parfois...:sweat:
 - [ ] dès qu'une tâche dans cette liste **est finie à _100%_**, ajouter un `x` entre les [ ] pour indiquer que c'est fait comme ci-dessous
 - [x] c'est fait ! :sunglasses:
 
@@ -37,7 +37,7 @@
 
 Actions | Terminal (ou cmder par ex.) | GitHub | GitKraken | Sous Mac (Terminal ou iterm)
 --- | --- | --- | --- | ---
-**En local** aller sur le répertoire _raçine C://_ | cd../.. | :imp: | :imp: | :octocat:
+**En local** aller sur le répertoire _raçine C://_ | cd../.. | :imp: | :imp: | cd /`indiquer **tous les répertoires à parcourir** A CHAQUE instruction **cd XXX**`
 **En local** rentrer dans le répertoire de travail `htdocs` de xampp | cd xampp\htdocs | :imp: | :imp: | :octocat:
 Créer un _dossier_ | **mkdir** mondossier | :imp: | :imp: | :octocat:
 _(Ré-)_ Initialiser le tracking d'un _dossier_ | **git init** | :imp: | :imp: | :octocat:

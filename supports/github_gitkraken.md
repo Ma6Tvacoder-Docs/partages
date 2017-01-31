@@ -35,7 +35,7 @@
 
 ---
 
-Actions | Terminal (ou cmder par ex.) | GitHub | GitKraken | Sous Mac (ligne de commande ex sous iterm)
+Actions | Terminal (ou cmder par ex.) | GitHub | GitKraken | Sous Mac (Terminal ou iterm)
 --- | --- | --- | --- | ---
 **En local** aller sur le répertoire _raçine C://_ | cd../.. | :imp: | :imp: | :octocat:
 **En local** rentrer dans le répertoire de travail `htdocs` de xampp | cd xampp\htdocs | :imp: | :imp: | :octocat:

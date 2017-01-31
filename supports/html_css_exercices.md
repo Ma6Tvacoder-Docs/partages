@@ -78,7 +78,7 @@ Réaliser un fichier HTML nommé "exo_04.html" dans lequel il faudra obtenir l'a
   
 3. Terminologie
   - Eléments : ils définissent la structure et le contenu des objets au sein d'une page. Les plus couramment utilisés sont les niveaux de titre (h1 à h6) et les paragraphes (avec la balise p)
-  - Baslises : elles sont reconnaissables car elles sont encadrées d'un chevron ouvrant et d'un chevron fermant. L'ouverture d'une balise détermine le début d'un élément. Sa fermeture détermine sa fin. Le contenu qui est inséré entre une balise ouvrante et fermante représente le contenu de cet élément. Par exemple, un lien html sera encadré d'une balise A ouvrante et fermante
+  - Baslises : elles sont reconnaissables car elles sont encadrées d'un chevron ouvrant et d'un chevron fermant. L'ouverture d'une balise détermine le début d'un élément. Sa fermeture détermine sa fin. Le contenu qui est inséré entre une balise ouvrante et fermante représente le contenu de cet élément. Par exemple, un lien html sera encadré d'une balise A ouvrante et fermante. Il existe aussi des balises auto-fermantes (aussi dites orphelines).
   - Attributs : ce sont des propriétés utilisées pour fournir des informations complémentaires sur un élément. Les attributs les plus communs incluent l'attribut ID (qui identifie un élément), l'attribut CLASS (qui classifie un élément), l'attribut SRC (qui spécifie la source d'un contenu qui peut être imbriqué) et l'attribut HREF (qui contient un lien hypertexte vers une ressource liée). Les attributs sont définis au sein de la balise ouvrant après le nom de l'élément :
   
   ```
@@ -100,3 +100,5 @@ Réaliser un fichier HTML nommé "exo_04.html" dans lequel il faudra obtenir l'a
   - **!DOCTYPE html** informe le navigateur web que le document est de type html et qu'il s'agit (ici) de la dernière version du langage
   - à l'intérieur de l'élément _html_ la balise **head** identifie le début du document et inclue les métadonnées (informations su r la page). Le contenu à l'intérieur de la balise head n'est pas affiché par le navigateur puisqu'il donne des informations sur la page (- liens vers des fichiers externes, utilisation du langage html, titre de la page).
   - tout ce qui s'affichera dans le navigateur est inclus à l'intérieur de la balise **body**.
+  - quand un élément est placé au sein d'un autre (ou imbriqué) il est important d'**indenter** cet élément en le décalant vers la droite à l'aide de la tabulation pour conserver une structure bien organisée et lisible pour tout le monde.
+  -

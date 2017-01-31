@@ -2,13 +2,20 @@
 
 ####Remarque : toutes les actions se font dans le dossier ou répertoire de travail concerné.
 
-**Soyons vigilants** : les **noms** des **dossiers/répertoires** et des **fichiers** sont **tous** 
+**Soyons vigilants** : les **noms** des **dossiers/répertoires** et des **fichiers** sont **tous** :
 - en **MINUSCULES**
 - **SANS ESPACES**
-- **SANS CARACTERES SPECIAUX**
-- sauf **-** ou **_**
+- **SANS CARACTERES SPECIAUX** (accents, #, &, =, ç...)
+- sauf **-** ou **_**.
 
 ---
+
+####Feuille de route :
+
+- [ ] lire l'ensemble du fichier
+- [ ] créer un **nouveau** repository sur **son GitHub personnel** que l'on appelle _fantome_ [ATTENTION, on le créé avec son fichier _readme.md_ renseigné (par exemple "tester les commandes GitHub")]
+- [ ] repérer et tester pour chaque action le(s) bouton(s) à cliquer / action(s) à effectuer sur les différents outils
+- [ ] compléter le tableau avec 
 
 :imp: = non, travailler avec un autre outil... :alien:
 

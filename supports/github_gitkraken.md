@@ -44,7 +44,7 @@ _(Ré-)_ Initialiser le tracking d'un _dossier_ | **git init** | :imp: | :imp: |
 Créer un _fichier_ | **touch** monfichier.ext | bouton `create new file` | :octocat: | :octocat: | :octocat:
 Voir les sous-dossiers | **ls** _qui est l'abbréviation anglaise de `list subfiles`_ | :octocat: | :octocat: | :octocat:
 Voir les sous-dossiers **cachés** | **ls -a** | :octocat: | :octocat: | :octocat:
-Vérifier l'état des dossiers et fichiers trakés avec git | git status | :octocat: | :octocat:
+Vérifier l'état des dossiers et fichiers trakés avec git | **git status** | :octocat: | :octocat: | :octocat:
 Cloner un _repository_ de GitHub pour travailler en local | **git clone** https://monrepo | :imp: | :octocat: | :octocat:
 Ajouter _tous_ les fichiers _modifiés_ au tracking | __git add `*`__ ou **git add .** | :imp: | :octocat: | :octocat:
 Ajouter _un_ fichier _modifié_ au tracking | **git add `monfichier.ext`** | :imp: | :octocat: | :octocat:

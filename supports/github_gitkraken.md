@@ -1,3 +1,4 @@
+#GitHub, GitKraken, en terminal de commande [terminal, cmder, iterm (sous Mac)]
 #Les équivalences sur les différents outils - Step by step
 
 ####Remarque : toutes les actions se font dans le dossier ou répertoire de travail concerné.

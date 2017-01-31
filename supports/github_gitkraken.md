@@ -44,7 +44,7 @@ Voir les sous-dossiers **cachés** | **ls -a** | :octocat: | :octocat:
 Vérifier l'état des dossiers et fichiers trakés avec git | git status | :octocat: | :octocat:
 Cloner un _repository_ de GitHub pour travailler en local | **git clone** https://monrepo | :imp: | :octocat:
 Ajouter _tous_ les fichiers _modifiés_ au tracking | __git add `*`__ ou **git add .** | :imp: | :octocat:
-Ajouter un fichier _modifié_ au tracking | **git add `monfichier.ext`** | :imp: | :octocat:
+Ajouter _un_ fichier _modifié_ au tracking | **git add `monfichier.ext`** | :imp: | :octocat:
 Enregistrer les modifications | **git commit -m "description"** | :octocat: | :octocat:
 Raccourci de  _traker_ et _enregistrer_ | **git commit -a -m "description"** | :octocat: | :octocat:
 Récupérer sur son répertoire _local_ les derniers changement faits sur GitHub | **git pull origin `master` (OU `mabranche`)** | :octocat: | :octocat:

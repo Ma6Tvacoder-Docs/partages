@@ -15,7 +15,7 @@
 - [ ] lire l'ensemble du fichier
 - [ ] créer un **nouveau** repository sur **son GitHub personnel** que l'on appelle _fantome_ [ATTENTION, on le créé avec son fichier _readme.md_ renseigné (par exemple "tester les commandes GitHub, GitKraken et en mode Terminal de commande (avec le Terminal, cmder, iterm sous Mac...)")]
 - [ ] repérer et tester pour chaque action le(s) bouton(s) à cliquer / action(s) à effectuer sur les différents outils
-- [ ] compléter le tableau avec le résultat de vos tests (si une action n'est pas possible avec un outil... :imp:!)
+- [ ] compléter le tableau avec le résultat de vos tests (si une action est possible avec un outil, noter les instructions/commandes/boutons à cliquer et _si ce n'est **pas possible** avec un outil..._ :imp:!)
 - [ ] dès qu'une tâche dans cette liste **est finie à _100%_**, ajouter un `x` entre les [ ] pour indiquer que c'est fait comme ci-dessous
 - [x] c'est fait ! :sunglasses:
 

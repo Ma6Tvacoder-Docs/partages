@@ -31,7 +31,7 @@ Produire un document en html de ce que vous avez compris sur le cours de la jour
 <a name="exo02">
 ###Exo 2
 
-Réaliser un fichier html qui aura cette apparence :
+Réaliser un fichier HTML qui aura cette apparence :
 
 Bonjour, bonne année **2017**, bonne santé et surtout : _Meilleurs vœux !_
 
@@ -39,7 +39,7 @@ Bonjour, bonne année **2017**, bonne santé et surtout : _Meilleurs vœux !_
 <a name="exo03">
 ###Exo 3
 
-Réalisez un fichier HTML qui aura l’apparence suivante :
+Réaliser un fichier HTML qui aura l’apparence suivante :
 
 #Mon repas de Noël
 
@@ -66,3 +66,39 @@ Après, j'ai pu déballer tous mes cadeaux :
 
 ###Exo 4
 
+Réaliser un fichier HTML nommé "exo_04.html" dans lequel il faudra obtenir l'affichage suivant avec le navigateur :
+
+#HTML - Exo 4
+
+1. HTML: HyperText Markup Language
+  - c'est la structure de la page html où on organise les titres, paragraphes, listes, tableaux...
+
+2. CSS: Cascading Style Sheet
+  - C'est la mise en forme, le design, l'apparence (les couleurs, les tailles, les positionnements sur la page)
+  
+3. Terminologie
+  - Eléments : ils définissent la structure et le contenu des objets au sein d'une page. Les plus couramment utilisés sont les niveaux de titre (h1 à h6) et les paragraphes (avec la balise p)
+  - Baslises : elles sont reconnaissables car elles sont encadrées d'un chevron ouvrant et d'un chevron fermant. L'ouverture d'une balise détermine le début d'un élément. Sa fermeture détermine sa fin. Le contenu qui est inséré entre une balise ouvrante et fermante représente le contenu de cet élément. Par exemple, un lien html sera encadré d'une balise A ouvrante et fermante. Il existe aussi des balises auto-fermantes (aussi dites orphelines).
+  - Attributs : ce sont des propriétés utilisées pour fournir des informations complémentaires sur un élément. Les attributs les plus communs incluent l'attribut ID (qui identifie un élément), l'attribut CLASS (qui classifie un élément), l'attribut SRC (qui spécifie la source d'un contenu qui peut être imbriqué) et l'attribut HREF (qui contient un lien hypertexte vers une ressource liée). Les attributs sont définis au sein de la balise ouvrant après le nom de l'élément :
+  
+  ```
+  <a href="https://github.com/Ma6Tvacoder-Docs/partages">Lien</a>
+  ```
+
+4. Structure
+  - un fichier HTML est un fichier de texte brut (non mis en forme) enregistré avec l'extension _.html_.
+  - tous les fichiers html ont une structure de base qui implique de déclarer les éléments suivants :
+  ```
+  <!DOCTYPE html>
+    <html>
+      <head></head>
+      <body>
+    
+      </body>
+    </html>
+    ```
+  - **!DOCTYPE html** informe le navigateur web que le document est de type html et qu'il s'agit (ici) de la dernière version du langage
+  - à l'intérieur de l'élément _html_ la balise **head** identifie le début du document et inclue les métadonnées (informations su r la page). Le contenu à l'intérieur de la balise head n'est pas affiché par le navigateur puisqu'il donne des informations sur la page (- liens vers des fichiers externes, utilisation du langage html, titre de la page).
+  - tout ce qui s'affichera dans le navigateur est inclus à l'intérieur de la balise **body**.
+  - quand un élément est placé au sein d'un autre (ou imbriqué) il est important d'**indenter** cet élément en le décalant vers la droite à l'aide de la tabulation pour conserver une structure bien organisée et lisible pour tout le monde.
+  -

@@ -101,4 +101,15 @@ Réaliser un fichier HTML nommé "exo_04.html" dans lequel il faudra obtenir l'a
   - à l'intérieur de l'élément _html_ la balise **head** identifie le début du document et inclue les métadonnées (informations su r la page). Le contenu à l'intérieur de la balise head n'est pas affiché par le navigateur puisqu'il donne des informations sur la page (- liens vers des fichiers externes, utilisation du langage html, titre de la page).
   - tout ce qui s'affichera dans le navigateur est inclus à l'intérieur de la balise **body**.
   - quand un élément est placé au sein d'un autre (ou imbriqué) il est important d'**indenter** cet élément en le décalant vers la droite à l'aide de la tabulation pour conserver une structure bien organisée et lisible pour tout le monde.
-  -
+  - les balises en paires comportent une balise ouvrante et une balise fermante indiquant pour chacune le début et la fin de l'élément correspondant.
+  - les balises auto-fermantes correspondent à des éléments ponctuels dans une page html, pas besoin de fournir une information de fin (insérer une image ou un lien par exemple). Les plus courantes :
+  ```
+    <br />
+    <img />
+    <meta />
+    <input />
+    <hr />
+    <link />
+    ```
+    
+5. Le W3C - La validation du code

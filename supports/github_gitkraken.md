@@ -20,7 +20,7 @@
 
 - [ ] lire l'ensemble du fichier
 - [ ] créer un **nouveau** repository sur **son GitHub personnel** que l'on appelle _fantome_ [ATTENTION, on le créé avec son fichier _readme.md_ renseigné (par exemple "tester les commandes GitHub, GitKraken et en mode Terminal de commande")
-- [ ] repérer et tester pour **chaque ACTION** indiquée dans le tableau le(s) bouton(s) à cliquer / action(s) à effectuer sur les différents outils
+- [ ] repérer et tester pour **chaque ACTION** indiquée dans le tableau le(s) bouton(s) à cliquer ou taper / action(s) à effectuer sur les différents outils
 - [ ] compléter le tableau avec le résultat de vos tests (si une action est possible avec un outil, noter les instructions/commandes/boutons à cliquer et _si ce n'est **pas possible** avec un outil..._ :imp:!)
 - [ ] on ajoute bien évidemment des lignes au tableau si les commandes / instructions n'y sont pas encore, mais que vous les avez testées !!
 - [ ] les utilisateurs de Macs sont invités à noter/demander les différences... il y en à parfois...:sweat:

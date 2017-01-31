@@ -97,4 +97,6 @@ Réaliser un fichier HTML nommé "exo_04.html" dans lequel il faudra obtenir l'a
       </body>
     </html>
     ```
-    
+  - **!DOCTYPE html** informe le navigateur web que le document est de type html et qu'il s'agit (ici) de la dernière version du langage
+  - à l'intérieur de l'élément _html_ la balise **head** identifie le début du document et inclue les métadonnées (informations su r la page). Le contenu à l'intérieur de la balise head n'est pas affiché par le navigateur puisqu'il donne des informations sur la page (- liens vers des fichiers externes, utilisation du langage html, titre de la page).
+  - tout ce qui s'affichera dans le navigateur est inclus à l'intérieur de la balise **body**.

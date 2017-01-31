@@ -80,6 +80,29 @@
 
 [Atom pakage indentation](https://atom.io/packages/indent-guide-improved)
 
+###Raccourcis clavier pour Atom
+
+- Commenter/décommenter une ou plusieurs lignes de code
+   - Une seule ligne: placer le curseur du clavier à n’importe quel endroit sur la ligne de code qu’on souhaite commenter et taper ctrl + /.
+   - Plusieurs lignes: sélectionner la totalité des lignes de code qu’on souhaite commenter et taper ctrl + /.
+Effectuer la même manipulation pour décommenter.
+
+- Remplacer automatiquement un terme présent à plusieurs endroits dans un fichier
+
+ctrl + f
+
+taper le terme à remplacer
+
+ctrl + F3
+
+- dupliquer/copier une ligne
+
+CTRL + Shift + d
+
+- enregistrer le fichier en cours
+
+CTRL + s
+
 ---
 <a name="couleurs">
 

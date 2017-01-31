@@ -10,6 +10,12 @@
 
 [Entraînements Code](#coding)
 
+[Syntaxe des langages](#syntaxe)
+
+[Editeurs, IDE, Atom...](#atom)
+
+[Les couleurs du Web](#couleurs)
+
    
 ---
 <a name="culture_web">
@@ -66,9 +72,29 @@
 
 [ **CodeCademy** idéal pour démarrer ses premières lignes de code](https://www.codecademy.com)
 
+---
+<a name="atom">
+
+| **IDE, Atom...** |
+| --- |
+
 [Atom pakage indentation](https://atom.io/packages/indent-guide-improved)
+
+---
+<a name="couleurs">
+
+| **Couleurs**: utilisations, choix... |
+| --- |
 
 [Couleurs du web](https://fr.wikipedia.org/wiki/Couleur_du_Web)
 
 [Code-couleur](http://www.code-couleur.com/)
+
+---
+<a name="syntaxe">
+
+| **Syntaxe des langages** |
+| --- |
+
+[ **Indentation** comment, pourquoi ?](https://fr.wikipedia.org/wiki/Style_d%27indentation)
 

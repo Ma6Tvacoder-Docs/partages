@@ -6,7 +6,7 @@
 **Soyons vigilants** : les **noms** des **dossiers/répertoires** et des **fichiers** sont **tous** :
 - en **MINUSCULES**
 - **SANS** ESPACES
-- **SANS* CARACTERES SPECIAUX (accents, #, &, =, ç...)
+- **SANS** CARACTERES SPECIAUX (accents, #, &, =, ç...)
 - **SAUF** **-** ou **_**.
 
 ---

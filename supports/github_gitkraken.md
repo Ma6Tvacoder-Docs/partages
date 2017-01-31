@@ -16,7 +16,7 @@ Créer un _fichier_ | **touch** monfichier.ext | bouton `create new file` | :oct
 Cloner un _repository_ de GitHub | **git clone** https://monrepo | :imp: | :octocat:
 Ajouter _tous_ les fichiers _modifiés_ au tracking | __git add `*`__ ou **git add .** | :imp: | :octocat:
 Enregistrer les modifications | **git commit -m "description"** | :octocat: | :octocat:
-Mettre à jour son répertoire _local_ | **git pull origin `master` /OU/ `mabranch`** | :octocat: | :octocat:
-Mettre à jour son repository _GitHub_ | **git push origin `master` /OU/ `mabranch`** | :octocat: | :octocat:
+Récupérer sur son répertoire _local_ les derniers changement faits sur GitHub | **git pull origin `master` /OU/ `mabranch`** | :octocat: | :octocat:
+Récupérer sur son repository _GitHub_ les derniers changement faits en local | **git push origin `master` /OU/ `mabranch`** | :octocat: | :octocat:
 Créer une branche (distincte de la _master_) | **git branch `nomdemabranche`** | :octocat: | :octocat:
 Passer de la branche _master_ à la branche _mabranche_ | **git checkout `mabranche`** | :octocat: | :octocat:

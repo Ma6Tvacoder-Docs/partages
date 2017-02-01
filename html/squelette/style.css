@@ -1,0 +1,23 @@
+body{
+  background:white;
+}
+
+header{
+  height: 100px;
+  background:green;
+}
+
+nav{
+  height: 35px;
+  background:yellow;
+}
+
+section{
+  height: 550px;
+  background:red;
+}
+
+footer{
+  height: 70px;
+  background:black;
+}

@@ -1,0 +1,27 @@
+body{
+  background: #77b5fe;
+}
+
+header{
+  height: 100px;
+  background: DeepPink;
+}
+
+nav{
+  height: 35px;
+  background: Lightsalmon;
+}
+
+section{
+  height: 550px;
+  background: Tomato;
+}
+
+footer{
+  height:70px;
+  background: PeachPuff;
+}
+
+header, footer{
+  color: DodgerBlue;
+}

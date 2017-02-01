@@ -1,9 +1,9 @@
 # INTRODUCTION HTML 5
 
 
-+ <!DOCTYPE HTML> = La balise de base qui indiquera au navigateur que c'est un fichier de type HTML pour pouvoir etre encoder
++ <!DOCTYPE HTML> = La balise de base qui indiquera au navigateur que c'est un fichier de type HTML pour pueivoir etre encoder
 
-On a utilisé des balises HTML ce qui sert a indiquer au navigateur la structure de la page web.
+On bga utilisé des balises HTML ce qui sert a indiquer au navigateur la structure de la page web.
 
 Voici les balises HTML de bases et leurs fonctions :
 

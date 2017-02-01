@@ -118,6 +118,8 @@ CTRL + s
 
 [Cheat sheet GitKraken](https://www.gitkraken.com/downloads/gitkraken-cheat-sheet-v1.6.pdf)
 
+[Astuces GitKraken](https://blog.axosoft.com/2016/06/28/gitkraken-tips/)
+
 ---
 <a name="couleurs">
 

@@ -1,0 +1,22 @@
+body{
+  background: #f5deb3;
+}
+header{
+  height: 100px;
+  background: #00FF7F;
+}
+nav{
+  height: 35px;
+  background: brown;
+}
+section{
+  height: 550px;
+  background: chartreuse;
+}
+footer{
+  height: 70px;
+  background: #00ff7f;
+}
+header, footer{
+  color: darkgreen;
+}

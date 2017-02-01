@@ -18,9 +18,9 @@
 
 ###Feuille de route :
 
-- [ ] lire **_l'ensemble_** du fichier, ...puis...
-- [ ] créer un **nouveau** repository sur **son GitHub personnel** que l'on appelle _fantome_ [ATTENTION, on le créé avec son fichier _readme.md_ renseigné (par exemple "tester les commandes GitHub, GitKraken et en mode Terminal de commande")
-- [ ] repérer et tester pour **chaque ACTION** indiquée dans le tableau le(s) bouton(s) à cliquer ou instructions en ligne de commande à taper / action(s) à effectuer sur les différents outils
+- [x] lire **_l'ensemble_** du fichier, ...puis...
+- [x] créer un **nouveau** repository sur **son GitHub personnel** que l'on appelle _fantome_ [ATTENTION, on le créé avec son fichier _readme.md_ renseigné (par exemple "tester les commandes GitHub, GitKraken et en mode Terminal de commande")
+- [x] repérer et tester pour **chaque ACTION** indiquée dans le tableau le(s) bouton(s) à cliquer ou instructions en ligne de commande à taper / action(s) à effectuer sur les différents outils
 - [ ] compléter le tableau avec le résultat de vos tests (si une action est possible avec un outil, noter les instructions/commandes/boutons à cliquer et _si ce n'est **pas possible** avec un outil..._ :imp:!)
 - [ ] on ajoute bien évidemment des lignes au tableau si les commandes / instructions n'y sont pas encore, mais que vous avez **trouvées _(après recherche **sérieuse** sur internet)_ ET testées"" !!
 - [ ] les utilisateurs de Macs sont invités à noter/demander les différences dans la dernière colonne... il y en à parfois...:sweat:
@@ -38,21 +38,21 @@
 Actions | Terminal (ou cmder par ex.) | GitHub | GitKraken | Sous Mac (Terminal ou iterm)
 --- | --- | --- | --- | ---
 **En local** aller sur le répertoire _raçine C://_ | cd../.. | :imp: | :imp: | cd.. ne fonctionne PAS aussi => indiquer **cd/tous/les/répertoires à parcourir** à CHAQUE instruction **cd/XXX**
-**En local** rentrer dans le répertoire de travail `htdocs` de xampp | cd xampp\htdocs | :imp: | :imp: | :octocat: | cd /Applications/xampp/htdocs
+**En local** rentrer dans le répertoire de travail `htdocs` de xampp | cd\xampp\htdocs | :imp: |  A partir de "open" sur l'interface| :alien:
 Vérifier le répertoire en cours d'utilisation **sous MAC ou autre** | **pwd** | **pwd** | **pwd** | **pwd** pour Present Writing Directory
-Créer un _dossier_ | **mkdir** mondossier | :imp: | :imp: | :octocat:
+Créer un _dossier_ | **mkdir** mondossier | :imp: | :imp: | :alien:
 _(Ré-)_ Initialiser le tracking d'un _dossier_ | **git init** | :imp: | :imp: | :octocat:
-Créer un _fichier_ | **touch** monfichier.ext | bouton `create new file` | :octocat: | :octocat: | :octocat:
+Créer un _fichier_ | **touch** monfichier.ext | bouton `create new file` |  :imp: |  | :alien:
 Voir les sous-dossiers | **ls** _qui est l'abbréviation anglaise de `list subfiles`_ | :octocat: | :octocat: | :octocat:
 Voir les sous-dossiers **cachés** | **ls -a** | :octocat: | :octocat: | :octocat:
 Vérifier l'état des dossiers et fichiers trakés avec git | **git status** | :octocat: | :octocat: | :octocat:
-Cloner un _repository_ de GitHub pour travailler en local | **git clone** https://monrepo | :imp: | :octocat: | :octocat:
+Cloner un _repository_ de GitHub pour travailler en local | **git clone** https://monrepo | :imp: | Sur le menu "clone" à partir de l'interface de base | :octocat:
 Ajouter _tous_ les fichiers _modifiés_ au tracking | __git add `*`__ ou **git add .** | :imp: | :octocat: | :octocat:
 Ajouter _un_ fichier _modifié_ au tracking | **git add `monfichier.ext`** | :imp: | :octocat: | :octocat:
 Enregistrer les modifications | **git commit -m "description"** | :octocat: | :octocat: | :octocat:
 Raccourci de  _rajouter au traking_ et _enregistrer_ | **git commit -a -m "description"** | :octocat: | :octocat: | :octocat:
 Récupérer sur son répertoire _local_ les derniers changement faits sur GitHub | **git pull origin `master` (OU `mabranche`)** | :octocat: | :octocat: | :octocat:
-Récupérer sur son repository _GitHub_ les derniers changement faits en local | **git push origin `master` (OU `mabranche`)** | :octocat: | :octocat: | :octocat:
-Créer une branche (distincte de la _master_) | **git branch `nomdemabranche`** | :octocat: | :octocat: | :octocat:
-Passer de la branche _master_ à la branche _mabranche_ | **git checkout `mabranche`** | :octocat: | :octocat: | :octocat:
-Passer de la branche _mabranche_ à la branche _master_ | **git checkout `master`** | :octocat: | :octocat: | :octocat:
+Récupérer sur son repository _GitHub_ les derniers changement faits en local | **git push origin `master` (OU `mabranche`)** | Importer le repository | :octocat: | :octocat:
+Créer une branche (distincte de la _master_) | **git branch `nomdemabranche`** | Cliquer sur le menu"branch" et taper le nom de la branche | cliquer sur "origin" puis cliquer droit et sélectionner  _mabranche_ ou se rendre sur le menu"Local"pour créer _mabranche_ |  | :octocat:
+Passer de la branche _master_ à la branche _mabranche_ | **git checkout `mabranche`** |  Cliquer sur le menu"branch" | cliquer sur "master" puis cliquer droit et sélectionner  _mabranche_| :octocat:
+Passer de la branche _mabranche_ à la branche _master_ | **git checkout `master`** | Cliquer sur le menu"branch" | Sélectionner sa branche dans le menu gauche sous le menu "remote" | :octocat:

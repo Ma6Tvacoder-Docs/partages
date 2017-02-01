@@ -1,0 +1,31 @@
+body{
+  background: DeepPink;
+
+}
+
+header{
+  height: 100px;
+  background: LightPink;
+}
+
+nav{
+  height: 35px;
+  background: LightSalmon;
+}
+
+section{
+  height: 550px;
+  background: Tomato;
+
+}
+
+footer{
+  height: 70px;
+  background: PeachPuff;
+
+}
+
+header, footer{
+  color: DodgerBlue;
+
+}

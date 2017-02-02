@@ -1,4 +1,29 @@
 body{
+  background: #046380;
+}
+
+header{
+  height: 100px;
+  background: #C03000;
+}
+
+nav{
+  height: 35px;
+  background: #4BB5C1;
+}
+
+section{
+  height: 550px;
+  background: #96CA2D;
+}
+
+footer{
+  height: 70px;
+  background: #8E3557;
+}
+
+header, footer{
+  color: black;
   background: #f5deb3;
 }
 header{

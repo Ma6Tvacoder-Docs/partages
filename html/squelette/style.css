@@ -1,5 +1,5 @@
 body{
-  background: #046380;
+  background: #77b5fe;
 }
 
 header{
@@ -14,6 +14,15 @@ nav{
 
 section{
   height: 550px;
+  background: Tomato;
+}
+
+footer{
+  height:70px;
+  background: PeachPuff;
+}
+
+header, footer{
   background: #96CA2D;
 }
 

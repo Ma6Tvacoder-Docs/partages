@@ -1,6 +1,11 @@
 label{
+<<<<<<< HEAD
+  float:left;
+  clear:both;
+=======
   float: left;
   clear: both;
+>>>>>>> 972b6a70651532f70a86decddbf3d9fcbd1fb1d2
   width: 190px;
   color: #a31d1c;
 }

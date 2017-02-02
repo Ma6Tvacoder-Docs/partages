@@ -8,7 +8,7 @@
 <!--Corps de la page-->
 
 <body>
-
+gyigèçyho
 C'est ma première page web ! Le navigateur affiche le texte contenu dans le bloc de ma balise "body".
 
 <!--Titres-->

@@ -8,10 +8,11 @@
 <!--Corps de la page-->
 
 <body>
-
+gyigèçyho
 C'est ma première page web ! Le navigateur affiche le texte contenu dans le bloc de ma balise "body".
 
 <!--Titres-->
+
 
 <h1>Titre h1</h1>
 <h2>Titre h2</h2>
@@ -21,6 +22,7 @@ C'est ma première page web ! Le navigateur affiche le texte contenu dans le blo
 <h6>Titre h6</h6>
 
 <!--Paragraphe preformatés-->
+
 
 <p>Ceci est un paragraphe</p>
 <p>Les paragraphes sont délimités par la balise p.</p>

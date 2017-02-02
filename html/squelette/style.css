@@ -4,12 +4,12 @@ body{
 
 header{
   height: 100px;
-  background: DeepPink;
+  background: #C03000;
 }
 
 nav{
   height: 35px;
-  background: Lightsalmon;
+  background: #4BB5C1;
 }
 
 section{
@@ -23,5 +23,34 @@ footer{
 }
 
 header, footer{
-  color: DodgerBlue;
+  background: #96CA2D;
+}
+
+footer{
+  height: 70px;
+  background: #8E3557;
+}
+
+header, footer{
+  color: black;
+  background: #f5deb3;
+}
+header{
+  height: 100px;
+  background: #00FF7F;
+}
+nav{
+  height: 35px;
+  background: brown;
+}
+section{
+  height: 550px;
+  background: chartreuse;
+}
+footer{
+  height: 70px;
+  background: #00ff7f;
+}
+header, footer{
+  color: darkgreen;
 }

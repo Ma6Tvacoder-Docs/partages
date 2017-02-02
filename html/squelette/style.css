@@ -31,11 +31,16 @@ nav{
 
 section{
   height: 550px;
-  background:red;
+  background: Tomato;
 }
 
 footer{
   height: 70px;
+  background: PeachPuff;
+}
+
+header, footer{
+  color: DodgerBlue;
   background: Tomato;
 }
 

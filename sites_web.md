@@ -18,6 +18,8 @@
 
 [Les couleurs du Web](#couleurs)
 
+[HTML CSS](#htmlcss)
+
    
 ---
 <a name="culture_web">
@@ -118,6 +120,8 @@ CTRL + s
 
 [Cheat sheet GitKraken](https://www.gitkraken.com/downloads/gitkraken-cheat-sheet-v1.6.pdf)
 
+[Astuces GitKraken](https://blog.axosoft.com/2016/06/28/gitkraken-tips/)
+
 ---
 <a name="couleurs">
 
@@ -135,4 +139,16 @@ CTRL + s
 | --- |
 
 [ **Indentation** comment, pourquoi ?](https://fr.wikipedia.org/wiki/Style_d%27indentation)
+
+---
+<a name="htmlcss">
+
+| **Html et Css** |
+| --- |
+
+[Test CSS (débutant)](https://www.alsacreations.com/quiz/lire/5-CSSd-butant)
+
+[Flexbox](http://flexboxfroggy.com/)
+
+[Jeu sélecteurs CSS](https://flukeout.github.io/)
 

@@ -1,4 +1,5 @@
 body{
+<<<<<<< HEAD
   background: #00FFFF;
 }
 header{
@@ -16,6 +17,86 @@ section{
 footer{
   height: 70px;
   background: #0000CD;
+=======
+  background: #a31d1c;
+}
+
+header{
+  height: 100px;
+  background: #FAF0E6;
+}
+
+nav{
+  height:35px;
+  background:brown;
+}
+section{
+  height: 550px;
+  background: chartreuse;
+}
+footer{
+  height: 70px;
+  background: #3A020D;
+}
+
+header, footer{
+  background: #C03000;
+}
+
+nav{
+  height: 35px;
+  background: #4BB5C1;
+}
+
+section{
+  height: 550px;
+  background: Tomato;
+}
+
+footer{
+  height: 70px;
+  background: PeachPuff;
+}
+
+header, footer{
+  color: DodgerBlue;
+  background: Tomato;
+}
+
+footer{
+  height:70px;
+  background: PeachPuff;
+}
+
+header, footer{
+  background: #96CA2D;
+}
+
+footer{
+  height: 70px;
+  background: #8E3557;
+}
+
+header, footer{
+  color: black;
+  background: #f5deb3;
+}
+header{
+  height: 100px;
+  background: #00FF7F;
+}
+nav{
+  height: 35px;
+  background: brown;
+}
+section{
+  height: 550px;
+  background: chartreuse;
+}
+footer{
+  height: 70px;
+  background: #00ff7f;
+>>>>>>> 972b6a70651532f70a86decddbf3d9fcbd1fb1d2
 }
 header, footer{
   color: darkgreen;

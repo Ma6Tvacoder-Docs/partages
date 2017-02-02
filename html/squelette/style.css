@@ -1,15 +1,15 @@
 body{
-  background:white;
+  background: #77b5fe;
 }
 
 header{
   height: 100px;
-  background:green;
+  background: #C03000;
 }
 
 nav{
   height: 35px;
-  background:yellow;
+  background: #4BB5C1;
 }
 
 section{
@@ -19,5 +19,43 @@ section{
 
 footer{
   height: 70px;
-  background:black;
+  background: Tomato;
+}
+
+footer{
+  height:70px;
+  background: PeachPuff;
+}
+
+header, footer{
+  background: #96CA2D;
+}
+
+footer{
+  height: 70px;
+  background: #8E3557;
+}
+
+header, footer{
+  color: black;
+  background: #f5deb3;
+}
+header{
+  height: 100px;
+  background: #00FF7F;
+}
+nav{
+  height: 35px;
+  background: brown;
+}
+section{
+  height: 550px;
+  background: chartreuse;
+}
+footer{
+  height: 70px;
+  background: #00ff7f;
+}
+header, footer{
+  color: darkgreen;
 }

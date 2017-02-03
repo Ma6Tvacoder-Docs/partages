@@ -152,3 +152,5 @@ CTRL + s
 
 [Jeu sélecteurs CSS](https://flukeout.github.io/)
 
+[MDN - site de référence](https://developer.mozilla.org/fr/Apprendre/Concevoir_page_web)
+

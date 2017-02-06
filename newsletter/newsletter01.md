@@ -170,10 +170,10 @@ Final Fantasy XV porte en lui les stigmates d'un projet chaotique. Son open-worl
 
 #Inauguration de l'école numérique et du FabLab de Pantin.
 
-Le 3 février 2017, était organisé l'inauguration de la nouvelle école du numérique et du FabLab de Pantin. De nombreuses personnalités venues  du département de la Seine-Saint -Denis et  de la région Ile de France  étaient présentes . Cette école est une opportunité pour la classe populaire de cette ville , d'avoir un accès au monde du numérique, de se former et d'acquérir les connaissances nécessaires pour  prétendre à des postes dans ce même domaine.Le Fablab,quant à lui, permet aux enfants de ce quartier populaire des "Quatres chemins , de mettre à profit leurs imaginations et de créer des objets , d'élaborer des projets en commun grâce aux divers outils mis à leurs dispositions. Cet évènement a aussi permis aux membres du Pôle S de se réunir.  
+Le 3 février 2017, était organisé l'inauguration de la nouvelle école du numérique et du FabLab de Pantin. De nombreuses personnalités venues  du département de la Seine-Saint -Denis et  de la région Ile de France  étaient présentes . Cette école est une opportunité pour la classe populaire de cette ville , d'avoir un accès au monde du numérique, de se former et d'acquérir les connaissances nécessaires pour  prétendre à des postes dans ce même domaine.Le Fablab,quant à lui, permet aux enfants de ce quartier des "Quatres chemins , de mettre à profit leurs imaginations , de créer des objets et  d'élaborer des projets en commun grâce aux divers outils mis à leurs dispositions. Cet évènement a aussi permis aux membres du Pôle S de se réunir.  
 
 
-Nous avons recueilli le témoignage de Izar,FabLab Manageuse de Pantin et Pierrefitte sur Seine:
+Nous avons pu réalisé une courte interview de Izar,FabLab Manageuse de Pantin et Pierrefitte sur Seine:
 
 Apprenants de Pierrefitte : "Veuillez s'il plait vous présenter!"
 
@@ -190,6 +190,20 @@ A.P:"Quels sont les objectifs souhaités grâce au  Fablab  ?
 I.M:"Que les entants apprennent à trvailler ensemble, à partager leurs connaissances , qu'ils aient envi d'apprendre et réfléchir par eux."
 
 A.P:"Merci"
+
+Cette inauguration a été l'occasion de parler à des représentants de Vitry sur Seine,qui sembre être très enthousiaste à l'idée d'implanter, eux aussi , une école web et un Fablab.
+
+Nous avons pu prendre les témoignages de Mr Christian BEDETTI ( directeur génerale de la SEMISE) et Mr Christophe Provot (directeur des systèmes d'information ou DSI)
+
+Apprenants de Pierrefitte :"Comment comptez-vous aider à la mise en place  de l'école du web?"
+
+
+Christian BEDETTI : " Nous sommes des membres de la SEMISE, nous détenons un patrimoine, nous sommes dans la capacité de fournir des locaux au Pôle S"."
+
+Christophe PROVOT:"Nous apportons notre soutien sur les question du raccordement à la fibre optique pour développer cette école."
+
+Christian BEDETTI : "L'implantation d'une école du web permmettra aussi la réhabilitation des centaines de logements aux alentours"
+l'école sera située proche de la future gare Vitry centre - Paris Express,dans un local de 200 m² dans un immeuble de 4 étages"
 
 
 

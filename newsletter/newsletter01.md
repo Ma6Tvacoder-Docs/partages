@@ -168,4 +168,29 @@ Final Fantasy XV porte en lui les stigmates d'un projet chaotique. Son open-worl
 
 [Pour plus d'info, cliquer ici](http://www.finalfantasyxv.com/fr)
 
+#Inauguration de l'école numérique et du FabLab de Pantin.
+
+Le 3 février 2017, était organisé l'inauguration de la nouvelle école du numérique et du FabLab de Pantin. De nombreuses personnalités venues  du département de la Seine-Saint -Denis et  de la région Ile de France  étaient présentes . Cette école est une opportunité pour la classe populaire de cette ville , d'avoir un accès au monde du numérique, de se former et d'acquérir les connaissances nécessaires pour  prétendre à des postes dans ce même domaine.Le Fablab,quant à lui, permet aux enfants de ce quartier populaire des "Quatres chemins , de mettre à profit leurs imaginations et de créer des objets , d'élaborer des projets en commun grâce aux divers outils mis à leurs dispositions. Cet évènement a aussi permis aux membres du Pôle S de se réunir.  
+
+
+Nous avons recueilli le témoignage de Izar,FabLab Manageuse de Pantin et Pierrefitte sur Seine:
+
+Apprenants de Pierrefitte : "Veuillez s'il plait vous présenter!"
+
+
+Izar :"Izar MEDIAVILLA, Fab manageuse de Pantin et Pierrefitte"
+
+
+A.P:"Depuis combien de temps es-tu sur le projet?"
+
+I.M : "Je suis sur le projet depuis fin novembre 2016 et sur les ateliers ,il y a 3 semaines"
+
+A.P:"Quels sont les objectifs souhaités grâce au  Fablab  ?
+
+I.M:"Que les entants apprennent à trvailler ensemble, à partager leurs connaissances , qu'ils aient envi d'apprendre et réfléchir par eux."
+
+A.P:"Merci"
+
+
+
 

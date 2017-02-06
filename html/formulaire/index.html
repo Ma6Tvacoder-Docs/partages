@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<htlm>
+
+    <head>
+      <meta charset="utf-8" />
+      <link rel="stylesheet" href="style.css" />
+      <title>formulaire</title>
+    </head>
+
+    <body>
+      <form method="post" action="" enctype="">
+
+        <label for="Pseudo">Pseudo *</label>
+        <input type="text" id="pseudo" name="pseudo" required><br />
+
+        <label for="mdp">Mot de passe *</label>
+        <input type="password" id="mdp" name="mdp" required><br />
+
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email"><br />
+
+        <label for="photo">Photo</label>
+        <input type="file" id="photo" name="photo"><br />
+
+        <!-- cases à cocher -->
+        <label for="question">Quelle destination choisissez-vous ?</label>
+        <p>
+          <input type="checkbox" name="question" checked>Chine
+          <!-- avec checked on coche une case par défaut -->
+          <input type="checkbox" name="question">Japon
+          <input type="checkbox" name="question">Thaïlande
+        </p>
+
+        <input type="submit" name="inscription" value="S'inscrire">
+        <input type="reset" name="annuler" value="Annuler">
+
+      </form>
+
+    </body>
+</html>
+

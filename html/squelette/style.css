@@ -1,5 +1,21 @@
 body{
-  background: #a31d1c;
+  background: #00FFFF;
+}
+header{
+  height: 100px;
+  background: #FF00FF;
+}
+nav{
+  height: 35px;
+  background: #FFFF00;
+}
+section{
+  height: 550px;
+  background: #00FF00;
+}
+footer{
+  height: 70px;
+  background: #0000CD;
 }
 
 header{

@@ -1,5 +1,8 @@
 
 #Catégories
+
+[Réseaux Sociaux](#reseauxsoc)
+
 [Culture web](#culture_web)
 
 [Les moteurs de recherche](#moteurs)
@@ -22,6 +25,22 @@
 
    
 ---
+
+<a name="reseauxsoc">
+
+| **Réseaux sociaux** |
+| --- |   
+
+[Twitter](https://twitter.com/lepolesidf)
+
+[Twitter - LepoleS](@lepolesidf)
+
+[Twitter - VLG](@ecoleduwebVLG)
+
+[Instagram](https://www.instagram.com/lepolesidf/)
+
+---
+
 <a name="culture_web">
 
 | **Culture web** |
@@ -151,4 +170,6 @@ CTRL + s
 [Flexbox](http://flexboxfroggy.com/)
 
 [Jeu sélecteurs CSS](https://flukeout.github.io/)
+
+[MDN - site de référence](https://developer.mozilla.org/fr/Apprendre/Concevoir_page_web)
 

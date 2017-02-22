@@ -15,7 +15,7 @@ les **reseaux sociaux** *facebook* (https://www.facebook.com/) sont des sites en
 Un **blog** *skyrock* (http://www.skyrock.com/) est un site web personnel dans lequel une ou plusieurs personnes publient des articles.
 les **sites d'informations** *Mediapart* (https://www.mediapart.fr/) sont des sites d'informations ou les actualités y sont affichées.
 Les **sites d'aides** *Github* (https://github.com/) est un site d'open source ou on peux travailler a plusieurs sur un meme document pour en apprendre d'avantage des autres.
-#### Avantages ? *facebook* ! [image facebook] (http://www.madaplus.info/photo/art/grande/10561977-17362506.jpg?v=1478832325)
+#### Avantages ? *facebook* ![Logo facebook](http://www.madaplus.info/photo/art/grande/10561977-17362506.jpg?v=1478832325 "Logo Title Text 1")
 * Rester au courant des actualités 
 * Communication avec des amis ou avec des professionnels
 * Possibilité de travailler sur un projet a plusieurs avec une nouvelle page

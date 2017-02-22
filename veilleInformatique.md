@@ -12,6 +12,7 @@ Twitter
 Wikipédia
 Youtube
 ### Liste par outils
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wikipedia-logo-v2-fr.svg/langfr-150px-Wikipedia-logo-v2-fr.svg.png) 
 #### Definition de l'outil
 Wikipédia, une encyclopédie qui permet de faire de recherches sur certains sujets.
 #### Avantages ?

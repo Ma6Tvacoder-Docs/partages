@@ -32,7 +32,7 @@ Twitter:permet d'optenir des informations en fonctions des tags que l'on as choi
 
 #### Definition de l'outil
 
-Twitter : un outil de diffusion d'information entre utilisateurs qui fonctionne sur le principe de microblogging qui facilite la mise en place des tags pour les categories d'informations.
+Twitter : un outil de diffusion d'information entre utilisateurs qui fonctionne sur le principe de microblogging qui facilite la mise en place des tags pour les categories d'informations,tres facilement utilisable.
 
 #### Avantages ?
 

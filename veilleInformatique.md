@@ -13,19 +13,24 @@ et on vérifie la véracité de l’information et on met en place un moyen de d
 
 ## Quels outils utiliser pour la veille informatique ?
 
+Twitter:permet d'optenir des informations en fonctions des tags que l'on as choisi
 
 
 ### Liste par outils
 
 Site de recherche,de diffusion d'information,
 Facebook,
+Twitter,
 Google,
 Linkedin,
 blog,
 site internet,
 Github
+Flux RSS
+
 #### Definition de l'outil
 
+Twitter : un outil de diffusion d'information entre utilisateurs qui fonctionne sur le principe de microblogging qui facilite la mise en place des tags pour les categories d'informations.
 
 #### Avantages ?
 
@@ -33,4 +38,4 @@ facilite l'obtention d'informations nouvelles
 
 #### inconvénients ?
 
-les sfausse informations,manque de véracité de l'infomation
+les fausse informations,manque de véracité de l'infomation

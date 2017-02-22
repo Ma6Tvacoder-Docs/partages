@@ -18,15 +18,17 @@ Twitter:permet d'optenir des informations en fonctions des tags que l'on as choi
 
 ### Liste par outils
 
-Site de recherche,de diffusion d'information,
-Facebook,
-Twitter,
-Google,
-Linkedin,
-blog,
-site internet,
-Github
-Flux RSS
+* Site de recherche,
+* Site de diffusion d'information,
+* Facebook,
+* Twitter,
+* Google,
+* Google News,
+* Linkedin,
+* blog,
+* site internet,
+* Github,
+* Flux RSS.
 
 #### Definition de l'outil
 

@@ -14,7 +14,7 @@ et on vérifie la véracité de l’information et on met en place un moyen de d
 ## Quels outils utiliser pour la veille informatique ?
 
 Twitter:permet d'optenir des informations en fonctions des tags que l'on as choisi
-
+![alt text](https://blog.groupe-soledis.com/wp-content/uploads/2016/06/twitter.jpg "Logo Title Text 1")
 
 ### Liste par outils
 

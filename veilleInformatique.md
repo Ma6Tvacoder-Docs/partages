@@ -8,11 +8,11 @@ L'informatique étant un domaine très évolutif, suivre différents flux d'info
 2/ Pour proceder a *la veille informatique* il faut  plusieurs stratagemes a mettre  en place pour pouvoir  s'informer sur les news le plus rapidement possible permettant de rester à jour sur un domaine precis. 
 On peut notament etre informé grace a : 
 *systèmes de newsletter 
-*flux rss.
-*courriel
-*microblogage
-*agrégation de flux d'actualités
-*plateforme d'échange
+* flux rss
+* courriel
+* microblogage
+* agrégation de flux d'actualités
+* plateforme d'échange
 
 ## 1/ Quest-ce que la veille informatique ?
 ## 2/Comment procède t-on ?

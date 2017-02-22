@@ -48,6 +48,11 @@ On y trouve sur la page d'accueil des comparatifs, des tests etc...
  Design assez simple
 
 ## Qu'est-ce que la Veille informatiques ?
+
+La veille informatique est plusieurs stratagemes mis en place pour pouvoir  s'informer sur les news le plus rapidement possible.
+## Le principe ?
+Le principe de la veille est d'identifié les sources et de collecter des information , de les traités et les diffuser.
+
 Une veille informationnelle est l’ensemble des stratégies mises en place pour rester informé, en y consacrant le moins de temps possible et en utilisant des processus de signalement automatisés. La veille est une discipline récente. Elle vient de pratiques documentaires plus anciennes, et progressivement, elle s’est affirmée pour devenir une discipline à part entière, dotée de méthodes et d’outils qui lui sont propres
 
 
@@ -118,7 +123,9 @@ La veille informationnelle est une stratégie permettant de rester à jour sur u
  La maîtrise de l'information est une série de compétences qui permettront à l'individu de survivre et d'avoir du succès dans la société de l'information, notamment par la maîtrise des technologies donnant accès à cette information
  
 
+
 ## Quels outils utiliser pour la veille informatique :
+Les outils utilisé pour la veille informatique sont les reseaux sociaux , les blogs, les sites d'informations , les sites d'entraides et les moteurs de recherche.
 
 **Il existe deux types de veille :**
 
@@ -198,6 +205,24 @@ Twitter
 Wikipédia
 Youtube
 ### Liste par outils
+
+
+#### Definition de l'outil
+les **reseaux sociaux** *facebook* (https://www.facebook.com/) sont des sites en  ligne qui permettent de publier des photos , des videos des fichiers et des documents.
+Un **blog** *skyrock* (http://www.skyrock.com/) est un site web personnel dans lequel une ou plusieurs personnes publient des articles.
+les **sites d'informations** *Mediapart* (https://www.mediapart.fr/) sont des sites d'informations ou les actualités y sont affichées.
+Les **sites d'aides** *Github* (https://github.com/) est un site d'open source ou on peux travailler a plusieurs sur un meme document pour en apprendre d'avantage des autres.
+#### Avantages ? *facebook* ![Logo facebook](http://www.madaplus.info/photo/art/grande/10561977-17362506.jpg?v=1478832325 "Logo Title Text 1")
+* Rester au courant des actualités 
+* Communication avec des amis ou avec des professionnels
+* Possibilité de travailler sur un projet a plusieurs avec une nouvelle page
+* Participé a la vie de differents groupes , et devenir plus pro aux yeux des personnes présentes dans le domaine
+
+#### inconvénients ?
+*Attention au propos puisque  nous sommes surveillé car notre profil est public 
+*Possibilité de ce faire harcelé a cause du trop plein d'information
+*circulation de fausse information
+
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wikipedia-logo-v2-fr.svg/langfr-150px-Wikipedia-logo-v2-fr.svg.png) 
 #### Definition de l'outil
 Wikipédia, une encyclopédie qui permet de faire de recherches sur certains sujets.
@@ -252,4 +277,3 @@ les sites des grandes chaines plus crédible
 réseaux sociaux on peux avoir beaucoup d'nfo 
 #### inconvénients 
 les informations collecté sur les réseaux sociaux a verifiers tous le temps 
-

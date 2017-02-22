@@ -1,7 +1,9 @@
 # La veille informatique
 
 ## Qu'est-ce que la veille informatiques ?
- 
+
+La veille informatique est une activité qui consiste à se tenir au courant des avancées technologiques dans le domaine de l'informatique afin de tirer parti de ses avancées le plus rapidement possible.,étant donnée que c'est un domaine très évolutif, suivre différents flux d'informations permet d'optimiser les chances de découvrir des nouveautés, améliorations et d'être à jour des évolutions technologiques.
+![image](https://image.slidesharecdn.com/outilsveille-140131032133-phpapp02/95/outils-en-ligne-pour-la-veille-informationnelle-6-638.jpg?cb=1391138896)
   
 
 ## 1/ Quest-ce que la veille informatique ?

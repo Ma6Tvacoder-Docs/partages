@@ -2,8 +2,7 @@
 
 ## Qu'est-ce que la veille informatiques ?
  
- La veille informatique est un type de veille informationnelle permettant de suivre les évolutions technologiques par le biais de différents outils. 
-L'informatique étant un domaine très évolutif, suivre différents flux d'informations permet d'optimiser les chances de découvrir des nouveautés et améliorations et d'être à jour quand aux évolutions technologiques.
+  
 
 ## 1/ Quest-ce que la veille informatique ?
 ## 2/Comment procède t-on ?
@@ -14,8 +13,6 @@ L'informatique étant un domaine très évolutif, suivre différents flux d'info
 #### *Inconvénients ?
 
 
-**1/** La veille informatique consiste à se être constamment au courant des nouveautés dans le domaine de l'informatique,
-et éventuellement de d'anticiper les futurs dbesoins du monde de l'informatique.
 
 
 **2/** Les procédés diffèrent selon l'outil utilisé, mais cela consiste globalement à être à la recherche des différents concepts,
@@ -49,15 +46,10 @@ On y trouve sur la page d'accueil des comparatifs, des tests etc...
 
 ## Qu'est-ce que la Veille informatiques ?
 
-La veille informatique est une activité qui consiste à se tenir au courant des avancées technologiques dans le domaine de l'informatique afin de tirer parti de ses avancées le plus rapidement possible.
-https://image.slidesharecdn.com/outilsveille-140131032133-phpapp02/95/outils-en-ligne-pour-la-veille-informationnelle-6-638.jpg?cb=1391138896
 
 
-C'est une activité qui nous permet de **rester informées** des nouvelles technologies dans l'informatique, et d'être au courrant des avancées 
-le plus vite possible. 
 
-La veille informationnelle est l’ensemble des stratégies mises en place pour rester informé, en y consacrant le moins de temps possible 
-en utilisant des processus de signalement automatisés.
+
 
 
 ## Le principe ?
@@ -106,10 +98,8 @@ Une veille informatiques consiste à se renseigner sur les nouvelles technolgies
 ## Le principe ?
 
 
-La veille informationnelle est une stratégie permettant de rester à jour sur un domaine choisi. L'information peut être "cherchée", en passant périodiquement sur les mêmes sources, elle permet de classer directement les données selon ses intérêts. Elle peut également être "amenée" via les systèmes de newsletter ou flux rss.
 
- La maîtrise de l'information est une série de compétences qui permettront à l'individu de survivre et d'avoir du succès dans la société de l'information, notamment par la maîtrise des technologies donnant accès à cette information
- 
+
 
 ## Quels outils utiliser pour la veille informatique :
 Les reseaux scociaux, Les moteurs de recherche, 
@@ -181,11 +171,7 @@ Certaines informations sont éronées, n'importe qui peut modifier un article.
 
 ------------------------
 
-## Qu'est-ce que la Veille informatiques ?
-être au courant et se renseigner sur les avancées technologique informatique
-## Le principe ?
-en se renseigent sur des sites dédier aux dites informations ou flux rss regroupant plusieurs sites a la fois ,
-ou réseaux sociaux en s'abonnant a plusieurs pages d'infos pour recevoir leur flux
+
 
 ## Quels outils utiliser pour la veille informatique :
 #### faceboook/ twiter/ digg reader/ korben.info / pinterest / instagram / hardware.fr
@@ -205,8 +191,6 @@ manière incorrecte à sa voir qu'il affichera 20 flux restant a lire alors que 
 
 # La veille informatique
  
-## Qu'est-ce que la Veille informatiques ?
- est une activité qui consiste à se tenir au courant des avancées technologiques dans le domaine de l'informatique afin de tirer parti de ses avancées le plus rapidement possible.
 
 ## Le principe ?
 ## Quels outils utiliser pour la veille informatique :

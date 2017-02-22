@@ -2,6 +2,28 @@
 
 
 ## Qu'est-ce que la Veille informatiques ?
+Une veille informatiques consiste à se renseigner sur les nouvelles technolgies.
+## Le principe ?
+Le principes est de récolter certaines informations, plus particulièrement sur les technologies de longues durées, on trouveras ces informations sur certains outils.
+## Quels outils utiliser pour la veille informatique :
+Google
+Facebook
+Instagram
+Twitter
+Wikipédia
+Youtube
+### Liste par outils
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wikipedia-logo-v2-fr.svg/langfr-150px-Wikipedia-logo-v2-fr.svg.png) 
+#### Definition de l'outil
+Wikipédia, une encyclopédie qui permet de faire de recherches sur certains sujets.
+#### Avantages ?
+Récolter des informations sur beaucoup de choses historiquement, géographiquement.
+#### inconvénients ?
+Certaines informations sont éronées, n'importe qui peut modifier un article.
+
+------------------------
+
+## Qu'est-ce que la Veille informatiques ?
 être au courant et se renseigner sur les avancées technologique informatique
 ## Le principe ?
 en se renseigent sur des sites dédier aux dites informations ou flux rss regroupant plusieurs sites a la fois ,
@@ -44,3 +66,4 @@ les sites des grandes chaines plus crédible
 réseaux sociaux on peux avoir beaucoup d'nfo 
 #### inconvénients 
 les informations collecté sur les réseaux sociaux a verifiers tous le temps 
+

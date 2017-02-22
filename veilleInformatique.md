@@ -1,5 +1,60 @@
 # La veille informatique
 
+## 1/ Quest-ce que la veille informatique ?
+## 2/Comment procède t-on ?
+## 3/Quels outils utiliser pour la veille informatique ?
+## 4/Liste par outils
+#### *Définition par outils 
+#### *Avantages ?
+#### *Inconvénients ?
+
+
+**1/** La veille informatique consiste à se être constamment au courant des nouveautés dans le domaine de l'informatique,
+et éventuellement de d'anticiper les futurs dbesoins du monde de l'informatique.
+
+
+**2/** Les procédés diffèrent selon l'outil utilisé, mais cela consiste globalement à être à la recherche des différents concepts,
+prototypes, et technologies en cours ou à venir.
+
+
+**3/** Facebook, twitter et autres réseaux sociaux...
+Youtube 
+Google
+Jeuxvideo.com, Le journal du geek
+Wikipédia.com et autres encyclopédies...
+github
+
+
+**4/** Liste par outils
+
+**01net.com**
+
+![alt text](http://estherbenbassa.eelv.fr/files/2013/02/01-net.png)
+
+http://01net.com est un site Web français spécialisé dans l’informatique et les nouvelles technologies. il propose des
+actus informatique et high-tech, des tests et comparatifs, des astuces, des vidéos, un forum,
+ainsi qu’une section dédiée aux téléchargements de logiciels et drivers : telecharger.com.
+On y trouve sur la page d'accueil des comparatifs, des tests etc...
+
+* Avantages:
+ Site complet, traitant de divers sujets, bien présenté, interactions intéressantes.
+
+* Inconvénients:
+ Design assez simple
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Qu'est-ce que la Veille informatiques ?
 C'est une activité qui nous permet de **rester informées** des nouvelles technologies dans l'informatique, et d'être au courrant des avancées 
 le plus vite possible. 
@@ -25,7 +80,7 @@ Les avantages de twitter nous permet d'avoir un **accès rapide**, du **bouche a
 
 #### inconvénients ?
 Les inconvénients de twitter sont **les publicités récurrente** (les publications peuvents agassé vos followers), **volume de caractères strict** sur **Twitter** vous ne pouvez pas poster de message comprenant plus de 140 caracères, **Twitter** contient beacoup d'utilisateur donc vos tweets peuvent se mélanger avec d'autres groupes que suivent vos followers ce qui vous confronte au **mélange involontaire**, sachez aussi que **Twitter** est le 2ème réseau scocial en vogue (après **FACEBOOK**) 
-=======
+
 Le principes est de récolter certaines informations, plus particulièrement sur les technologies de longues durées, on trouveras ces informations sur certains outils.
 ## Quels outils utiliser pour la veille informatique :
 Google
@@ -88,5 +143,6 @@ les sites des grandes chaines plus crédible
 réseaux sociaux on peux avoir beaucoup d'nfo 
 #### inconvénients 
 les informations collecté sur les réseaux sociaux a verifiers tous le temps 
+
 
 

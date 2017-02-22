@@ -5,7 +5,7 @@ La veille informatique est plusieurs stratagemes mis en place pour pouvoir  s'in
 ## Le principe ?
 Le principe de la veille est d'identifié les sources et de collecter des information , de les traités et les diffuser .
 ## Quels outils utiliser pour la veille informatique :
-Les outils utilisé pour la veille informatique sont les reseaux sociaux , les blogs, les sites d'informations , les sites d'entraides et les moteurs de recherche .
+Les outils utilisé pour la veille informatique sont les reseaux sociaux , les blogs, les sites d'informations , les sites d'entraides et les moteurs de recherche.
 
 ### Liste par outils
 

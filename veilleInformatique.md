@@ -1,9 +1,21 @@
+
+[01net.com](#01net)
+
 # La veille informatique
 
 ## Qu'est-ce que la veille informatiques ?
- 
+ Pour proceder a la veille informatique il faut  plusieurs stratagemes a mettre  en place pour pouvoir  s'informer sur les news le plus rapidement possible permettant de rester à jour sur un domaine precis.
  La veille informatique est un type de veille informationnelle permettant de suivre les évolutions technologiques par le biais de différents outils. 
 L'informatique étant un domaine très évolutif, suivre différents flux d'informations permet d'optimiser les chances de découvrir des nouveautés et améliorations et d'être à jour quand aux évolutions technologiques.
+
+2/ Pour proceder a *la veille informatique* il faut  plusieurs stratagemes a mettre  en place pour pouvoir  s'informer sur les news le plus rapidement possible permettant de rester à jour sur un domaine precis. 
+On peut notament etre informé grace a : 
+*systèmes de newsletter 
+* flux rss
+* courriel
+* microblogage
+* agrégation de flux d'actualités
+* plateforme d'échange
 
 ## 1/ Quest-ce que la veille informatique ?
 ## 2/Comment procède t-on ?
@@ -18,20 +30,24 @@ L'informatique étant un domaine très évolutif, suivre différents flux d'info
 et éventuellement de d'anticiper les futurs dbesoins du monde de l'informatique.
 
 
-**2/** Les procédés diffèrent selon l'outil utilisé, mais cela consiste globalement à être à la recherche des différents concepts,
-prototypes, et technologies en cours ou à venir.
-
-
-**3/** Facebook, twitter et autres réseaux sociaux...
+## 3/Quels outils utiliser pour la veille informatique ?
+**3/** 
+**Réseaux sociaux** : Facebook, twitter, Hootsuite, Linkedin, instagram, pinterest 
+**sites d'informations** : pickanews, scoop.it, 01.net, korben.info
+blog
 Youtube 
-Google
-Jeuxvideo.com, Le journal du geek
+Google, google alerts, google news
+Jeuxvideo.com
+Le journal du geek
 Wikipédia.com et autres encyclopédies...
 github
+01net.com
+Flux RSS
+Forums
 
 
 **4/** Liste par outils
-
+<a name="01net"/>
 **01net.com**
 
 ![alt text](http://estherbenbassa.eelv.fr/files/2013/02/01-net.png)
@@ -50,7 +66,7 @@ On y trouve sur la page d'accueil des comparatifs, des tests etc...
 ## Qu'est-ce que la Veille informatiques ?
 *La veille informatique est une activité qui consiste à se tenir au courant des avancées technologiques dans le domaine du numérique afin de tirer parti de ses avancées le plus rapidement possible.*
 
-La veille informatique est plusieurs stratagemes mis en place pour pouvoir  s'informer sur les news le plus rapidement possible.
+
 ## Le principe ?
 
 *Le principe est de rester à jour sur les avancées du domaine numérique en s'informant, lire des articles, vérifier la pertinance des articles, utiliser plusieurs sources*
@@ -100,8 +116,7 @@ Collecter : soit par agrégation (collecte automatique), soit par capitalisation
 Analyser, traiter et synthétiser l'information ;
 Diffuser l'information.
 
-On cible le domaine ou les informations que l’on veut se tenir informé,on identifie les sources d'où l’information peut être émise
-et on vérifie la véracité de l’information et on met en place un moyen de diffusion.
+On cible le domaine ou les informations que l’on veut se tenir informé,on identifie les sources d'où l’information peut être émiseet on vérifie la véracité de l’information et on met en place un moyen de diffusion.
 
 ## Quels outils utiliser pour la veille informatique ?
 
@@ -140,7 +155,7 @@ Une veille informatiques consiste à se renseigner sur les nouvelles technolgies
 ## Le principe ?
 
 
-La veille informationnelle est une stratégie permettant de rester à jour sur un domaine choisi. L'information peut être "cherchée", en passant périodiquement sur les mêmes sources, elle permet de classer directement les données selon ses intérêts. Elle peut également être "amenée" via les systèmes de newsletter ou flux rss.
+
 
  La maîtrise de l'information est une série de compétences qui permettront à l'individu de survivre et d'avoir du succès dans la société de l'information, notamment par la maîtrise des technologies donnant accès à cette information
  
@@ -299,3 +314,4 @@ les sites des grandes chaines plus crédible
 réseaux sociaux on peux avoir beaucoup d'nfo 
 #### inconvénients 
 les informations collecté sur les réseaux sociaux a verifiers tous le temps 
+

@@ -1,5 +1,6 @@
 
 [01net.com](#01net)
+[Pinterest](#element1)
 
 # La veille informatique
 
@@ -197,7 +198,7 @@ Protéger son contenu: les alertes peuvent aussi vous aider à détecter tout pl
 Newsletter, Flux rss, Media sociaux, Sites d'informations dédiés, Sites personnels & Blogs, Forum & plate-formes d'échange
 
 #### Definition de l'outil
-
+<a name="element1"/>
 [Pinterest](https://fr.pinterest.com/)
 
 ![alt text](https://i0.wp.com/outilsveille.com/wp-content/uploads/2014/12/pinterest.jpg?resize=320%2C320&ssl=1 "Logo pinterest")

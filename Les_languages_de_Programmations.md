@@ -7,7 +7,7 @@
 ##### [CakePhp](#PHPwiki)
 ##### [Symfony](#S3)
 ##### [CSS](#CSS)
-##### [Bootstrap](#bootstrap)
+##### [Bootstrap](#Bootstrap)
 ##### [JavaScript](#Exemple)
 ##### [Node JS](#Node JS)
 ##### [Ajax JS](#AjaxJs)
@@ -158,7 +158,7 @@ function Nom_De_La_Fonction(argument1, argument2, ...) {
    liste d'instructions
 ```
 
-```<?
+```php
 $chaine = "Nombre de camions : ";
 
 function ajoute_camion($mode='')
@@ -178,7 +178,8 @@ ajoute_camion(); // nb == 1
 ajoute_camion(); // nb == 2
 ajoute_camion(); // nb == 3
 ajoute_camion("affiche"); // affiche Nombre de camions : 4
-?>```
+
+```
 
 ## Framework Symfony 3
 
@@ -249,10 +250,10 @@ a:active, a:focus {
  color: red;
 }
 ```
-
+<a name="Bootstrap"/>
 ## Bootstrap 
 ![alt texte](http://www.hugochaume.com/blog/wp-content/uploads/2016/02/solutions_bootstrap.png)
-<a name="Bootstrap"/>
+
 ### **Definition** :
 **Bootstrap**, est un compilateur écrit dans son propre langage. **Bootstrap** a été développé par la société **Twitter**.
 **Bootstrap Protocol** ou **BOOTP**, protocole réseau d'amorçage qui permet de donner automatiquement une adresse IP à une machine.

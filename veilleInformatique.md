@@ -1,3 +1,6 @@
+
+[01net.com](#01net)
+
 # La veille informatique
 
 ## Qu'est-ce que la veille informatiques ?
@@ -27,18 +30,24 @@ On peut notament etre informé grace a :
 et éventuellement de d'anticiper les futurs dbesoins du monde de l'informatique.
 
 
-
-
-**3/** Facebook, twitter et autres réseaux sociaux...
+## 3/Quels outils utiliser pour la veille informatique ?
+**3/** 
+**Réseaux sociaux** : Facebook, twitter, Hootsuite, Linkedin, instagram, pinterest 
+**sites d'informations** : pickanews, scoop.it, 01.net, korben.info
+blog
 Youtube 
-Google
-Jeuxvideo.com, Le journal du geek
+Google, google alerts, google news
+Jeuxvideo.com
+Le journal du geek
 Wikipédia.com et autres encyclopédies...
 github
+01net.com
+Flux RSS
+Forums
 
 
 **4/** Liste par outils
-
+<a name="01net"/>
 **01net.com**
 
 ![alt text](http://estherbenbassa.eelv.fr/files/2013/02/01-net.png)
@@ -305,3 +314,4 @@ les sites des grandes chaines plus crédible
 réseaux sociaux on peux avoir beaucoup d'nfo 
 #### inconvénients 
 les informations collecté sur les réseaux sociaux a verifiers tous le temps 
+

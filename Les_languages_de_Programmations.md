@@ -1,13 +1,17 @@
+
 # Les Langages de Programmation
 
 ## Navigation
+
 [php](#PHPwiki)
+[JavaScript](#Exemple)
 [Node JS](#Node JS)
 
 ## Les langages
 
-### CakePHP
 <a name="PHPwiki"/>
+### CakePHP
+
 #### Définition
 
 * **CakePHP** est un *framework* (ensemble cohérent de composants logiciels structurels qui servent a créer les fondations et les grandes lignes d'un lociel) web libre écrit en *PHP* distribué sous licence *MIT* .   
@@ -22,11 +26,44 @@ Il encourage également fortement l'utilisation de l'architecture *Modèle-Vue-C
 
 * On peut utiliser *cake* pour l'utilisation de CRUD(create,read,update,delete) afin de simplifiée l'utilisation des bases de données SQL , pour dispatché l'url permettant d'obtenir des adresses aisément lisibles , validations de données  et pour avoir un script en ligne de commande permettant la génération automatique de code a partir du modele physique de données.
 
+<a name=”Exemple”/>
+### Javascript
 
+![JS](http://makemedev.com/content/images/2016/10/javascript.jpg)
+JavaScipt est un langage de programmation Web qui rend n'importe quelle page morose en une vraie machine dynamique! Il permet de créer un site interactif et attrayant.
+Créé dans les années 90 il est désormais un des poids lourds du développement Web.
+Le JavaScript est un langage informatique utilisé sur les pages web. 
+Ce langage à la particularité de s'activer sur le poste client, en d'autres mots c'est votre ordinateur qui va recevoir le code et qui 
+devra l'exécuter. C'est en opposition à d'autres langages qui sont activé côté serveur.
+L'exécution du code est effectué par votre navigateur internet tel que Firefox, Chrome ou Internet Explorer.
+
+L'une des choses primordiale à savoir est de bien se rendre compte que le JavaScript n'a aucun rapport avec le Java qui est un autre langage informatique.
+
+La particularité du JavaScript consiste à créer des petits scripts sur une page HTML dans le but d'ajouter une petite animation ou un effet
+particulier sur la page. Cela permet en général d'améliorer l'ergonomie ou l'interface utilisateur, mais certains scripts sont peu utile
+et servent surtout à ajouter un effet esthétique à la page. 
+
+#### Voici quelques exemples de ce qui est réalisable grâce au JavaScript :
+
+- Un système de chat, comme celui de Facebook.
+- Une suggestion lors de la frappe dans un champ de texte, comme lors d'une recherche avec Google. 
+- Un lecteur de vidéos ou de musiques, aussi puissant que celui de Youtube. 
+- Des jeux. 
+- La modélisation 3D d'une Lamborghini affichée grâce à l'API WebGL et à la bibliothèque Three.js 
+Et bien d'autres choses !
+
+```javascript
+ function changeCouleur(nouvelleCouleur) {
+   elem = document.getElementById("para1");
+   elem.style.color = nouvelleCouleur;
+ }
+```
+
+<a name="Node JS"/>
 ### NodeJS
 
 #### Definition
-<a name="Node JS"/>
+
 ![Node JS](https://nodejs.org/static/images/logo.svg "Node JS")
 
 

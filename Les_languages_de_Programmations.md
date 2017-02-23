@@ -31,6 +31,3 @@ Rakuten et PayPal.
 Node.js facilitent le travail de création d’applications événementielles, il permet d'utiliser le language JavaScript sur le serveur en
 dehors du navigateur,avec des bibliothèques permettant de réaliser des actions comme écrire sur la sortie standard, ouvrir/fermer des
 connections réseau ou encore créer un fichier.
-
-
-

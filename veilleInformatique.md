@@ -1,12 +1,21 @@
 
 [01net.com](#01net)
 
+[Pinterest](#element1)
+
 # La veille informatique
 
 ## Qu'est-ce que la veille informatiques ?
+
+
+La veille informatique est une activité qui consiste à se tenir au courant des avancées technologiques dans le domaine de l'informatique afin de tirer parti de ses avancées le plus rapidement possible.,étant donnée que c'est un domaine très évolutif, suivre différents flux d'informations permet d'optimiser les chances de découvrir des nouveautés, améliorations et d'être à jour des évolutions technologiques.
+![image](https://image.slidesharecdn.com/outilsveille-140131032133-phpapp02/95/outils-en-ligne-pour-la-veille-informationnelle-6-638.jpg?cb=1391138896)
+  
+
  Pour proceder a la veille informatique il faut  plusieurs stratagemes a mettre  en place pour pouvoir  s'informer sur les news le plus rapidement possible permettant de rester à jour sur un domaine precis.
  La veille informatique est un type de veille informationnelle permettant de suivre les évolutions technologiques par le biais de différents outils. 
 L'informatique étant un domaine très évolutif, suivre différents flux d'informations permet d'optimiser les chances de découvrir des nouveautés et améliorations et d'être à jour quand aux évolutions technologiques.
+
 
 2/ Pour proceder a *la veille informatique* il faut  plusieurs stratagemes a mettre  en place pour pouvoir  s'informer sur les news le plus rapidement possible permettant de rester à jour sur un domaine precis. 
 On peut notament etre informé grace a : 
@@ -26,8 +35,6 @@ On peut notament etre informé grace a :
 #### *Inconvénients ?
 
 
-**1/** La veille informatique consiste à se être constamment au courant des nouveautés dans le domaine de l'informatique,
-et éventuellement de d'anticiper les futurs dbesoins du monde de l'informatique.
 
 
 ## 3/Quels outils utiliser pour la veille informatique ?
@@ -99,15 +106,10 @@ Une veille informationnelle est l’ensemble des stratégies mises en place pour
 
 les outils de veille informatique doivent etre  officielles et/ou pertinentes, fiables et concordantes, peuvent provenir d'autres veilleurs (des réseaux sociaux par exemple), provenir de différents supports, et ne pas être trouvées au hasard
 
-La veille informatique est une activité qui consiste à se tenir au courant des avancées technologiques dans le domaine de l'informatique afin de tirer parti de ses avancées le plus rapidement possible.
-https://image.slidesharecdn.com/outilsveille-140131032133-phpapp02/95/outils-en-ligne-pour-la-veille-informationnelle-6-638.jpg?cb=1391138896
 
 
-C'est une activité qui nous permet de **rester informées** des nouvelles technologies dans l'informatique, et d'être au courrant des avancées 
-le plus vite possible. 
 
-La veille informationnelle est l’ensemble des stratégies mises en place pour rester informé, en y consacrant le moins de temps possible 
-en utilisant des processus de signalement automatisés.
+
 
 
 ## Le principe ?
@@ -157,10 +159,6 @@ Une veille informatiques consiste à se renseigner sur les nouvelles technolgies
 
 
 
- La maîtrise de l'information est une série de compétences qui permettront à l'individu de survivre et d'avoir du succès dans la société de l'information, notamment par la maîtrise des technologies donnant accès à cette information
- 
-
-
 ## Quels outils utiliser pour la veille informatique :
 Les outils utilisé pour la veille informatique sont les reseaux sociaux , les blogs, les sites d'informations , les sites d'entraides et les moteurs de recherche.
 
@@ -201,7 +199,7 @@ Protéger son contenu: les alertes peuvent aussi vous aider à détecter tout pl
 Newsletter, Flux rss, Media sociaux, Sites d'informations dédiés, Sites personnels & Blogs, Forum & plate-formes d'échange
 
 #### Definition de l'outil
-
+<a name="element1"/>
 [Pinterest](https://fr.pinterest.com/)
 
 ![alt text](https://i0.wp.com/outilsveille.com/wp-content/uploads/2014/12/pinterest.jpg?resize=320%2C320&ssl=1 "Logo pinterest")
@@ -271,11 +269,7 @@ Certaines informations sont éronées, n'importe qui peut modifier un article.
 
 ------------------------
 
-## Qu'est-ce que la Veille informatiques ?
-être au courant et se renseigner sur les avancées technologique informatique
-## Le principe ?
-en se renseigent sur des sites dédier aux dites informations ou flux rss regroupant plusieurs sites a la fois ,
-ou réseaux sociaux en s'abonnant a plusieurs pages d'infos pour recevoir leur flux
+
 
 ## Quels outils utiliser pour la veille informatique :
 #### faceboook/ twiter/ digg reader/ korben.info / pinterest / instagram / hardware.fr
@@ -295,8 +289,6 @@ manière incorrecte à sa voir qu'il affichera 20 flux restant a lire alors que 
 
 # La veille informatique
  
-## Qu'est-ce que la Veille informatiques ?
- est une activité qui consiste à se tenir au courant des avancées technologiques dans le domaine de l'informatique afin de tirer parti de ses avancées le plus rapidement possible.
 
 ## Le principe ?
 ## Quels outils utiliser pour la veille informatique :

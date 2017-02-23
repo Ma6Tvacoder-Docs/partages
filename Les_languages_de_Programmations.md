@@ -1,13 +1,13 @@
 
 
 
-
 # Les Langages de Programmation
 
 
 ## Navigation
 
-[php](#PHPwiki)
+[CakePhp](#PHPwiki)
+[Symfony](#S3)
 [CSS](#CSS)
 [JavaScript](#Exemple)
 [Node JS](#Node JS)
@@ -32,19 +32,32 @@ Il encourage également fortement l'utilisation de l'architecture *Modèle-Vue-C
 
 * On peut utiliser *cake* pour l'utilisation de CRUD(create,read,update,delete) afin de simplifiée l'utilisation des bases de données SQL , pour dispatché l'url permettant d'obtenir des adresses aisément lisibles , validations de données  et pour avoir un script en ligne de commande permettant la génération automatique de code a partir du modele physique de données.
 
+<a name="S3"/>
+![alt text](https://www.eewee.fr/wp-content/uploads/2014/03/logo-symfony-2-763x362.jpg)
+
+## Framework Symfony 3
+
+- Symphony est un langage de programmation écrit en PHP fondé en 2005 par l'agence web SensioLabs, ce langage permet d'avoir une facilitée et une rapiditée dans le developpement d'un site web car il utilise des fonctionnalités modulables et adaptables.
+
+- Le site DailyMotion par exemeple a été programmé sous la forme Symfony. 
+
+- Voici un exemple de codage.
+
+![alt text](http://twimgs.com/ddj/images/article/2012/0912/Symfony.gif)
+
 ### CSS
 
 <a name="CSS"/>
 ![CSS](http://www.myiconfinder.com/uploads/iconsets/256-256-8b61de4c84033266e15317a6eb9fda2d-css3.png)
 
-**Définition:**
+#### Définition:
 CSS est l'acronyme de Cascading Style Sheet, ou feuille de style en cascade en français. 
 Le CSS permet d'insérer des styles sur un code HTML ou XHTMl et donc permet de définir très précisément le comportement 
 de chaque élément de la page.Une bonne pratique de développement consiste à débarrasser le coe HTML5 de toute information de mi
 se en forme et de laisser les feuilles de styles  (CSS donc) se charger de ce travail. 
 Ainsi, le fond est bien séparé de la forme, simplifie le travail à l'utilisateur et lui permet de créer un ste internet optimal.
 
-**Quand et comment l'utiliser ?**
+#### Quand et comment l'utiliser ?
 
  C'est lui qui vous permet de choisir la couleur de votre texte.
 Lui qui vous permet de sélectionner la police utilisée sur votre site.
@@ -224,3 +237,4 @@ On retrouve notamment ce langage dans
     </form>
   </body>
 </html>
+

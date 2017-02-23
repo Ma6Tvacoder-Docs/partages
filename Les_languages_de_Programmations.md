@@ -9,9 +9,10 @@
 ##### [CSS](#CSS)
 ##### [Bootstrap](#Bootstrap)
 ##### [JavaScript](#Exemple)
+##### [Jquery](#jLink)
 ##### [Node JS](#Node JS)
 ##### [Ajax JS](#AjaxJs)
-##### [Jquery](#jLink)
+
 
 ## Les langages
 
@@ -300,7 +301,7 @@ Et bien d'autres choses !
    elem.style.color = nouvelleCouleur;
  }
 ```
-<a name="jlink"/>
+<a name="jLink"/>
 ![Jquery](http://static.crazyws.fr/resources/blog/2012/06/jquery-18.png)
 ## le Jquery est une bibliothèque javascript libre !
 ### informations

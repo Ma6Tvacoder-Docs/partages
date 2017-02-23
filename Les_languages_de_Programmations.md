@@ -8,7 +8,7 @@
 
 
 
-<a Jquery=”jlink”/>
+<a name=”jlink”/>
 ![Jquery](http://static.crazyws.fr/resources/blog/2012/06/jquery-18.png)
 ## le Jquery est une bibliothèque javascript libre !
 ### informations

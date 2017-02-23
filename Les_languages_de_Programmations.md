@@ -492,9 +492,4 @@ On retrouve notamment ce langage dans
 	<legend>R&eacute;sultat</legend>
 	<p id="result"></p> <!-- Le résultat sera placé ici -->
       </fieldset>
-      <p><button>Soumettre</button></p> <!-- Bouton de soumission -->
-    </form>
-  </body>
-</html>
-
-
+      <p><button>Soumettre</butto

@@ -1,5 +1,5 @@
 [Symfony](#S3)
-<a Symfony="S3"/>
+<a name="S3"/>
 
 ![alt text](https://www.eewee.fr/wp-content/uploads/2014/03/logo-symfony-2-763x362.jpg)
 

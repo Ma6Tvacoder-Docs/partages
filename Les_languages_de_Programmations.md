@@ -180,7 +180,7 @@ ajoute_camion(); // nb == 3
 ajoute_camion("affiche"); // affiche Nombre de camions : 4
 
 ```
-
+<a name="S3"/>
 ## Framework Symfony 3
 
 - Symphony est un langage de programmation écrit en PHP fondé en 2005 par l'agence web SensioLabs, ce langage permet d'avoir une facilitée et une rapiditée dans le developpement d'un site web car il utilise des fonctionnalités modulables et adaptables.

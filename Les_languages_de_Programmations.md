@@ -1,3 +1,6 @@
+<a name="PHPwiki"/>
+[php](#PHPwiki)
+
 #Définition#
 
 * **CakePHP** est un *framework* (ensemble cohérent de composants logiciels structurels qui servent a créer les fondations et les grandes lignes d'un lociel) web libre écrit en *PHP* distribué sous licence *MIT* .   
@@ -11,4 +14,5 @@ Il encourage également fortement l'utilisation de l'architecture *Modèle-Vue-C
 #quand peut-on l'utiliser#
 
 * On peut utiliser *cake* pour l'utilisation de CRUD(create,read,update,delete) afin de simplifiée l'utilisation des bases de données SQL , pour dispatché l'url permettant d'obtenir des adresses aisément lisibles , validations de données  et pour avoir un script en ligne de commande permettant la génération automatique de code a partir du modele physique de données.
+
 

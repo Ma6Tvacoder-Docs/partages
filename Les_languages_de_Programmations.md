@@ -20,3 +20,33 @@ On retrouve notamment ce langage dans
 * l'interface de Gmail 
 * Google Talk 
 * ou sur Facebook pour gérer les photos et le chat.
+
+
+### Exemple de script:
+
+```javascript
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" media="screen" href="style.css">
+    <script src="http://code.jquery.com/jquery-1.6.2.min.js"></script> <!-- Les sources de la bibliothèque JQuery -->
+    <script src="script.js"></script> <!-- La source qui contient le code d'envoi en Ajax -->
+  </head>
+  <body>
+    <form method="post" action="add.php"> <!-- Formulaire envoyé par la méthode POST -->
+      <fieldset>
+	<legend>Choisissez deux nombres entiers</legend>
+	<p><label>a = <input name="a" type="number" required></label></p> <!-- Premier nombre -->
+	<p><label>b = <input name="b" type="number" required></label></p> <!-- Deuxième nombre -->
+      </fieldset>
+      <fieldset>
+	<legend>R&eacute;sultat</legend>
+	<p id="result"></p> <!-- Le résultat sera placé ici -->
+      </fieldset>
+      <p><button>Soumettre</button></p> <!-- Bouton de soumission -->
+    </form>
+  </body>
+</html>
+```

@@ -3,15 +3,118 @@
 
 ## Navigation
 
+##### [SQL](#sql)
 ##### [CakePhp](#PHPwiki)
 ##### [Symfony](#S3)
+##### [HTML](#html)
 ##### [CSS](#CSS)
+##### [Bootstrap](#Bootstrap)
 ##### [JavaScript](#Exemple)
+##### [Jquery](#jLink)
 ##### [Node JS](#Node JS)
 ##### [Ajax JS](#AjaxJs)
-##### [Jquery](#jLink)
+
 
 ## Les langages
+
+# L'Assembleur(ASM):
+
+inventé en 1945 par John von Neumann, l'assembleur fut le premier vrai langage de programmation mais aussi le plus proche
+de langage machin.
+
+![image](http://www.lopr.net/Images/ASM.gif)
+
+#Le COBOL:
+
+common Organization Business Oriented Language. Datant de 1959, ce langage de programmation
+contrairement au C++ ou au Java, il n'est pas orienté objet.
+
+
+exemple
+
+         01 NomPrenom.
+
+         05 Prenom PIC X(20).
+
+         05 Nom    PIC X(20).
+
+
+
+#Le BASIC:
+
+Beginners All purpose Simple Intructions Code (1964) le langage de programmation le plus simple
+il permet de créer des programmes basiques .
+exepemple:
+
+           0 INPUT "Quel est votre nom ? "; NOM$ 
+
+           20 PRINT "Bonjour "; NOM$
+
+           30 INPUT "Combien d'étoiles voulez-vous ? "; NOMBR
+
+
+
+#Le Pascal:
+est né dans les années 70connu son essor à partir de 1983 avec le compilateur turbo Pascal (de la société Borland)
+il évolua pour incorporer des objets puis pour être capable d'affficher des fenêtres.
+
+
+exemple:
+             PROGRAM var_entiere;
+
+             VAR
+
+             a : integer; { D´eclaration }
+
+            BEGIN
+
+             a := 5; { Affectation }
+
+            writeln (’valeur de a = ’, a); { Affichage : a = 5 }
+
+
+           end
+
+#la programmation orientée objet (POO):
+
+La programmation orientée objet consiste à représenter son programme sous la forme 
+d'objets (ce peut être n'importe quoi) ayant leurs propres attributs et communiquant entre eux à l'aide de méthodes.
+
+La programmation orientée objet devient de plus en plus indispensable de nos jours pour faire des programmes souples
+bien conçus et maintenables. Elle est accompagnée de diverses notions: héritage, polymorphisme, upcast, classe/méthode abstrait
+design patterns, etc.
+
+
+<a name="sql" />
+### SQL
+
+
+#### Définition :
+*Le SQL (Structured Query Language) est un langage permettant de communiquer avec une base de données. Ce langage informatique est notamment très utilisé par les développeurs web pour communiquer avec les données d’un site web.*
+
+nom du tableau : golavérage
+
+
+| Club      |  Victoire | Défaite  |
+| ----------| --------- |----------|
+| PSG       |  12       |   0      |
+| OM        |  6        |   6      |
+| OL        |  8        |   4      |
+| Nice      |  9        |   3      |
+
+***
+
+```SQL
+SELECT club, victoire FROM golavérage
+```
+| Club      |  Victoire |
+| ----------| --------- |
+| PSG       |  12       |
+| OM        |  6        |
+| OL        |  8        |
+| Nice      |  9        |
+
+
 
 <a name="PHPwiki"/>
 ### CakePHP
@@ -26,13 +129,60 @@
 Il encourage également fortement l'utilisation de l'architecture *Modèle-Vue-Contrôleur* qui est un motif d'architecture logicielle destiné au interfaces graphiques(tres populaire pour les applications web).
 *Cakephp* est compatible avec PHP5 et PHP7 , il sert également a avoir des composants de sécurité de gestion des droits et de gestion des sessions et caché des vues et des actions flexible.
 
+* **Fonction**
+1. Une fonction qui permet de rechercher et de remplacer des mots dans une variable.
+2. Une fonction qui envoie un fichier sur un serveur.
+3. Une fonction qui permet de créer des images miniatures (aussi appeléesthumbnails).
+4. Une fonction qui envoie un mail avec PHP (très pratique pour faire une newsletter !).
+5. Une fonction qui permet de modifier des images, y écrire du texte, tracer des lignes, des rectangles, etc.
+6. Une fonction qui crypte des mots de passe.
+7. Une fonction qui renvoie l'heure, la date…
+
+#### Exemple de code
+
+```php
+function dire_texte($qui, $texte = 'Bonjour')
+{
+  if(empty($qui)){ // $qui est vide, on retourne faux
+  return false;
+  }else{
+  echo "$texte $qui"; // on affiche le texte
+  return true; // fonction exécutée avec succès
+ }
+ ```
+
 #### quand peut-on l'utiliser#
 
 * On peut utiliser *cake* pour l'utilisation de CRUD(create,read,update,delete) afin de simplifiée l'utilisation des bases de données SQL , pour dispatché l'url permettant d'obtenir des adresses aisément lisibles , validations de données  et pour avoir un script en ligne de commande permettant la génération automatique de code a partir du modele physique de données.
 
-<a name="S3"/>
-![alt text](https://www.eewee.fr/wp-content/uploads/2014/03/logo-symfony-2-763x362.jpg)
+```Cakephp 
+function Nom_De_La_Fonction(argument1, argument2, ...) {
+   liste d'instructions
+```
 
+```php
+$chaine = "Nombre de camions : ";
+
+function ajoute_camion($mode='')
+{
+
+ global $chaine;
+
+ static $nb=0;
+
+  $nb++; // on incrémente le nombre de camions
+ if($mode == "affiche"){
+  echo $chaine.$nb; // on affiche le nombre de camions
+ }
+}
+
+ajoute_camion(); // nb == 1
+ajoute_camion(); // nb == 2
+ajoute_camion(); // nb == 3
+ajoute_camion("affiche"); // affiche Nombre de camions : 4
+
+```
+<a name="S3"/>
 ## Framework Symfony 3
 
 - Symphony est un langage de programmation écrit en PHP fondé en 2005 par l'agence web SensioLabs, ce langage permet d'avoir une facilitée et une rapiditée dans le developpement d'un site web car il utilise des fonctionnalités modulables et adaptables.
@@ -42,6 +192,50 @@ Il encourage également fortement l'utilisation de l'architecture *Modèle-Vue-C
 - Voici un exemple de codage.
 
 ![alt text](http://twimgs.com/ddj/images/article/2012/0912/Symfony.gif)
+
+<a name="html"/>
+### Le HTML
+![image](http://alibolori.ir/Biography/wp-content/uploads/2016/01/html.jpg)
+
+
+Le HTML (« HyperText Mark-Up Language ») est un langage dit de « marquage » (de « structuration » ou de « balisage »)
+dont le rôle est de formaliser l'écriture d'un document avec des balises de formatage.
+Les balises permettent d'indiquer la façon dont doit être présenté le document et les liens qu'il établit avec d'autres documents. 
+Les éléments du langage
+
+Les spécifications HTML font la différence entre les types d'éléments et les balises (ou marqueurs). 
+
+#l'élément page HTML et ses balises.
+
+Les signes < et > délimitent la balise. Ici <html> est une balise d'ouverture et </html> une balise de fermeture.
+L'élément HTML est, quant à lui, encadré par une balise d'ouverture de l'élément HTML <html> et une balise de fermeture de l'élément HTML 
+</html> contenant elle aussi le nom de l'élément et précédée par un slash (/) spécifiant la balise comme une balise de fermeture. La balise d'ouverture peut avoir divers attributs lui étant incorporé si nécessaire.
+
+Attention, les éléments ou textes contenus entre ces deux balises sont considérés comme le contenu de l'élément HTML 
+(ici le contenu de la page Web). On peut faire le même raisonnement avec tout type d'élément du langage, 
+hormis le fait que certains éléments ne possèdent pas de contenu et ne possèdent pas de balises de fermeture, ce
+sont les balises orphelines (voir tableau 1 : les éléments).
+Une autre notion importante de HTML est qu'il est basé sur la technique de l'hypertexte, cette technique permet de spécifier des URL au sein d'une même page ou entre des pages différentes. Si l'on prend la globalité des liens existant sur Internet on aurait un aperçu de ce qu'est le World Wide Web, une gigantesque toile sur laquelle des noeuds sont en fait des serveurs de contenus multimédias et les centaines de fils composants la toile les câbles reliant les machines au réseau.
+<html>
+	<head>
+		<title>Titre affiché dans la barre du navigateur</title>
+	</head>
+	
+	<body>
+		<h1>titre de niveau 1</h1>
+		<h2>titre de niveau 2</h2>
+		<h2>titre de niveau 3</h2>
+		<p>paragraphe 1</p>
+		<p>paragraphe 2</p>
+		<p>paragraphe 3</p>
+		<ul>
+			<li>item 1</li>
+			<li>item 2</li>
+			<li>item 3</li>
+		</ul>
+	</body>
+</html>
+
 
 ### CSS
 
@@ -102,9 +296,25 @@ a:active, a:focus {
  color: red;
 }
 ```
+<a name="Bootstrap"/>
+## Bootstrap 
+![alt texte](http://www.hugochaume.com/blog/wp-content/uploads/2016/02/solutions_bootstrap.png)
+
+### **Definition** :
+**Bootstrap**, est un compilateur écrit dans son propre langage. **Bootstrap** a été développé par la société **Twitter**.
+**Bootstrap Protocol** ou **BOOTP**, protocole réseau d'amorçage qui permet de donner automatiquement une adresse IP à une machine.
+
+### **Informations sur les langues** :
+En informatique, le terme **Bootstrapping** décrit les techniques nécessaires à l'écriture d'un compilateur dans le langage de programation cible qu'il doit compiler.
+
+### **Quand peut-on les utiliser ?** :
+L'utilisation de **Bootstrap** est une régression pour un travail **Front-end** de qualité.
+En résumé **Bootstrap** est un framework CSS qui comporte un plus des plugins jQuery pour composer des pages web, il a connu un développement et une popularité très rapide.
+**Bootstrap** s'installe facilement en référençent quelques fichiers sur son serveur ou même en passant par des CDN, il propose des template de démarrage pour éviter de partir
+avec une pagle blache. **Bootstrap** intègre des médias queries pour adapter les pages web a tous le s supports de visualisation. 
 
 
-<a name=”Exemple”/>
+<a name="Exemple"/>
 ### Javascript
 
 ![JS](http://makemedev.com/content/images/2016/10/javascript.jpg)
@@ -136,7 +346,7 @@ Et bien d'autres choses !
    elem.style.color = nouvelleCouleur;
  }
 ```
-<a name=”jlink”/>
+<a name="jLink"/>
 ![Jquery](http://static.crazyws.fr/resources/blog/2012/06/jquery-18.png)
 ## le Jquery est une bibliothèque javascript libre !
 ### informations
@@ -288,44 +498,3 @@ On retrouve notamment ce langage dans
 </html>
 
 
-
-![image](http://alibolori.ir/Biography/wp-content/uploads/2016/01/html.jpg)
-
-
-Le HTML (« HyperText Mark-Up Language ») est un langage dit de « marquage » (de « structuration » ou de « balisage »)
-dont le rôle est de formaliser l'écriture d'un document avec des balises de formatage.
-Les balises permettent d'indiquer la façon dont doit être présenté le document et les liens qu'il établit avec d'autres documents. 
-Les éléments du langage
-
-Les spécifications HTML font la différence entre les types d'éléments et les balises (ou marqueurs). 
-
-#l'élément page HTML et ses balises.
-
-Les signes < et > délimitent la balise. Ici <html> est une balise d'ouverture et </html> une balise de fermeture.
-L'élément HTML est, quant à lui, encadré par une balise d'ouverture de l'élément HTML <html> et une balise de fermeture de l'élément HTML 
-</html> contenant elle aussi le nom de l'élément et précédée par un slash (/) spécifiant la balise comme une balise de fermeture. La balise d'ouverture peut avoir divers attributs lui étant incorporé si nécessaire.
-
-Attention, les éléments ou textes contenus entre ces deux balises sont considérés comme le contenu de l'élément HTML 
-(ici le contenu de la page Web). On peut faire le même raisonnement avec tout type d'élément du langage, 
-hormis le fait que certains éléments ne possèdent pas de contenu et ne possèdent pas de balises de fermeture, ce
-sont les balises orphelines (voir tableau 1 : les éléments).
-Une autre notion importante de HTML est qu'il est basé sur la technique de l'hypertexte, cette technique permet de spécifier des URL au sein d'une même page ou entre des pages différentes. Si l'on prend la globalité des liens existant sur Internet on aurait un aperçu de ce qu'est le World Wide Web, une gigantesque toile sur laquelle des noeuds sont en fait des serveurs de contenus multimédias et les centaines de fils composants la toile les câbles reliant les machines au réseau.
-<html>
-	<head>
-		<title>Titre affiché dans la barre du navigateur</title>
-	</head>
-	
-	<body>
-		<h1>titre de niveau 1</h1>
-		<h2>titre de niveau 2</h2>
-		<h2>titre de niveau 3</h2>
-		<p>paragraphe 1</p>
-		<p>paragraphe 2</p>
-		<p>paragraphe 3</p>
-		<ul>
-			<li>item 1</li>
-			<li>item 2</li>
-			<li>item 3</li>
-		</ul>
-	</body>
-</html>

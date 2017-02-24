@@ -4,7 +4,7 @@
 ## Navigation
 
 [php](#PHPwiki)
-[JavaScript](#Exemple)
+[JavaScript](#JavaScript)
 [Node JS](#Node JS)
 
 ## Les langages

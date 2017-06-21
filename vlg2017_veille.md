@@ -1,6 +1,7 @@
-# Le Design Thinking
+# Le Design Thinking   
+#### by Ramsi Ferkous
 
-La pensée du designer
+## La pensée du designer.
 
 Le design thinking, c’est s’inspirer du mode de pensée des designers pour innover dans tous les domaines.
 

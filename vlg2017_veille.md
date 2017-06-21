@@ -1,7 +1,31 @@
-  **_voici un document de veille de la promo VLG 2017_**
+<a name="top">  
+
+**_voici un document de veille de la promo VLG 2017_**
 ==================================================
 
-<a name="top">  
+[La mortalité des abeilles by Barbara](#barbara)
+
+[Outil de veille Netvibes by Corinne](#corinne)
+
+[Responsive Web Design by Hadi](#hadi)
+
+[](#johan)
+
+[La veille informatique by Julien](#julien)
+
+[](#meryem)
+
+[Quelques liens by Pascal](#pascal)
+
+[Le Design Thinking by Ramsi](#ramsi)
+
+[En 2100, les 3 quarts de l'Humanité risque de mourir de chaud by Sandra](#sandra)
+
+[L'hologramme by Sarah](#sarah)
+
+[Veille informatique 2017 by Sébastien](#sebastien)
+
+[L'intelligence artificielle by Yannick](#yannick)
 
 [Bas de page](#foot)  
 
@@ -9,7 +33,7 @@
 ![chill image](https://media.giphy.com/media/l0MYNwqcCPfD4uRLq/giphy.gif)
 
 ---
-
+<a name="sebastien">
 Sébastien Veille informatique 2017
 ---------------------------------------
 ---
@@ -62,11 +86,13 @@ Tableau recapitulatif :
  **le journal du geek** | [lejournaldugeek](http://www.journaldugeek.com) | les news, des évolutions multimédia , cinéma, android, sécurité, les buzz, jeux vidéos, et évènements; le-journal-du-geek. | *mobile/pc*  
 
 
- <a name="foot">  
+  
 
  [Haut de page](#top)  
  
 =======
+
+<a name="pascal">
 
 # <u>Pascal
 
@@ -101,6 +127,8 @@ https://www.developpez.com/
  [Haut de page](#top)  
  
 ___
+
+<a name="julien">
 
 # **La veille informatique**
 ## by Julien
@@ -165,6 +193,8 @@ lui correspond le mieux.
  
 ***
 
+<a name="sarah">
+
 # Sarah_Veille Numérique
 
 # L'hologramme
@@ -181,6 +211,8 @@ Récemment un developpeur habitant en Floride a créée une version holographiqu
  [Haut de page](#top)  
 
 ***
+
+<a name="barbara">
 
 # Barbara - Veille numérique
 
@@ -227,6 +259,8 @@ Le 22 novembre 2016, le gouvernement annonce prendre une nouvelle série de mesu
  
 ***
 
+<a name="corinne">
+
 # Corinne outil de veille
 ## netvibes
 
@@ -254,6 +288,8 @@ Netvibes permets de créer :
  [Haut de page](#top)  
  
 ***
+
+<a name="sandra">
 
 # sandra - veille numérique.
 
@@ -287,6 +323,8 @@ En ce qui concerne les vagues de chaleur nous sommes à court d'options pour l'a
 
 ***
 
+<a name="yannick">
+
 #    **_Article de veille numérique Yannick Bley_**
 
 ##   l'intelligence artificielle
@@ -314,6 +352,7 @@ La vague touchera tout le monde, les entreprises, les industries, le commerce de
  [Haut de page](#top)  
 
 ***
+<a name="hadi">
 
 #   Responsive Web Design
 ## by Hadi
@@ -353,6 +392,8 @@ Il décrira par la suite sa théorie et pratique du responsive dans son ouvrage 
  [Haut de page](#top)  
 
 ***
+
+<a name="ramsi">
 
 # Le Design Thinking   
 #### by Ramsi Ferkous
@@ -398,4 +439,5 @@ Quand j’ouvre un projet historique
 
 ***
 
+<a name="foot">
 

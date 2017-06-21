@@ -238,7 +238,7 @@ Récemment un developpeur habitant en Floride a créée une version holographiqu
 
 En france, le taux de mortalité des abeilles est passé de __5% à 30% par an__ en __20 ans__.
 
-### II. Causes de la mortalité des abeilles <a name="causes"
+### II. Causes de la mortalité des abeilles <a name="causes">
 
 * __Agents chimiques__ : Bien qu’aucun produit chimique à lui seul ne semble être la cause du syndrome, les pesticides affaibliraient les abeilles. Ainsi, de nouveaux pesticides appelés __*néonicotinoïdes*__, sont suspectés d’avoir un effet imprévu sur la capacité des abeilles à s’orienter et à mémoriser leur chemin. Sans cette mémoire, l’abeille ne peut pas rentrer à la ruche, et la colonie dans son ensemble risque de s’effondrer.
 

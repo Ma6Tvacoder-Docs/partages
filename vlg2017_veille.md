@@ -1,3 +1,73 @@
+  **_voici un document de veille de la promo VLG 2017_**
+==================================================
+
+<a name="top">  
+
+[Bas de page](#foot)  
+
+
+![chill image](https://media.giphy.com/media/l0MYNwqcCPfD4uRLq/giphy.gif)
+
+---
+
+Sébastien Veille informatique 2017
+---------------------------------------
+---
+
+### Flipboard
+
+
+**_Avis général_**:
+ > * [Flipboard](https://flipboard.com "flipboard") : L’objectif des deux fondateurs était de créer une application qui permettrait de centraliser sur un même média la totalité des informations disponibles sur les réseaux sociaux et les sites d’information, en privilégiant la simplicité et l’esthétique d’un magazine.
+
+> * L’application aurait été inventée à l’occasion d’une séance de brainstorming où les deux cofondateurs auraient essayé d’imaginer à quoi le web ressemblerait aujourd’hui s’il était conçu à partir de zéro.
+
+> * En 2012, Flipboard a sorti la première version de son application sur Android2.
+
+**_Avis personnel_**:
+
+ * Très pratique celui-ci est un outil-journal qui permet d'être organisé au niveau de sa veille informatique. Il propose dès l'inscription un ensemble de sujets que l'on peux choisir afin de rester informé très rapidemment; on retrouve toute la beauté de son ergonomie sur mobile.
+ * Par contre un inconvénient, il s'agit de sujets générals et non spécifique c'est a dire par exemple que j'ai choisit : technologie, qui regroupe l'ensemble des nouvelles informations technologique (web/informatique/mobile). les articles sont assez pertinent mais le contenu reste vaste sur toutes les nouvelles technologies.
+
+----
+
+![singe](https://media.giphy.com/media/uezMdTS8Vo4cU/giphy.gif)
+
+### Twitter
+
+**_Avis:_**
+  * [Twitter](https://twitter.com "twitter") : Comme Flipboard le but de twitter est un outil d'échange d'informations ;  mais celui-ci est plutot un outil social de micro-blogage, il permet aux utilisateurs d'envoyer des messages sur la toile de 140 caractères maximum, pour informer les autres personnes qui suivent ces informations des changements ou évolutions qui se passent dans le monde/entreprise etc..
+
+  *  Comme il s'agit d'un réseau social il permet d'être au courant en temps et en heure de sujet qui nous interressent. Mais il s'agis ici plutot d'un avis personnel, d'où le nom envoyer un tweet via un hashtag on peux très rapidement retrouvé le sujet voulu. Les sujets que j'ai choisit sont la politique, le multimédia (jeux vidéos), et le sport. Ce qui est bien c'est quon a le choix entre le groupe, l'entreprise, la personne connu qu'on souhaite suivre si il a son propre compte tweet on est tenu au courant des évolutions ou changements.
+
+
+![what](https://media.giphy.com/media/l0Iy2kDsmk0JEqgUw/giphy.gif)
+
+---
+![Paradise](https://media.giphy.com/media/l0Iy0wjnWUh7iFZ7y/giphy.gif)
+
+### Le journal du geek
+
+**_Avis:_**
+
+ * [lejournaldugeek](http://www.journaldugeek.com) : Regroupant toutes les news, des évolutions multimédia , cinéma, android, sécurité, les buzz, jeux vidéos, et évènements; le-journal-du-geek, je trouve qu'il m'est approprié pour me tenir informé de toutes les évolutions dans le monde du multimédia.  
+
+
+Tableau recapitulatif :
+
+ outils | site | suivi | support
+ --- | --- | --- | ---
+ **flipboard** | [Flipboard](https://flipboard.com) | Technologie | *mobile/pc*
+ **twitter** | [Twitter](https://twitter.com "twitter") | la politique, le multimédia (jeux vidéos), et le sport. | *mobile/pc*
+ **le journal du geek** | [lejournaldugeek](http://www.journaldugeek.com) | les news, des évolutions multimédia , cinéma, android, sécurité, les buzz, jeux vidéos, et évènements; le-journal-du-geek. | *mobile/pc*  
+
+
+ <a name="foot">  
+
+ [Haut de page](#top)  
+ 
+=======
+
 # <u>Pascal
 
 ## Quelques liens :
@@ -28,6 +98,8 @@ Site où on peut trouver différents cours :
 #### autres sites :
 https://www.developpez.com/
 
+ [Haut de page](#top)  
+ 
 ___
 
 # **La veille informatique**
@@ -89,6 +161,8 @@ lui correspond le mieux.
 
 >Avec les compliments de Julien (intégrateur/développeur Web) de MA6-T Va Coder.
 
+ [Haut de page](#top)  
+ 
 ***
 
 # Sarah_Veille Numérique
@@ -103,6 +177,8 @@ Les hologrammes :
 Récemment un developpeur habitant en Floride a créée une version holographique de cortana. Elle s'appuie sur la technologie du Pepper Ghost, elle marche sur la version Cortana incluse dans windows 10. A partir d’un appareil doté de 4GB de RAM et d’un Arduino qui contrôle les lumière du système — doté d’un haut-parleur intégré et de plusieurs composants imprimés en 3D. Le jeu de miroir mis en place permet de faire apparaître cette version féminine de Cortana, dont la gestuelle s’appuie de la capture de mouvement réalisée par la femme du developpeur à l’aide de deux Kinect. Le résultat final a été modélisé à l’aide de l’appli d’animation Unity.
 
 <iframe width="1000" height="562" src="https://www.youtube.com/embed/fggE3VI3NRg" frameborder="0" allowfullscreen></iframe>
+
+ [Haut de page](#top)  
 
 ***
 
@@ -147,6 +223,8 @@ Le 22 novembre 2016, le gouvernement annonce prendre une nouvelle série de mesu
 
  * Ségolène Royal appelle à développer la recherche contre le frelon asiatique, et souligne que son ministère finance les travaux du Muséum d'histoire naturelle et l'Institut national de recherche agronomique.
 
+ [Haut de page](#top)  
+ 
 ***
 
 # Corinne outil de veille
@@ -173,6 +251,8 @@ Netvibes permets de créer :
 | ------------- | ------- | ---------------- |
 | Tarik krim | 15 septembre 2005 | 10 millions |
 
+ [Haut de page](#top)  
+ 
 ***
 
 # sandra - veille numérique.
@@ -203,6 +283,8 @@ En ce qui concerne les vagues de chaleur nous sommes à court d'options pour l'a
 
 **_La situation pourrait être pire si les émissions de gaz à effet de serre ne sont pas considérablement réduites...._**
 
+ [Haut de page](#top)  
+
 ***
 
 #    **_Article de veille numérique Yannick Bley_**
@@ -228,6 +310,8 @@ La vague touchera tout le monde, les entreprises, les industries, le commerce de
  * Voici ce que publiait un article du Point le 01/06/2017 à ce propos :
  >Le « Projet du cerveau humain », programme scientifique d'envergure, vise à simuler le fonctionnement du cerveau humain grâce à un superordinateur. L'horizon fixé est 2024. Il servirait à mettre au point de nouvelles thérapies médicales plus efficaces contre les maladies neurologiques. Mené par le neuroscientifique israélien Henry Markram, il prévoit d'étudier le fonctionnement du cerveau par rétro-ingénierie, une approche consistant à étudier un objet pour en déterminer le fonctionnement interne ou la méthode de fabrication.
  >
+
+ [Haut de page](#top)  
 
 ***
 
@@ -265,6 +349,8 @@ Il décrira par la suite sa théorie et pratique du responsive dans son ouvrage 
 | on conserve le mème contenue      | oui      |       pas toujours         |      non |
 
 **_[click ici pour comprendre  le responsive video ](http://www.google.fr "acceuil de google")_**
+
+ [Haut de page](#top)  
 
 ***
 
@@ -308,5 +394,8 @@ Quand j’ouvre un projet historique
 
 ![Groot image](http://ljdchost.com/nDmdJau.gif)(http://lesjoiesducode.fr/)
 
+ [Haut de page](#top)  
+
 ***
+
 

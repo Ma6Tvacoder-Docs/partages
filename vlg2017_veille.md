@@ -1,10 +1,9 @@
-
   **_voici un document de veille de la promo VLG 2017_**
 ==================================================
 
 <a name="top">  
 
-[Bas de page](#ancres)  
+[Bas de page](#foot)  
 
 
 ![chill image](https://media.giphy.com/media/l0MYNwqcCPfD4uRLq/giphy.gif)
@@ -67,6 +66,121 @@ Tableau recapitulatif :
 
  [Haut de page](#top)  
  
+=======
+
+# <u>Pascal
+
+## Quelques liens :
+
+#### création de sites :
+
+e-creatif : http://www.e-creatif.com/
+
+#### markdown :
+https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/
+https://openclassrooms.com/courses/redigez-en-markdown
+
+#### création d'entreprise (auto entrepreneur) :
+Accompagnement de Pôle emploi : http://www.pole-emploi.fr/candidat/activ-crea-@/article.jspz?id=325937  
+AGENCE FRANCE ENTREPRENEUR : https://www.afecreation.fr/
+
+#### PHP :
+###### IDE PHPStorm :
+https://www.jetbrains.com/phpstorm/  
+formation :  https://www.grafikart.fr/formations/phpstorm
+
+#### Apprentissage du langage web :
+Apprenez à coder de manière interactive, gratuitement :
+[codecademy](https://www.codecademy.com/fr)   
+Site où on peut trouver différents cours :
+[OpenClassrooms](https://openclassrooms.com/)
+
+#### autres sites :
+https://www.developpez.com/
+
+ [Haut de page](#top)  
+ 
+___
+
+# **La veille informatique**
+## by Julien
+---
+
+## *Rôle de la veille informatique*
+
+La veille informatique est une activité qui consiste à ce tenir informer des avancées technologiques  
+par des **outils** en se référant à des **sites** ou **applications**.  
+Bien entendu les sites doivent être viable pour éviter toutes intox.
+
+>*Précision : une veille peut concerner n'importe quels domaines, tout dépend  
+ vos centres d'intérêts.*
+
+---
+
+## *Sites et applications*
+
+  * [Google](https://www.google.com "Google")
+
+  * [Facebook](https://fr-fr.facebook.com/ "Facebook")
+
+  * [Linkedin](https://fr.linkedin.com "Linkedin")
+
+  * [Flipboard](https://flipboard.com/ "FlipBoard")
+
+  * [Netvibes](https://www.netvibes.com "Netvibes")
+
+  * [Github](https://github.com "Github")
+
+>Il y en a plein d'autres encore, chercher ceux qui vous correspondent le plus  
+ et avec lesquels vous vous sentez alaise.
+
+
+---
+
+## *Outils d'alertes*
+
+Les outils d'alertes permettront d'être informer en direct des avancées par  
+des alertes.
+
+1. Google alertes
+2. TalkWalker Alertes
+3. Mention
+4. Feedly
+5. Scoop it
+
+> Comme pour les sites et applications chacun est libre de choisir l'outil qui  
+lui correspond le mieux.
+
+---
+
+# Félicitation ! ! !
+
+###  _**Vous savez désormais ce qu'est une veille informatique.**_
+
+![groot image](https://media.giphy.com/media/7rj2ZgttvgomY/giphy.gif)
+
+>Avec les compliments de Julien (intégrateur/développeur Web) de MA6-T Va Coder.
+
+ [Haut de page](#top)  
+ 
+***
+
+# Sarah_Veille Numérique
+
+# L'hologramme
+
+**Définition d'un hologramme** :
+
+L’hologramme est le produit de l'holographie. Il s'agit historiquement d'un procédé de photographie en relief. Aujourd'hui, un hologramme représente une image en trois dimensions apparaissant comme « suspendue en l'air ». Le mot hologramme provient du grec « holos » (« en entier ») et « graphein » (« écrire »).
+
+Les hologrammes :
+Récemment un developpeur habitant en Floride a créée une version holographique de cortana. Elle s'appuie sur la technologie du Pepper Ghost, elle marche sur la version Cortana incluse dans windows 10. A partir d’un appareil doté de 4GB de RAM et d’un Arduino qui contrôle les lumière du système — doté d’un haut-parleur intégré et de plusieurs composants imprimés en 3D. Le jeu de miroir mis en place permet de faire apparaître cette version féminine de Cortana, dont la gestuelle s’appuie de la capture de mouvement réalisée par la femme du developpeur à l’aide de deux Kinect. Le résultat final a été modélisé à l’aide de l’appli d’animation Unity.
+
+<iframe width="1000" height="562" src="https://www.youtube.com/embed/fggE3VI3NRg" frameborder="0" allowfullscreen></iframe>
+
+ [Haut de page](#top)  
+
+***
 
 # Barbara - Veille numérique
 
@@ -109,6 +223,8 @@ Le 22 novembre 2016, le gouvernement annonce prendre une nouvelle série de mesu
 
  * Ségolène Royal appelle à développer la recherche contre le frelon asiatique, et souligne que son ministère finance les travaux du Muséum d'histoire naturelle et l'Institut national de recherche agronomique.
 
+ [Haut de page](#top)  
+ 
 ***
 
 # Corinne outil de veille
@@ -135,6 +251,8 @@ Netvibes permets de créer :
 | ------------- | ------- | ---------------- |
 | Tarik krim | 15 septembre 2005 | 10 millions |
 
+ [Haut de page](#top)  
+ 
 ***
 
 # sandra - veille numérique.
@@ -165,6 +283,8 @@ En ce qui concerne les vagues de chaleur nous sommes à court d'options pour l'a
 
 **_La situation pourrait être pire si les émissions de gaz à effet de serre ne sont pas considérablement réduites...._**
 
+ [Haut de page](#top)  
+
 ***
 
 #    **_Article de veille numérique Yannick Bley_**
@@ -190,6 +310,8 @@ La vague touchera tout le monde, les entreprises, les industries, le commerce de
  * Voici ce que publiait un article du Point le 01/06/2017 à ce propos :
  >Le « Projet du cerveau humain », programme scientifique d'envergure, vise à simuler le fonctionnement du cerveau humain grâce à un superordinateur. L'horizon fixé est 2024. Il servirait à mettre au point de nouvelles thérapies médicales plus efficaces contre les maladies neurologiques. Mené par le neuroscientifique israélien Henry Markram, il prévoit d'étudier le fonctionnement du cerveau par rétro-ingénierie, une approche consistant à étudier un objet pour en déterminer le fonctionnement interne ou la méthode de fabrication.
  >
+
+ [Haut de page](#top)  
 
 ***
 
@@ -227,6 +349,8 @@ Il décrira par la suite sa théorie et pratique du responsive dans son ouvrage 
 | on conserve le mème contenue      | oui      |       pas toujours         |      non |
 
 **_[click ici pour comprendre  le responsive video ](http://www.google.fr "acceuil de google")_**
+
+ [Haut de page](#top)  
 
 ***
 
@@ -269,6 +393,8 @@ Un petit exemple rien que pour vous :D
 Quand j’ouvre un projet historique
 
 ![Groot image](http://ljdchost.com/nDmdJau.gif)(http://lesjoiesducode.fr/)
+
+ [Haut de page](#top)  
 
 ***
 

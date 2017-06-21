@@ -1,7 +1,10 @@
   **_voici un document de veille de la promo VLG 2017_**
 ==================================================
-<a name="top">
-[Bas de page](#ancres)
+
+<a name="top">  
+
+[Bas de page](#ancres)  
+
 
 ![chill image](https://media.giphy.com/media/l0MYNwqcCPfD4uRLq/giphy.gif)
 
@@ -56,9 +59,10 @@ Tableau recapitulatif :
  --- | --- | --- | ---
  **flipboard** | [Flipboard](https://flipboard.com) | Technologie | *mobile/pc*
  **twitter** | [Twitter](https://twitter.com "twitter") | la politique, le multimédia (jeux vidéos), et le sport. | *mobile/pc*
- **le journal du geek** | [lejournaldugeek](http://www.journaldugeek.com) | les news, des évolutions multimédia , cinéma, android, sécurité, les buzz, jeux vidéos, et évènements; le-journal-du-geek. | *mobile/pc*
+ **le journal du geek** | [lejournaldugeek](http://www.journaldugeek.com) | les news, des évolutions multimédia , cinéma, android, sécurité, les buzz, jeux vidéos, et évènements; le-journal-du-geek. | *mobile/pc*  
 
 
+ <a name="foot">  
 
- <a name="foot">
- [Haut de page](#top)
+ [Haut de page](#top)  
+ 

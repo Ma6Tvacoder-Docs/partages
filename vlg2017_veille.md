@@ -26,3 +26,14 @@ Concrètement, le travail en mode design thinking s’organise autour de trois l
 ### Quelques explications en vidéo
 
 [![IMAGE ALT TEXT](https://lh5.ggpht.com/jZ8XCjpCQWWZ5GLhbjRAufsw3JXePHUJVfEvMH3D055ghq0dyiSP3YxfSc_czPhtCLSO=w300)](https://youtu.be/-89WSjJDcn0 "Qu'est-ce que le Design Thinking")
+
+
+# Les joies du code
+
+Découvrer le site [Les joies du code](http://lesjoiesducode.fr/) pour vous divertir un peu après un bon moment de codage :D
+
+Un petit exemple rien que pour vous :D
+
+Quand j’ouvre un projet historique
+
+![Groot image](http://ljdchost.com/nDmdJau.gif)(http://lesjoiesducode.fr/)

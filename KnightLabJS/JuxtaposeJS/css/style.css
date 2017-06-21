@@ -1,0 +1,31 @@
+body{
+font-family: 'Fredoka One', cursive;
+text-align: center;
+}
+
+
+.juxtapose{
+    margin-top: 10em;
+    width: 40%;
+    height: 550px;
+    margin-left:15em;
+    border-radius: 10px 10px 10px 10px;
+    border-width: thick;
+    border-color: #000;
+    float: left;
+
+}
+
+h2{
+    text-decoration: underline;
+}
+.p{
+width: 45%;
+float: right;
+padding-left: 1em;
+margin-top: 15em;
+
+}
+.clear{
+    clear: both;
+}

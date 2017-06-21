@@ -1,3 +1,227 @@
+<a name="top">  
+
+**_voici un document de veille de la promo VLG 2017_**
+==================================================
+
+[La mortalité des abeilles by Barbara](#barbara)
+
+[Outil de veille Netvibes by Corinne](#corinne)
+
+[Responsive Web Design by Hadi](#hadi)
+
+[](#johan)
+
+[La veille informatique by Julien](#julien)
+
+[Pixfan by Meryem](#meryem)
+
+[Quelques liens by Pascal](#pascal)
+
+[Le Design Thinking by Ramsi](#ramsi)
+
+[En 2100, les 3 quarts de l'Humanité risque de mourir de chaud by Sandra](#sandra)
+
+[L'hologramme by Sarah](#sarah)
+
+[Veille informatique 2017 by Sébastien](#sebastien)
+
+[L'intelligence artificielle by Yannick](#yannick)
+
+[Bas de page](#foot)  
+
+
+![chill image](https://media.giphy.com/media/l0MYNwqcCPfD4uRLq/giphy.gif)
+
+***
+
+<a name="meryem">
+
+ boularouk meryem
+ https://www.pixfan.com/10-outils-pour-envoyer-des-photos/
+
+
+---
+<a name="sebastien">
+Sébastien Veille informatique 2017
+---------------------------------------
+---
+
+### Flipboard
+
+
+**_Avis général_**:
+ > * [Flipboard](https://flipboard.com "flipboard") : L’objectif des deux fondateurs était de créer une application qui permettrait de centraliser sur un même média la totalité des informations disponibles sur les réseaux sociaux et les sites d’information, en privilégiant la simplicité et l’esthétique d’un magazine.
+
+> * L’application aurait été inventée à l’occasion d’une séance de brainstorming où les deux cofondateurs auraient essayé d’imaginer à quoi le web ressemblerait aujourd’hui s’il était conçu à partir de zéro.
+
+> * En 2012, Flipboard a sorti la première version de son application sur Android2.
+
+**_Avis personnel_**:
+
+ * Très pratique celui-ci est un outil-journal qui permet d'être organisé au niveau de sa veille informatique. Il propose dès l'inscription un ensemble de sujets que l'on peux choisir afin de rester informé très rapidemment; on retrouve toute la beauté de son ergonomie sur mobile.
+ * Par contre un inconvénient, il s'agit de sujets générals et non spécifique c'est a dire par exemple que j'ai choisit : technologie, qui regroupe l'ensemble des nouvelles informations technologique (web/informatique/mobile). les articles sont assez pertinent mais le contenu reste vaste sur toutes les nouvelles technologies.
+
+----
+
+![singe](https://media.giphy.com/media/uezMdTS8Vo4cU/giphy.gif)
+
+### Twitter
+
+**_Avis:_**
+  * [Twitter](https://twitter.com "twitter") : Comme Flipboard le but de twitter est un outil d'échange d'informations ;  mais celui-ci est plutot un outil social de micro-blogage, il permet aux utilisateurs d'envoyer des messages sur la toile de 140 caractères maximum, pour informer les autres personnes qui suivent ces informations des changements ou évolutions qui se passent dans le monde/entreprise etc..
+
+  *  Comme il s'agit d'un réseau social il permet d'être au courant en temps et en heure de sujet qui nous interressent. Mais il s'agis ici plutot d'un avis personnel, d'où le nom envoyer un tweet via un hashtag on peux très rapidement retrouvé le sujet voulu. Les sujets que j'ai choisit sont la politique, le multimédia (jeux vidéos), et le sport. Ce qui est bien c'est quon a le choix entre le groupe, l'entreprise, la personne connu qu'on souhaite suivre si il a son propre compte tweet on est tenu au courant des évolutions ou changements.
+
+
+![what](https://media.giphy.com/media/l0Iy2kDsmk0JEqgUw/giphy.gif)
+
+---
+![Paradise](https://media.giphy.com/media/l0Iy0wjnWUh7iFZ7y/giphy.gif)
+
+### Le journal du geek
+
+**_Avis:_**
+
+ * [lejournaldugeek](http://www.journaldugeek.com) : Regroupant toutes les news, des évolutions multimédia , cinéma, android, sécurité, les buzz, jeux vidéos, et évènements; le-journal-du-geek, je trouve qu'il m'est approprié pour me tenir informé de toutes les évolutions dans le monde du multimédia.  
+
+
+Tableau recapitulatif :
+
+ outils | site | suivi | support
+ --- | --- | --- | ---
+ **flipboard** | [Flipboard](https://flipboard.com) | Technologie | *mobile/pc*
+ **twitter** | [Twitter](https://twitter.com "twitter") | la politique, le multimédia (jeux vidéos), et le sport. | *mobile/pc*
+ **le journal du geek** | [lejournaldugeek](http://www.journaldugeek.com) | les news, des évolutions multimédia , cinéma, android, sécurité, les buzz, jeux vidéos, et évènements; le-journal-du-geek. | *mobile/pc*  
+
+
+  
+
+ [Haut de page](#top)  
+ 
+=======
+
+<a name="pascal">
+
+# <u>Pascal
+
+## Quelques liens :
+
+#### création de sites :
+
+e-creatif : http://www.e-creatif.com/
+
+#### markdown :
+https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/
+https://openclassrooms.com/courses/redigez-en-markdown
+
+#### création d'entreprise (auto entrepreneur) :
+Accompagnement de Pôle emploi : http://www.pole-emploi.fr/candidat/activ-crea-@/article.jspz?id=325937  
+AGENCE FRANCE ENTREPRENEUR : https://www.afecreation.fr/
+
+#### PHP :
+###### IDE PHPStorm :
+https://www.jetbrains.com/phpstorm/  
+formation :  https://www.grafikart.fr/formations/phpstorm
+
+#### Apprentissage du langage web :
+Apprenez à coder de manière interactive, gratuitement :
+[codecademy](https://www.codecademy.com/fr)   
+Site où on peut trouver différents cours :
+[OpenClassrooms](https://openclassrooms.com/)
+
+#### autres sites :
+https://www.developpez.com/
+
+ [Haut de page](#top)  
+ 
+___
+
+<a name="julien">
+
+# **La veille informatique**
+## by Julien
+---
+
+## *Rôle de la veille informatique*
+
+La veille informatique est une activité qui consiste à ce tenir informer des avancées technologiques  
+par des **outils** en se référant à des **sites** ou **applications**.  
+Bien entendu les sites doivent être viable pour éviter toutes intox.
+
+>*Précision : une veille peut concerner n'importe quels domaines, tout dépend  
+ vos centres d'intérêts.*
+
+---
+
+## *Sites et applications*
+
+  * [Google](https://www.google.com "Google")
+
+  * [Facebook](https://fr-fr.facebook.com/ "Facebook")
+
+  * [Linkedin](https://fr.linkedin.com "Linkedin")
+
+  * [Flipboard](https://flipboard.com/ "FlipBoard")
+
+  * [Netvibes](https://www.netvibes.com "Netvibes")
+
+  * [Github](https://github.com "Github")
+
+>Il y en a plein d'autres encore, chercher ceux qui vous correspondent le plus  
+ et avec lesquels vous vous sentez alaise.
+
+
+---
+
+## *Outils d'alertes*
+
+Les outils d'alertes permettront d'être informer en direct des avancées par  
+des alertes.
+
+1. Google alertes
+2. TalkWalker Alertes
+3. Mention
+4. Feedly
+5. Scoop it
+
+> Comme pour les sites et applications chacun est libre de choisir l'outil qui  
+lui correspond le mieux.
+
+---
+
+# Félicitation ! ! !
+
+###  _**Vous savez désormais ce qu'est une veille informatique.**_
+
+![groot image](https://media.giphy.com/media/7rj2ZgttvgomY/giphy.gif)
+
+>Avec les compliments de Julien (intégrateur/développeur Web) de MA6-T Va Coder.
+
+ [Haut de page](#top)  
+ 
+***
+
+<a name="sarah">
+
+# Sarah_Veille Numérique
+
+# L'hologramme
+
+**Définition d'un hologramme** :
+
+L’hologramme est le produit de l'holographie. Il s'agit historiquement d'un procédé de photographie en relief. Aujourd'hui, un hologramme représente une image en trois dimensions apparaissant comme « suspendue en l'air ». Le mot hologramme provient du grec « holos » (« en entier ») et « graphein » (« écrire »).
+
+Les hologrammes :
+Récemment un developpeur habitant en Floride a créée une version holographique de cortana. Elle s'appuie sur la technologie du Pepper Ghost, elle marche sur la version Cortana incluse dans windows 10. A partir d’un appareil doté de 4GB de RAM et d’un Arduino qui contrôle les lumière du système — doté d’un haut-parleur intégré et de plusieurs composants imprimés en 3D. Le jeu de miroir mis en place permet de faire apparaître cette version féminine de Cortana, dont la gestuelle s’appuie de la capture de mouvement réalisée par la femme du developpeur à l’aide de deux Kinect. Le résultat final a été modélisé à l’aide de l’appli d’animation Unity.
+
+<iframe width="1000" height="562" src="https://www.youtube.com/embed/fggE3VI3NRg" frameborder="0" allowfullscreen></iframe>
+
+ [Haut de page](#top)  
+
+***
+
+<a name="barbara">
+
 # Barbara - Veille numérique
 
 ## La mortalité des abeilles
@@ -39,7 +263,11 @@ Le 22 novembre 2016, le gouvernement annonce prendre une nouvelle série de mesu
 
  * Ségolène Royal appelle à développer la recherche contre le frelon asiatique, et souligne que son ministère finance les travaux du Muséum d'histoire naturelle et l'Institut national de recherche agronomique.
 
+ [Haut de page](#top)  
+ 
 ***
+
+<a name="corinne">
 
 # Corinne outil de veille
 ## netvibes
@@ -65,7 +293,11 @@ Netvibes permets de créer :
 | ------------- | ------- | ---------------- |
 | Tarik krim | 15 septembre 2005 | 10 millions |
 
+ [Haut de page](#top)  
+ 
 ***
+
+<a name="sandra">
 
 # sandra - veille numérique.
 
@@ -95,7 +327,11 @@ En ce qui concerne les vagues de chaleur nous sommes à court d'options pour l'a
 
 **_La situation pourrait être pire si les émissions de gaz à effet de serre ne sont pas considérablement réduites...._**
 
+ [Haut de page](#top)  
+
 ***
+
+<a name="yannick">
 
 #    **_Article de veille numérique Yannick Bley_**
 
@@ -121,7 +357,10 @@ La vague touchera tout le monde, les entreprises, les industries, le commerce de
  >Le « Projet du cerveau humain », programme scientifique d'envergure, vise à simuler le fonctionnement du cerveau humain grâce à un superordinateur. L'horizon fixé est 2024. Il servirait à mettre au point de nouvelles thérapies médicales plus efficaces contre les maladies neurologiques. Mené par le neuroscientifique israélien Henry Markram, il prévoit d'étudier le fonctionnement du cerveau par rétro-ingénierie, une approche consistant à étudier un objet pour en déterminer le fonctionnement interne ou la méthode de fabrication.
  >
 
+ [Haut de page](#top)  
+
 ***
+<a name="hadi">
 
 #   Responsive Web Design
 ## by Hadi
@@ -158,7 +397,11 @@ Il décrira par la suite sa théorie et pratique du responsive dans son ouvrage 
 
 **_[click ici pour comprendre  le responsive video ](http://www.google.fr "acceuil de google")_**
 
+ [Haut de page](#top)  
+
 ***
+
+<a name="ramsi">
 
 # Le Design Thinking   
 #### by Ramsi Ferkous
@@ -200,4 +443,9 @@ Quand j’ouvre un projet historique
 
 ![Groot image](http://ljdchost.com/nDmdJau.gif)(http://lesjoiesducode.fr/)
 
+ [Haut de page](#top)  
+
 ***
+
+<a name="foot">
+

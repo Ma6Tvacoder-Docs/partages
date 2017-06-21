@@ -1,6 +1,5 @@
 # Les languages de programmation :
 
-# PHP
 ![php image](http://mitu.co.in/wp-content/uploads/2015/11/php.png)
 
 **Qu'est-ce que PHP:**

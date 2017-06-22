@@ -17,3 +17,5 @@ Sans Ajax, on verra la page qui se recharge après avoir récupéré les départ
 **2** xhrj.open('GET', 'modele/listededepartements.php?id_region=3';  
 **3** xhrj.send(null);  
 **4** pr = xhr.responseText;
+
+https://openclassrooms.com/courses/ajax-et-l-echange-de-donnees-en-javascript/le-concept-d-ajax#/id/r-244366

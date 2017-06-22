@@ -7,7 +7,7 @@
  **Définition de NodeJS**
 
  **NodeJ**S n'est pas un langage de programmation , ni un framework Javascript.
-** Node JS** est une plate-forme de programmation permettanbt d'executer du **Javascript** coté serveur.
+** Node JS** est une plate-forme de programmation permettant d'executer du **Javascript** coté serveur.
    * **Javascript avant NODEJS**
 
        Auparavant, **Javascript** ne pouvait s'executer qu'à partir du navigateur web pour effectuer des actions sur une page web. Un langage serveur du type PHP devait générer la page HTML pour que le navigateur web puisse coder en Javascript pour faire des manipulation sur la page HTML.

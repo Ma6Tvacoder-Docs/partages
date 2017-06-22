@@ -1,6 +1,6 @@
-#Sommaire
+# Sommaire
 
-##Principes de base
+## Principes de base
 
 - On travaile **_toujours_** dans un répertoire __raçine__ qui se nomme **htdocs/**, **_et_** qui se situe dans votre **explorateur de fichiers** ici : _c/:xampp
 
@@ -15,13 +15,14 @@
 ---
 
 <a name="exo01">
-###Exo 1
+
+### Exo 1
 
 Produire un document en html de ce que vous avez compris sur le cours de la journée d'hier sur l'introduction au langage HTML :
 - qu’est-ce que le html, 
 - ce que vous en déduisez et ce que vous comprenez de son fonctionnement. 
 
-#####Pour cela :
+##### Pour cela :
 1. créer un répertoire HTML-CSS sur votre Github en-ligne  **avec un fichier Readme.md** expliquant qu’ici va se trouver les bases d’apprentissage du langage HTML.
 
 2. effectuer une mise à jour (ou MAJ) en ligne sur votre répertoire GitHub en fin de journée afin d’avoir une trace avec le dossier correspondant. (pull request)
@@ -29,7 +30,8 @@ Produire un document en html de ce que vous avez compris sur le cours de la jour
 ---
 
 <a name="exo02">
-###Exo 2
+
+### Exo 2
 
 Réaliser un fichier HTML qui aura cette apparence :
 
@@ -37,11 +39,12 @@ Bonjour, bonne année **2017**, bonne santé et surtout : _Meilleurs vœux !_
 
 ---
 <a name="exo03">
-###Exo 3
+
+### Exo 3
 
 Réaliser un fichier HTML qui aura l’apparence suivante :
 
-#Mon repas de Noël
+# Mon repas de Noël
 
 J’ai eu la chance d’avoir un repas de Noël _excellent_, puisqu’il était composé des plats
 suivants :
@@ -64,11 +67,11 @@ Après, j'ai pu déballer tous mes cadeaux :
 ---
 <a name="exo04">
 
-###Exo 4
+### Exo 4
 
 Réaliser un fichier HTML nommé "exo_04.html" dans lequel il faudra obtenir l'affichage suivant avec le navigateur :
 
-#HTML - Exo 4
+# HTML - Exo 4
 
 1. HTML: HyperText Markup Language
   - c'est la structure de la page html où on organise les titres, paragraphes, listes, tableaux...

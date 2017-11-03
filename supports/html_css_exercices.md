@@ -91,14 +91,15 @@ Réaliser un fichier HTML nommé "exo_04.html" dans lequel il faudra obtenir l'a
 4. Structure
   - un fichier HTML est un fichier de texte brut (non mis en forme) enregistré avec l'extension _.html_.
   - tous les fichiers html ont une structure de base qui implique de déclarer les éléments suivants :
+  
     ```
-  <!DOCTYPE html>
-    <html>
-      <head></head>
-      <body>
-    
-      </body>
-    </html>
+     <!DOCTYPE html>
+      <html>
+        <head></head>
+        <body>
+
+        </body>
+      </html>
     ```
     
   - **!DOCTYPE html** informe le navigateur web que le document est de type html et qu'il s'agit (ici) de la dernière version du langage

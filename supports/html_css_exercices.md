@@ -108,7 +108,7 @@ Réaliser un fichier HTML nommé "exo_04.html" dans lequel il faudra obtenir l'a
   - les balises en paires comportent une balise ouvrante et une balise fermante indiquant pour chacune le début et la fin de l'élément correspondant.
   - les balises auto-fermantes correspondent à des éléments ponctuels dans une page html, pas besoin de fournir une information de fin (insérer une image ou un lien par exemple). Les plus courantes :
   
-  ```
+    ```
     <br />
     <img />
     <meta />

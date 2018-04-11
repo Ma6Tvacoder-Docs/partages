@@ -119,3 +119,11 @@ Réaliser un fichier HTML nommé "exo_04.html" dans lequel il faudra obtenir l'a
     ```
     
 5. Le W3C - La validation du code
+
+Le **World Wide Web Consortium**, abrégé par le sigle **W3C**, est un organisme de standardisation à but non lucratif, fondé en octobre 1994 chargé de promouvoir la compatibilité des technologies du [World Wide Web](https://fr.wikipedia.org/wiki/World_Wide_Web) telles que [HTML5](https://fr.wikipedia.org/wiki/HTML5), [HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language), [CSS](https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade), [PNG](https://fr.wikipedia.org/wiki/Portable_Network_Graphics), [SVG](https://fr.wikipedia.org/wiki/Portable_Network_Graphics)…
+ 
+Le [W3C ou World Wide Web Consortium](http://www.w3.org), est un organisme international qui développe des [standards](http://www.w3.org/standards/) pour le Web afin que les gens puissent communiquer efficacement à travers Internet, autour de formats ouverts garantissant une meilleure interopérabilité (c'est-à-dire une meilleure compréhension des systèmes hétérogènes à travers des données et langages standardisés).
+
+Le consortium existe depuis 1994 et est dirigé par l'inventeur du Web, Tim Berners-Lee.
+   
+Il est composé d'une équipe fixe et des membres (dont plusieurs centaines d'entreprises partenaires). Les membres délèguent des ingénieurs au sein du W3C et participent ainsi à l'élaboration des spécifications techniques pour les technologies du Web. De nombreux membres actifs font partie des équipes de développement des navigateurs (Microsoft, Mozilla, Apple, Opera, Google, etc).

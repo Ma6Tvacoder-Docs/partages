@@ -71,6 +71,8 @@ Après, j'ai pu déballer tous mes cadeaux :
 
 Réaliser un fichier HTML nommé "exo_04.html" dans lequel il faudra obtenir l'affichage suivant avec le navigateur :
 
+N’oubliez pas de lire aussi le contenu, il fait partie des informations de base que tout développeur intégrateur web maîtrise. Les liens sont accessibles dans Le repo GitHub de Ma6Tvacoder.
+
 # HTML - Exo 4
 
 1. HTML: HyperText Markup Language

@@ -71,7 +71,7 @@ Passer de la branche _mabranche_ à la branche _master_ | **git checkout `master
    - rentrer dans le dossier dans lequel on veut copier ce repo (htdocs)
    - on n'oublie pas les commandes binaires comme `cd` ou `../` et `pwd` ou `ls`...
    - cloner le repo depuis la plateforme GitHub sur son PC en local :
-      + `git clone https://github.com/PSEUDO_GitHub/REPO_GitHub.git``
+      + `git clone https://github.com/PSEUDO_GitHub/REPO_GitHub.git`
    - on se positionne ensuite dans ce nouveau dossier sur le PC :
       + `cd REPO_GitHub`
 4. je travaille dans mon dossier avec mon IDE (Visual, Atom, NetBeans, PHPStorm...) ou mon éditeur de texte (SublimeText, Brakets, NotePad++, ...)

@@ -23,9 +23,9 @@ Produire un document en html de ce que vous avez compris sur le cours de la jour
 - ce que vous en déduisez et ce que vous comprenez de son fonctionnement. 
 
 ##### Pour cela :
-1. créer un répertoire HTML-CSS sur votre Github en-ligne  **avec un fichier Readme.md** expliquant qu’ici va se trouver les bases d’apprentissage du langage HTML.
+1. créer un répertoire EXPS dans votre dossier en local HTML-CSS.
 
-2. effectuer une mise à jour (ou MAJ) en ligne sur votre répertoire GitHub en fin de journée afin d’avoir une trace avec le dossier correspondant. (pull request)
+2. effectuer une mise à jour (ou MAJ) en ligne sur votre répertoire GitHub en fin de journée afin d’avoir une trace avec le dossier correspondant.
 
 ---
 

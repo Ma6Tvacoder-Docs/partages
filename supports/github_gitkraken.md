@@ -78,9 +78,9 @@ Passer de la branche _mabranche_ à la branche _master_ | **git checkout `master
 5. puis je retourne sur le CLI (Git Bash) pour mettre à jour mon dossier local 
    - `git status` pour vérifier que mes changements ont bien été détectés
    - `git add *` ajoute mes dernières modifications au **tracking** ou **suivi de version**
-   - `git commit -m 'description des modifications'`
+   - `git commit -m 'description des modifications'` qui prend un *instanté photo* de ma dernière version de mon dossier
 6. enfin, je mets en ligne sur GitHub ces changements
-   - `git push origin master`:
+   - `git push origin master` :
       + `git push ...`  pour mettre en ligne sur GitHub
       + `... origin ...` désigne mon repo sur GitHub
       + `... master` spécifie la branche sur laquelle je mets mon travail (`master` est la branche principale créée par défaut)

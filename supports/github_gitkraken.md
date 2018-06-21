@@ -1,7 +1,7 @@
-#GitHub, Github Desktop, GitKraken, en terminal de commande [Git Bash, terminal, cmder, iterm (sous Mac), Vim...]
-#Les équivalences sur les différents outils - Step by step
+# GitHub, Github Desktop, GitKraken, en terminal de commande [Git Bash, terminal, cmder, iterm (sous Mac), Vim...]
+# Les équivalences sur les différents outils - Step by step
 
-####Remarque : toutes les actions se font dans le dossier ou répertoire de travail concerné.
+#### Remarque : toutes les actions se font dans le dossier ou répertoire de travail concerné.
 
 **Soyons vigilants** : les **noms** des **dossiers/répertoires** et des **fichiers** sont **tous** :
 - en **MINUSCULES**
@@ -11,12 +11,12 @@
 
 ---
 
-###Ce fichier n'est pas finalisé, il à vocation à évoluer avec votre prise en main des différents outils (GitHub, Github Desktop, GitKraken et bien évidemment la console (terminal, cmder, iterm...) 
-###Son évolution s'enrichit des expériences de chacun... Alors contribuez TOUS ... eh oui ce qui ne marche pas :scream: est aussi utile à savoir pour utiliser le meilleur outil :sunglasses: !
+### Ce fichier n'est pas finalisé, il à vocation à évoluer avec votre prise en main des différents outils (GitHub, Github Desktop, GitKraken et bien évidemment la console (terminal, cmder, iterm...) 
+### Son évolution s'enrichit des expériences de chacun... Alors contribuez TOUS ... eh oui ce qui ne marche pas :scream: est aussi utile à savoir pour utiliser le meilleur outil :sunglasses: !
 
 ---
 
-###Feuille de route :
+### Feuille de route :
 
 - [x] lire **_l'ensemble_** du fichier, ...puis...
 - [x] créer un **nouveau** repository sur **son GitHub personnel** que l'on appelle _fantome_ [ATTENTION, on le créé avec son fichier _readme.md_ renseigné (par exemple "tester les commandes GitHub, Github Desktop, GitKraken et avec le CLI _c'est-à-dire en mode Terminal de commande"_)

@@ -23,7 +23,7 @@ Produire un document en html de ce que vous avez compris sur le cours de la jour
 - ce que vous en déduisez et ce que vous comprenez de son fonctionnement. 
 
 ##### Pour cela :
-1. créer un répertoire EXPS dans votre dossier en local HTML-CSS.
+1. créer un répertoire EXOS dans votre dossier en local HTML-CSS.
 
 2. effectuer une mise à jour (ou MAJ) en ligne sur votre répertoire GitHub en fin de journée afin d’avoir une trace avec le dossier correspondant.
 

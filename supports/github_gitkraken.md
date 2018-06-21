@@ -37,7 +37,7 @@
 
 Actions | Terminal (ou cmder par ex.) | GitHub | Github Desktop | GitKraken | Sous Mac (Terminal ou iterm)
 --- | --- | --- | --- | --- | ---
-**En local** aller sur le répertoire _raçine C://_ | cd../.. | :imp: | | :imp: | cd.. ne fonctionne PAS aussi => indiquer **cd/tous/les/répertoires à parcourir** à CHAQUE instruction **cd/XXX**
+**En local** aller sur le répertoire _raçine C://_ | cd../.. | :imp: | :imp: | :imp: | cd.. ne fonctionne PAS aussi => indiquer **cd/tous/les/répertoires à parcourir** à CHAQUE instruction **cd/XXX**
 **En local** rentrer dans le répertoire de travail `htdocs` de xampp | cd xampp\htdocs | :imp: | | :octocat: | cd /Applications/xampp/htdocs
 Vérifier le répertoire en cours d'utilisation **sous MAC ou autre** | **pwd** | **pwd** | | **pwd** | **pwd** pour Present Writing Directory
 Créer un _dossier_ | **mkdir** mondossier | :imp: | | :imp: | :octocat:
@@ -45,7 +45,7 @@ _(Ré-)_ Initialiser le tracking d'un _dossier_ | **git init** | :imp: | | Aller
 Créer un _fichier_ | **touch** monfichier.ext | bouton `create new file` | | :octocat: | :octocat: | :octocat:
 Voir les sous-dossiers | **ls** _qui est l'abbréviation anglaise de `list subfiles`_ | :imp: | | :imp: | :octocat:
 Voir les sous-dossiers **cachés** | **ls -a** | :imp: | | :imp: | :octocat:
-Vérifier l'état des dossiers et fichiers trakés avec git | **git status** | Actualiser la page en cliquer sur le bouton actualiser ou en appuyant F5  | | Aller dans Fichiers > Check for Updates  | :octocat:
+Vérifier l'état des dossiers et fichiers trakés avec git | **git status** | Actualiser la page en cliquant sur le bouton actualiser ou en appuyant F5  | | Aller dans Fichiers > Check for Updates  | :octocat:
 Cloner un _repository_ de GitHub pour travailler en local | **git clone** https://monrepo | :imp: | | Aller dans Fichiers > Clone Repo Choisir un dossier ou l'on veut cloner et mettre l'url du repository | :octocat:
 Ajouter _tous_ les fichiers _modifiés_ au tracking | __git add `*`__ ou **git add .** | :imp: | | :octocat: | :octocat:
 Ajouter _un_ fichier _modifié_ au tracking | **git add `monfichier.ext`** | :imp: | | :octocat: | :octocat:
@@ -58,3 +58,44 @@ Passer de la branche _master_ à la branche _mabranche_ | **git checkout `mabran
 Passer de la branche _mabranche_ à la branche _master_ | **git checkout `master`** | Voir ci-dessus | | Clique droit sur la branche **"nom de votre branche"** > Checkout **"nom de votre branche"**. | :octocat:
 
 
+---
+
+## Aide-mémoire - les étapes pas à pas pour **créer** et _**mettre à jour**_ un dossier / repository
+
+## 1. Avec le CLI 
+#### (Instruction en Ligne de Commande ou Command Line Interface)
+
+1. créer un **nouveau** dossier / repo sur GitHub
+2. toujours sur GitHub dans ce nouveau dossier cliquer sur _**CLONE OR DOWNLOAD**_ puis cliquer sur l'icône presse-papier pour copier le lien en mémoire
+3. avec le CLI (Git Bash) :
+   - rentrer dans le dossier dans lequel on veut copier ce repo (htdocs)
+   - on n'oublie pas les commandes binaires comme `cd` ou `../` et `pwd` ou `ls`...
+   - cloner le repo depuis la plateforme GitHub sur son PC en local :
+      + `git clone https://github.com/PSEUDO_GitHub/REPO_GitHub.git``
+   - on se positionne ensuite dans ce nouveau dossier sur le PC :
+      + `cd REPO_GitHub`
+4. je travaille dans mon dossier avec mon IDE (Visual, Atom, NetBeans, PHPStorm...) ou mon éditeur de texte (SublimeText, Brakets, NotePad++, ...)
+5. puis je retourne sur le CLI (Git Bash) pour mettre à jour mon dossier local 
+   - `git status` pour vérifier que mes changements ont bien été détectés
+   - `git add *` ajoute mes dernières modifications au **tracking** ou **suivi de version**
+   - `git commit -m 'description des modifications'`
+6. enfin, je mets en ligne sur GitHub ces changements
+   - `git push origin master`:
+      + `git push ...`  pour mettre en ligne sur GitHub
+      + `... origin ...` désigne mon repo sur GitHub
+      + `... master` spécifie la branche sur laquelle je mets mon travail (`master` est la branche principale créée par défaut)
+
+## 2. Avec GitHub Desktop
+
+
+
+---
+
+## Aide-mémoire - les étapes pas à pas pour **mettre sur GitHub** un _**dossier/ projet de site**_ déjà créé en local sur mon PC 
+
+## 1. Avec le CLI 
+#### (Instruction en Ligne de Commande ou Command Line Interface)
+
+
+
+## 2. Avec GitHub Desktop
